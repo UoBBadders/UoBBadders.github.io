@@ -19,7 +19,7 @@ module.exports = function(grunt) {
           "Promise": false,
           "alert": false
         },
-        ignores: ['node_modules/**/*.js']
+        ignores: ['node_modules/**/*.js', 'bower_components/**/*.js']
       }
     },
     // Compile Less to CSS
