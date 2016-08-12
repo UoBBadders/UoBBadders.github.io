@@ -1,0 +1,30 @@
+{
+  "name": "uobbadminton",
+  "version": "1.0.0",
+  "description": "UoB Badminton society website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UoBBadders/UoBBadminton.git"
+  },
+  "author": "Mike Christensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UoBBadders/UoBBadminton/issues"
+  },
+  "homepage": "https://github.com/UoBBadders/UoBBadminton#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.0",
+    "grunt-nodemon": "^0.4.2"
+  }
+}

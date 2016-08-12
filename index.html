@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <base href="/">
+    <title>UoB Badminton</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="/assets/images/icons/favicon.ico" />
+    <!-- Browser bar colours on mobile -->
+    <meta name="theme-color" content="#b01c2e" />
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/styles/app.css">
+  </head>
+  <body ng-app="badmintonApp">
+    <nav-bar></nav-bar>
+    <div class="full-page">
+      <div id="header" ng-include src="'/sections/header/header.view.html'"></div>
+    </div>
+
+    <!-- DEPENDENCIES -->
+    <script src="/node_modules/angular/angular.min.js"></script>
+    <script src="/node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
+
+    <!-- ROOT -->
+    <script src="app.js"></script>
+    <script src="components/nav-bar/nav-bar.directive.js"></script>
+  </body>
+</html>
