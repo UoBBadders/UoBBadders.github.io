@@ -12,6 +12,7 @@
     <!-- Browser bar colours on mobile -->
     <meta name="theme-color" content="#b01c2e" />
     <!-- App Styles -->
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
     <link rel="stylesheet" href="assets/styles/app.css">
   </head>
   <body ng-controller="appController">
@@ -23,12 +24,14 @@
       <div id="membership" ng-include src="membershipUrl"></div>
       <div id="events" ng-include src="eventsUrl"></div>
       <div id="gallery" ng-include src="galleryUrl"></div>
-      <div id="contact" ng-include src="contactUrl"></div>
+      <div id="contact" ng-include src="contactUrl" ng-controller="contactController"></div>
     </div>
 
     <!-- DEPENDENCIES -->
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.1/angular-ui-router.min.js"></script>
+    <script src="node_modules/angular-leaflet-directive.min.js"></script>
 
     <!-- ROOT -->
     <script src="app.js"></script>
@@ -37,5 +40,6 @@
     <script src="sections/header/header.controller.js"></script>
     <script src="components/section-header/section-header.directive.js"></script>
     <script src="sections/team/team.controller.js"></script>
+    <script src="sections/contact/contact.controller.js"></script>
   </body>
 </html>

@@ -1,7 +1,7 @@
 /* jshint strict:false */
 'use strict';
 
-var app = angular.module('badmintonApp', ['ui.router', 'config']);
+var app = angular.module('badmintonApp', ['ui.router', 'config', 'leaflet-directive']);
 
 // configure base URL for the environment
 app.run(['$rootScope', 'ENV', function($rootScope, ENV) {
