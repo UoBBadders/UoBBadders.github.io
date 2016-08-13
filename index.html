@@ -13,12 +13,12 @@
     <!-- App Styles -->
     <link rel="stylesheet" href="assets/styles/app.css">
   </head>
-  <body>
+  <body ng-controller="appController">
     <nav-bar></nav-bar>
     <div class="full-page">
-      <div id="header" ng-include src="{{ baseUrl }} + '/sections/header/header.view.html'" ng-controller="headerController"></div>
-      <div id="about" ng-include src="{{ baseUrl }} + '/sections/about/about.view.html'"></div>
-      <div id="team" ng-include src="{{ baseUrl }} + '/sections/team/team.view.html'" ng-controller="teamController"></div>
+      <div id="header" ng-include src="headerUrl" ng-controller="headerController"></div>
+      <div id="about" ng-include src="aboutUrl"></div>
+      <div id="team" ng-include src="teamUrl" ng-controller="teamController"></div>
     </div>
 
     <!-- DEPENDENCIES -->
