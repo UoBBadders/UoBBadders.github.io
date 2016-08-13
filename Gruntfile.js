@@ -74,7 +74,9 @@ module.exports = function(grunt) {
     },
     // execute shell commands
     exec: {
-      serve: 'node server.js'
+      serve: 'node server.js',
+      commit: 'git add -u && git commit -m "automatic build commit"',
+      publish: 'git checkout gh-pages && git merge master && git push origin gh-pages && git checkout master'
     }
   });
 
@@ -84,4 +86,5 @@ module.exports = function(grunt) {
   */
   grunt.registerTask('build', ['jshint', 'less']);
   grunt.registerTask('serve', ['build', 'concurrent:serve']);
+  grunt.registerTask('publish', ['jshint', 'less', 'exec:commit', 'exec:publish']);
 };
