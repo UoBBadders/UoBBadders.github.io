@@ -16,9 +16,9 @@
   <body>
     <nav-bar></nav-bar>
     <div class="full-page">
-      <div id="header" ng-include src="'sections/header/header.view.html'" ng-controller="headerController"></div>
-      <div id="about" ng-include src="'sections/about/about.view.html'"></div>
-      <div id="team" ng-include src="'sections/team/team.view.html'" ng-controller="teamController"></div>
+      <div id="header" ng-include src="{{ baseUrl }} + '/sections/header/header.view.html'" ng-controller="headerController"></div>
+      <div id="about" ng-include src="{{ baseUrl }} + '/sections/about/about.view.html'"></div>
+      <div id="team" ng-include src="{{ baseUrl }} + '/sections/team/team.view.html'" ng-controller="teamController"></div>
     </div>
 
     <!-- DEPENDENCIES -->
