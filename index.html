@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="badmintonApp">
   <head>
     <meta charset="utf-8">
-    <base href="/">
+    <base ng-href="{{ baseUrl }}">
     <title>UoB Badminton</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,7 +13,7 @@
     <!-- App Styles -->
     <link rel="stylesheet" href="/assets/styles/app.css">
   </head>
-  <body ng-app="badmintonApp">
+  <body>
     <nav-bar></nav-bar>
     <div class="full-page">
       <div id="header" ng-include src="'/sections/header/header.view.html'" ng-controller="headerController"></div>
@@ -27,6 +27,7 @@
 
     <!-- ROOT -->
     <script src="app.js"></script>
+    <script src="config.js"></script>
     <script src="components/nav-bar/nav-bar.directive.js"></script>
     <script src="sections/header/header.controller.js"></script>
     <script src="components/section-header/section-header.directive.js"></script>
