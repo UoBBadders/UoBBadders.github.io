@@ -5,6 +5,7 @@ var app = angular.module('badmintonApp', ['ui.router', 'config']);
 
 // configure base URL for the environment
 app.run(['$rootScope', 'ENV', function($rootScope, ENV) {
+  console.log("ENVIRONMENT: %j", ENV);
   $rootScope.baseUrl = ENV.baseUrl;
 }]);
 
