@@ -3,7 +3,7 @@ app.controller('headerController', function($scope) {
   // TODO: animate header.
   // Strategy: instead of switching image urls, fade top image to 0 opacity, then set bottom image as top image (z-index).
   // Should be down in directive.
-  $scope.images = ['/assets/images/cover1.jpg', '/assets/images/cover2.jpg'];
+  $scope.images = ['assets/images/cover1.jpg', 'assets/images/cover2.jpg'];
   $scope.idx = 0;
 
   function mod(x, m) {

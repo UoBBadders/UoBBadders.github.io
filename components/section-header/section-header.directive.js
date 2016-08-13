@@ -6,6 +6,6 @@ app.directive('sectionHeader', function() {
     scope: {
       title: '&'
     },
-    templateUrl: '/components/section-header/section-header.view.html'
+    templateUrl: 'components/section-header/section-header.view.html'
   };
 });
