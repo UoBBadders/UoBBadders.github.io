@@ -20,4 +20,5 @@ app.controller('appController', ['$rootScope', '$scope', function($rootScope, $s
   $scope.headerUrl = prepend + '/sections/header/header.view.html';
   $scope.aboutUrl = prepend + '/sections/about/about.view.html';
   $scope.teamUrl = prepend + '/sections/team/team.view.html';
+  $scope.membershipUrl = prepend + '/sections/membership/membership.view.html';
 }]);

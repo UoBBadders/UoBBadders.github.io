@@ -44,3 +44,32 @@ input, textarea {
   width: 100%;
   height: 100%;
 }
+
+a div.button {
+  position: relative;
+  height: 50px;
+  background-color: @university-black;
+  border-radius: 5px;
+
+  &:hover {
+    cursor: pointer;
+    box-shadow: @shadow3;
+  }
+
+  span {
+    line-height: 50px;
+    color: #fff;
+    letter-spacing: 5px;
+    font-weight: 600;
+    padding-left: 40px;
+  }
+
+  img {
+    position: absolute;
+    top: 50%;
+    right: 40px;
+    transform: translateY(-50%);
+    height: 20px;
+    width: auto;
+  }
+}
