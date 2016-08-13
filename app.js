@@ -21,4 +21,6 @@ app.controller('appController', ['$rootScope', '$scope', function($rootScope, $s
   $scope.aboutUrl = prepend + '/sections/about/about.view.html';
   $scope.teamUrl = prepend + '/sections/team/team.view.html';
   $scope.membershipUrl = prepend + '/sections/membership/membership.view.html';
+  $scope.eventsUrl = prepend + '/sections/events/events.view.html';
+  $scope.galleryUrl = prepend + '/sections/gallery/gallery.view.html';
 }]);

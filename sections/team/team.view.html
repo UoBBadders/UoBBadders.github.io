@@ -3,7 +3,7 @@
   <h2>COMMITTEE</h2>
   <ul>
     <li ng-repeat="member in committee">
-      <img src="{{ member.imageUrl }}">
+      <img ng-src="{{ member.imageUrl }}">
       <h3>{{ member.name }}</h3>
       <h4>{{ member.position }}</h4>
       <h4>{{ member.email }}</h4>
@@ -12,7 +12,7 @@
   <h2>CAPTAINS</h2>
   <ul>
     <li ng-repeat="captain in captains">
-      <img src="{{ captain.imageUrl }}">
+      <img ng-src="{{ captain.imageUrl }}">
       <h3>{{ captain.name }}</h3>
       <h4>{{ captain.position }}</h4>
       <h4>{{ captain.email }}</h4>
