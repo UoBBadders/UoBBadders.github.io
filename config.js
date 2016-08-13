@@ -2,6 +2,6 @@
 
  angular.module('config', [])
 
-.constant('ENV', {name:'local',baseUrl:'/'})
+.constant('ENV', {name:'production',baseUrl:'/UoBBadminton'})
 
 ;

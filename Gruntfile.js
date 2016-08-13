@@ -76,6 +76,7 @@ module.exports = function(grunt) {
     // execute shell commands
     exec: {
       serve: 'node server.js',
+      commit: 'git add -u && git commit -m "automatic build commit"',
       publish: 'git checkout gh-pages && git merge master && git push origin gh-pages && git checkout master'
     },
     // generate an 'config' angular module which defines the
@@ -121,5 +122,5 @@ module.exports = function(grunt) {
   grunt.registerTask('build:local', ['ngconstant:local', 'jshint', 'less']);
   grunt.registerTask('build:production', ['ngconstant:production', 'jshint', 'less']);
   grunt.registerTask('serve', ['build:local', 'concurrent:serve']);
-  grunt.registerTask('publish', ['build:production', 'exec:publish']);
+  grunt.registerTask('publish', ['build:production', 'exec:commit', 'exec:publish']);
 };
