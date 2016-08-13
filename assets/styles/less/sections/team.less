@@ -1,0 +1,45 @@
+div#team {
+  div#container {
+    width: @section-width;
+    margin: auto;
+    padding: 20px 0;
+
+    h2 {
+      text-align: center;
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 10px;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      text-align: center;
+      margin-bottom: 40px;
+      li {
+        display: inline-block;
+        margin: 0 20px;
+
+        img {
+          width: 200px;
+          height: auto;
+          border-radius: 50%;
+        }
+        h3 {
+          font-weight: 600;
+          font-size: 16px;
+          margin: 5px 0;
+        }
+        h4 {
+          font-weight: 400;
+          font-size: 14px;
+          margin: 5px 0;
+
+          &:first-of-type {
+            font-style: italic;
+            text-transform: uppercase;
+          }
+        }
+      }
+    }
+  }
+}
