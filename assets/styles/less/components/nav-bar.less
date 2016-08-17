@@ -60,12 +60,15 @@ nav {
         height: 100%;
         box-sizing: border-box;
         padding: 0 15px;
-        border-bottom: 4px solid @university-red;
         line-height: calc(@nav-bar-height - 10px);
         font-size: 14px;
         font-weight: 400;
         color: #fff;
         text-transform: uppercase;
+
+        &.selected {
+          border-bottom: 4px solid @university-red;
+        }
       }
     }
   }
