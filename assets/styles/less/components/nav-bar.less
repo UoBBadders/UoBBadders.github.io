@@ -24,20 +24,22 @@ nav {
     padding: 0 20px;
     padding-top: 5px;
 
-    img#logo {
-      height: calc(~'100% - 10px');
-      width: auto;
-      margin-right: 10px;
-      vertical-align: middle;
-    }
+    a {
+      img#logo {
+        height: calc(~'100% - 10px');
+        width: auto;
+        margin-right: 10px;
+        vertical-align: middle;
+      }
 
-    h1 {
-      display: inline-block;
-      font-size: 20px;
-      font-weight: 300;
-      color: #fff;
-      margin-right: 5px;
-      vertical-align: middle;
+      h1 {
+        display: inline-block;
+        font-size: 20px;
+        font-weight: 300;
+        color: #fff;
+        margin-right: 5px;
+        vertical-align: middle;
+      }
     }
 
     a img.social {
@@ -66,7 +68,7 @@ nav {
         color: #fff;
         text-transform: uppercase;
 
-        &.selected {
+        &:hover {
           border-bottom: 4px solid @university-red;
         }
       }

@@ -18,7 +18,7 @@ app.directive('imageSlider', ['$timeout', '$interval', function($timeout, $inter
       function wrap(idx, len) {
         if(idx < 0) idx = len + idx;
         return idx % len;
-      };
+      }
 
       $scope.getImage = function(which) {
         if(which == 'A') {
