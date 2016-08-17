@@ -1,6 +1,6 @@
 <div class="image-slider">
-  <div style="background-image: url('{{ getImageUrl(0) }}');" ng-class="{ 'transparent': isTransparent(0), 'top': currentTop == 0 }"></div>
-  <div style="background-image: url('{{ getImageUrl(1) }}');" ng-class="{ 'transparent': isTransparent(1), 'top': currentTop == 1 }"></div>
+  <div style="background-image: url('{{ getImage('A') }}');" ng-class="{ 'transparent': isTransparent('A'), 'top': currentTop == 'A' }"></div>
+  <div style="background-image: url('{{ getImage('B') }}');" ng-class="{ 'transparent': isTransparent('B'), 'top': currentTop == 'B' }"></div>
   <img class="left" src="assets/images/icons/black/arrow-left.png" ng-click="prev()">
   <img class="right" src="assets/images/icons/black/arrow-right.png" ng-click="next()">
 </div>

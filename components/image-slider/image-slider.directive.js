@@ -8,66 +8,93 @@ app.directive('imageSlider', ['$timeout', '$interval', function($timeout, $inter
     },
     templateUrl: 'components/image-slider/image-slider.view.html',
     link: function($scope) {
-      $scope.topIdx = 1;
-      $scope.bottomIdx = 0;
-      $scope.transparent = false;
-      $scope.currentTop = 0;
+      $scope.currentTop = 'A';
+      var transparentA = false;
+      var transparentB = false;
+      var idxA = 0;
+      var idxB = 1;
+      var isAnimating = false;
 
-      $scope.getImageUrl = function(idx) {
-        if(idx === 0) {
-          return $scope.imageUrls[mod($scope.topIdx, $scope.imageUrls.length)];
+      function wrap(idx, len) {
+        if(idx < 0) idx = len + idx;
+        return idx % len;
+      };
+
+      $scope.getImage = function(which) {
+        if(which == 'A') {
+          return $scope.imageUrls[wrap(idxA, $scope.imageUrls.length)];
         } else {
-          return $scope.imageUrls[mod($scope.bottomIdx, $scope.imageUrls.length)];
+          return $scope.imageUrls[wrap(idxB, $scope.imageUrls.length)];
         }
       };
 
-      $scope.isTransparent = function(idx) {
-        return $scope.transparent && $scope.currentTop == idx;
+      $scope.isTransparent = function(which) {
+        if(which == 'A') {
+          return transparentA;
+        } else {
+          return transparentB;
+        }
       };
 
-
-      function mod(x, m) {
-        return (x % m + m) % m;
-      }
-
-      // TODO: this isnt actually cycling through in order...
-
-      // set top image opacity to 0
-      // make bottom image top image
-      // set new bottom image opacity to 1
-      // increment new bottom image url
       $scope.next = function() {
-        $scope.transparent = !$scope.transparent;
-        $timeout(function () {
-          if($scope.currentTop === 0) {
-            $scope.currentTop = 1;
-          } else {
-            $scope.currentTop = 0;
-          }
-          $scope.transparent = !$scope.transparent;
+        if(isAnimating) return;
 
-          if($scope.currentTop === 0) {
-            $scope.bottomIdx = mod($scope.bottomIdx + 1, $scope.imageUrls.length);
+        // set the top image to transparent to reveal the bottom image
+        if($scope.currentTop == 'A') {
+          transparentA = true;
+        } else {
+          transparentB = true;
+        }
+        isAnimating = true;
+
+        // wait 1s for opacity animation
+        $timeout(function() {
+          isAnimating = false;
+          // move the bottom image to the top
+          // make the new bottom image no longer transparent
+          // set the new bottom image url to the image which comes after the top image's url
+          if($scope.currentTop == 'A') {
+            $scope.currentTop = 'B';
+            transparentA = false;
+            idxA = wrap(idxA + 2, $scope.imageUrls.length);
           } else {
-            $scope.topIdx = mod($scope.topIdx + 1, $scope.imageUrls.length);
+            $scope.currentTop = 'A';
+            transparentB = false;
+            idxB = wrap(idxB + 2, $scope.imageUrls.length);
           }
         }, 1000);
       };
 
       $scope.prev = function() {
-        $scope.transparent = !$scope.transparent;
-        $timeout(function () {
-          if($scope.currentTop === 0) {
-            $scope.currentTop = 1;
-          } else {
-            $scope.currentTop = 0;
-          }
-          $scope.transparent = !$scope.transparent;
+        if(isAnimating) return;
 
-          if($scope.currentTop === 0) {
-            $scope.bottomIdx = mod($scope.bottomIdx - 1, $scope.imageUrls.length);
+        // set the new bottom image url to the image which comes before the top image's url
+        if($scope.currentTop == 'A') {
+          idxB = wrap(idxB - 2, $scope.imageUrls.length);
+        } else {
+          idxA = wrap(idxA - 2, $scope.imageUrls.length);
+        }
+
+        // set the top image to transparent to reveal the bottom image
+        if($scope.currentTop == 'A') {
+          transparentA = true;
+        } else {
+          transparentB = true;
+        }
+        isAnimating = true;
+
+        // wait 1s for opacity animation
+        $timeout(function() {
+          isAnimating = false;
+          // move the bottom image to the top
+          // make the new bottom image no longer transparent
+          // set the new bottom image url to the image which comes after the top image's url
+          if($scope.currentTop == 'A') {
+            $scope.currentTop = 'B';
+            transparentA = false;
           } else {
-            $scope.topIdx = mod($scope.topIdx - 1, $scope.imageUrls.length);
+            $scope.currentTop = 'A';
+            transparentB = false;
           }
         }, 1000);
       };
