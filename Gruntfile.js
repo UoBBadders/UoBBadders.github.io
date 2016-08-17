@@ -6,7 +6,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-exec');
   grunt.loadNpmTasks('grunt-nodemon');
   grunt.loadNpmTasks('grunt-concurrent');
-  grunt.loadNpmTasks('grunt-ng-constant');
 
   // Configure tasks
   grunt.initConfig({
@@ -78,49 +77,15 @@ module.exports = function(grunt) {
       serve: 'node server.js',
       commit: 'git add -u && git commit -m "automatic build commit"',
       publish: 'git checkout gh-pages && git merge master && git push origin gh-pages && git checkout master'
-    },
-    // generate an 'config' angular module which defines the
-    // local/production variables for use by the angular app
-    ngconstant: {
-      options: {
-        space: ' ',
-        wrap: '"use strict";\n\n {\%= __ngModule %}',
-        name: 'config',
-      },
-      // local environment
-      local: {
-        options: {
-          dest: 'config.js'
-        },
-        constants: {
-          ENV: {
-            name: 'local',
-            baseUrl: '/'
-          }
-        }
-      },
-      production: {
-        options: {
-          dest: 'config.js'
-        },
-        constants: {
-          ENV: {
-            name: 'production',
-            baseUrl: '/UoBBadminton'
-          }
-        }
-      }
     }
   });
 
   /* Register main tasks.
-  **    grunt build:<env>     builds the current branch for the specified environment
-  **                          (creates config module, lints js and compiles less)
+  **    grunt build           builds the current branch (lints js and compiles less)
   **    grunt serve           build, then locally serve the web app and simultaneously watch for file changes
   **    grunt publish         build for production, merge to gh-pages and push to the repo
   */
-  grunt.registerTask('build:local', ['ngconstant:local', 'jshint', 'less']);
-  grunt.registerTask('build:production', ['ngconstant:production', 'jshint', 'less']);
-  grunt.registerTask('serve', ['build:local', 'concurrent:serve']);
-  grunt.registerTask('publish', ['build:production', 'exec:commit', 'exec:publish']);
+  grunt.registerTask('build', ['jshint', 'less']);
+  grunt.registerTask('serve', ['build', 'concurrent:serve']);
+  grunt.registerTask('publish', ['build', 'exec:commit', 'exec:publish']);
 };
