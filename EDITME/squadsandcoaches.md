@@ -52,7 +52,7 @@ Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
 Saturday | 17.00-18.30 | SEH | 6 | Social
 
-## Membership
+## Memberships
 
 - Social Membership with training top: £55
 - Social membership no top: £35
