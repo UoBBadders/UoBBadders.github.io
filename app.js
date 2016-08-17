@@ -1,7 +1,12 @@
 /* jshint strict:false */
 'use strict';
 
-var app = angular.module('badmintonApp', ['ui.router', 'config', 'duScroll', 'leaflet-directive']);
+var app = angular.module('badmintonApp', ['ui.router', 'config', 'duScroll', 'hc.marked', 'leaflet-directive']);
+
+// configure GitHub flavoured markdown
+app.config(['markedProvider', function (markedProvider) {
+  markedProvider.setOptions({ gfm: true });
+}]);
 
 // configure the router
 app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
