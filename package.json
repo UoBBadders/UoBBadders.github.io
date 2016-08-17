@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/UoBBadders/UoBBadminton#readme",
   "dependencies": {
+    "angular-marked": "^1.2.2",
     "angular-scroll": "^1.0.0",
     "express": "^4.14.0",
     "grunt": "^1.0.1",
