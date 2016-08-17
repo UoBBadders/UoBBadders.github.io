@@ -3,6 +3,9 @@ app.directive('navBar', function() {
   return {
     restrict: 'E',
     replace: true,
-    templateUrl: 'components/nav-bar/nav-bar.view.html'
+    templateUrl: 'components/nav-bar/nav-bar.view.html',
+    link: function($scope) {
+      $scope.navBarHeight = 50;
+    }
   };
 });

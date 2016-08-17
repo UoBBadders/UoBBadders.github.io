@@ -26,6 +26,14 @@ li {
 a {
   text-decoration: none;
   color: inherit;
+
+  &.link {
+    color: @link-blue;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 input, textarea, button {

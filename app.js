@@ -1,7 +1,7 @@
 /* jshint strict:false */
 'use strict';
 
-var app = angular.module('badmintonApp', ['ui.router', 'config', 'leaflet-directive']);
+var app = angular.module('badmintonApp', ['ui.router', 'config', 'duScroll', 'leaflet-directive']);
 
 // configure the router
 app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {

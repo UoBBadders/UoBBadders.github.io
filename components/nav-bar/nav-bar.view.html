@@ -10,12 +10,12 @@
 
     <ul id="nav-items">
       <!-- Comments required to prevent spaces between inline-block elements -->
-      <a><li>ABOUT</li></a><!--
-      --><a><li>TEAM</li></a><!--
-      --><a><li>MEMBERSHIP</li></a><!--
-      --><a><li>EVENTS</li></a><!--
-      --><a><li>GALLERY</li></a><!--
-      --><a><li>CONTACT</li></a>
+         <a href="#about" offset="{{ navBarHeight }}" du-smooth-scroll><li ng-class="{ 'selected': isSelected('about') }">ABOUT</li></a><!--
+      --><a href="#team" offset="{{ navBarHeight }}" du-smooth-scroll><li>TEAM</li></a><!--
+      --><a href="#membership" offset="{{ navBarHeight }}" du-smooth-scroll><li>MEMBERSHIP</li></a><!--
+      --><a href="#events" offset="{{ navBarHeight }}" du-smooth-scroll><li>EVENTS</li></a><!--
+      --><a href="#gallery" offset="{{ navBarHeight }}" du-smooth-scroll><li>GALLERY</li></a><!--
+      --><a href="#contact" offset="{{ navBarHeight }}" du-smooth-scroll><li>CONTACT</li></a>
     </ul>
   </div>
 </nav>
