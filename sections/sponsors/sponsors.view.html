@@ -1,4 +1,4 @@
 <h1>Proudly Sponsored By</h1>
 <ul>
-  <a href="http://www.fz-forza.com/" target="_blank"><li><img src="assets/images/sponsors/Fz Forza.png"></li></a>
+  <a ng-repeat="sponsor in sponsors" href="{{ sponsor.link }}" target="_blank"><li><img ng-src="{{ sponsor.imageUrl }}"></li></a>
 </ul>

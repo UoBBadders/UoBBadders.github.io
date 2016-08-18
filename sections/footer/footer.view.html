@@ -1,15 +1,9 @@
 <div id="container">
   <ul>
-    <a href="http://www.bristol.ac.uk/" target="_blank"><li>University of Bristol</li></a>
-    <a href="http://www.bristolsu.org.uk/" target="_blank"><li>UoB Students' Union</li></a>
-    <a href="http://www.bristol.ac.uk/sport/welcome/" target="_blank"><li>UoB Sport, Exercise and Health</li></a>
-    <a href="http://www.bristol.ac.uk/sport/facilities/medicine-clinic/" target="_blank"><li>UoB Sport, Exercise and Medicine Clinic</li></a>
+    <a ng-repeat="item in footerLinksLeft" href="{{ item.link }}" target="_blank"><li>{{ item.name }}</li></a>
   </ul><!--
   --><img src="assets/images/uni-logo.png"><!--
   --><ul>
-    <a href="http://www.fz-forza.com/" target="_blank"><li>Fz Forza</li></a>
-    <a href="http://www.badmintonengland.co.uk/homepage.asp" target="_blank"><li>Badminton England</li></a>
-    <a href="http://avonba.co.uk/index.php/mnulcllgs/mnubritables" target="_blank"><li>Avon and Local League</li></a>
-    <a href="http://bucs.org.uk/" target="_blank"><li>British University and College Sport</li></a>
+    <a ng-repeat="item in footerLinksRight" href="{{ item.link }}" target="_blank"><li>{{ item.name }}</li></a>
   </ul>
 </div>
