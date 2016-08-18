@@ -2,16 +2,26 @@ div#footer {
   width: 100%;
   background-color: @university-black;
   color: #fff;
-  padding: 50px 0;
 
   div#container {
-    width: @section-width;
+    width: @section-width-narrow;
+    @media all and (max-width: 1800px) {
+      width: @section-width-medium;
+    }
+    @media all and (max-width: 1200px) {
+      width: @section-width-wide;
+    }
     margin: auto;
+    box-sizing: border-box;
+    padding: 20px 0;
 
     ul {
-      display: inline-block;
-      width: calc(~'50% - 40px');
       text-align: center;
+
+      @media all and (min-width: 901px) {
+        display: inline-block;
+        width: calc(~'50% - 40px');
+      }
 
       a {
         &:hover li {
@@ -26,9 +36,15 @@ div#footer {
     }
 
     img {
-      display: inline-block;
       width: 80px;
       height: auto;
+
+      @media all and (min-width: 901px) {
+        display: inline-block;
+      }
+      @media all and (max-width: 900px) {
+        display: none;
+      }
     }
   }
 }

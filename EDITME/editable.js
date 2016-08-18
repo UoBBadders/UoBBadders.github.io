@@ -71,7 +71,7 @@ app.constant('sponsors', [
   // ---- EDIT HERE ----
   {
     link: 'http://www.fz-forza.com/',
-    image: 'assets/images/sponsors/Fz Forza.png'
+    image: 'Fz Forza.png'
   }
   // ---- END EDIT HERE ----
 ]);

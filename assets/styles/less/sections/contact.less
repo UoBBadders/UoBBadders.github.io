@@ -2,8 +2,16 @@ div#contact {
   background-color: @university-red;
   padding: 20px 0;
   div#container {
-    width: @section-width;
+    width: @section-width-narrow;
+    @media all and (max-width: 1800px) {
+      width: @section-width-medium;
+    }
+    @media all and (max-width: 1200px) {
+      width: @section-width-wide;
+    }
     margin: auto;
+    box-sizing: border-box;
+    padding: 20px 0;
 
     div[marked] {
       * {
@@ -13,10 +21,13 @@ div#contact {
     }
 
     div#location, div#contact-form {
-      display: inline-block;
-      width: 50%;
       text-align: center;
       vertical-align: top;
+
+      @media all and (min-width: 901px) {
+        display: inline-block;
+        width: 50%;
+      }
 
       form {
         input, textarea {

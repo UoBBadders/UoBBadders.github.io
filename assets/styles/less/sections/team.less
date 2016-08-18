@@ -1,7 +1,14 @@
 div#team {
   div#container {
-    width: @section-width;
+    width: @section-width-narrow;
+    @media all and (max-width: 1800px) {
+      width: @section-width-medium;
+    }
+    @media all and (max-width: 1200px) {
+      width: @section-width-wide;
+    }
     margin: auto;
+    box-sizing: border-box;
     padding: 20px 0;
 
     h2 {

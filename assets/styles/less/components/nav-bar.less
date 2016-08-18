@@ -34,11 +34,31 @@ nav {
 
       h1 {
         display: inline-block;
-        font-size: 20px;
         font-weight: 300;
         color: #fff;
         margin-right: 5px;
         vertical-align: middle;
+      }
+
+      @media all and (min-width: 901px) {
+        h1 {
+          display: inline-block;
+          font-size: 20px;
+          font-weight: 300;
+          color: #fff;
+          margin-right: 5px;
+          vertical-align: middle;
+        }
+      }
+      @media all and (max-width: 900px) {
+        h1 {
+          display: inline-block;
+          font-size: 16px;
+          font-weight: 300;
+          color: #fff;
+          margin-right: 5px;
+          vertical-align: middle;
+        }
       }
     }
 
@@ -57,13 +77,30 @@ nav {
     ul#nav-items {
       float: right;
       height: 100%;
+
+      @media all and (min-width: 1201px) {
+        a li {
+          font-size: 14px;
+          padding: 0 15px;
+        }
+      }
+
+      @media all and (max-width: 1200px) {
+        a li {
+          font-size: 12px;
+          padding: 0 5px;
+        }
+      }
+
+      @media all and (max-width: 900px) {
+        display: none;
+      }
+
       a li {
         display: inline-block;
         height: 100%;
         box-sizing: border-box;
-        padding: 0 15px;
         line-height: calc(@nav-bar-height - 10px);
-        font-size: 14px;
         font-weight: 400;
         color: #fff;
         text-transform: uppercase;
