@@ -1,127 +1,255 @@
+/*  Hello! This file will allow you to edit the content that appears on the
+**  badminton website. You MUST follow the instruction VERY carefully however:
+**  this is actual real code, so if you mess it up then your website will break!
+**  But don't worry - it's super simple.
+**
+**  This file allows you to change things like the committee members, pictures,
+**  links etc on the website. If you want to make changes to website text only,
+**  refer to the relevant ".md" file in the EDITME folder. Each file is names after
+**  the section is represents, e.g. to make changes to the "About" section
+**  description, make your edits to the "about.md" file.
+**
+**  Areas of this document which are safe for you to edit are marked clearly
+**  between markers like this:
+**
+**    (do not make changes here)
+**  // ---- EDIT HERE ----
+**    (this is where you can make changes)
+**  // ---- END EDIT HERE ----
+**    (do not make changes here)
+*/
+
 var app = angular.module('badmintonApp');
+
+// COVER IMAGES FOR THE IMAGE SLIDESHOW IN THE HEADER
 app.constant('coverImageUrls', [
-  'assets/images/cover1.jpg',
-  'assets/images/cover2.jpg',
-  'assets/images/cover3.jpg',
-  'assets/images/cover4.jpg',
-  'assets/images/cover5.jpg',
-  'assets/images/cover6.jpg',
-  'assets/images/cover7.jpg',
-  'assets/images/cover8.jpg'
+
+  /*  This is a list of filepaths for the images which appear in the images
+  **  slideshow at the top of the website.
+  **
+  **  The images listed here MUST exist in the folder: EDITME/images/slideshow
+  **  The filenames must match exactly, and the filename MUST have the correct
+  **  extension (e.g. ".jpg").
+  **
+  **  Make sure each filename is surrounded by 'single quotes' and that there
+  **  is a comma separating each entry. Do not put a comma after the very last entry.
+  */
+  // ---- EDIT HERE ----
+  'cover1.jpg',
+  'cover2.jpg',
+  'cover3.jpg',
+  'cover4.jpg',
+  'cover5.jpg',
+  'cover6.jpg',
+  'cover7.jpg',
+  'cover8.jpg'
+  // ---- END EDIT HERE ----
+
 ]);
 
+// LIST OF SPONSORS AND THEIR LOGOS
 app.constant('sponsors', [
+
+  /*  This is a list of objects describing the sponsors which appear in a banner
+  **  beneath the slideshow. Each sponsor object is wrapped in {curly braces},
+  **  and inside it specified 2 properties:
+  **  'link' is the URL to the sponsor's website, which will be opened when clicked.
+  **  'image' is the filename of the image as it appears in the folder: EDITME/images/sponsors
+  **  This filename must match exactly, and the filename MUST have the correct
+  **  extension (e.g. ".jpg").
+  **
+  ** Follow the format described below, noting the commas and quotes.
+  **
+  ** {
+  **  link: 'url-to-the-sponsor-1-website',
+  **  image: 'image-1-filename'
+  ** }, {
+  **  link: 'url-to-sponsor-2-website',
+  **  image: 'image-2-filename'
+  ** }
+  */
+  // ---- EDIT HERE ----
   {
     link: 'http://www.fz-forza.com/',
-    imageUrl: 'assets/images/sponsors/Fz Forza.png'
+    image: 'assets/images/sponsors/Fz Forza.png'
   }
+  // ---- END EDIT HERE ----
 ]);
 
+// LIST OF COMMITTEE MEMBERS
 app.constant('committee', [
+  /*  This is a list of objects describing the committee members which appear in
+  **  the 'Team' section. (See below for a similar list for the Captains and Coaches).
+  **
+  **  Each committee member object is wrapped in {curly braces},
+  **  and inside it specified 4 properties:
+  **  'image' is the filename of the image as it appears in the folder: EDITME/images/team
+  **  'name' is the name of the committee member
+  **  'position' is the position of the committee member
+  **  'email' is the email of the committee member
+  */
+  // ---- EDIT HERE ----
   {
-    imageUrl: 'assets/images/team/Lauren Ashley.png',
+    image: 'Lauren Ashley.png',
     name: 'Lauren Ashley',
     position: 'Club Captain',
     email: 'la13576@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Joe Urwin.jpg',
+    image: 'Joe Urwin.jpg',
     name: 'Joe Urwin',
     position: 'Vice Club Captain',
     email: 'ju14762@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Darren Chin.jpg',
+    image: 'Darren Chin.jpg',
     name: 'Darren Chin',
     position: 'Secretary',
     email: 'dc15333@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/James Wheeler.png',
+    image: 'James Wheeler.png',
     name: 'James Wheeler',
     position: 'Treasurer',
     email: 'jw15835@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Bryan Wong.jpg',
+    image: 'Bryan Wong.jpg',
     name: 'Bryan Wong',
     position: 'Publicity Officer',
     email: 'bw14555@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Dan Bethell.png',
+    image: 'Dan Bethell.png',
     name: 'Dan Bethell',
     position: 'Equality Officer',
     email: 'db14349@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Robert Eyre.jpg',
+    image: 'Robert Eyre.jpg',
     name: 'Robert Eyre',
     position: 'Social Section Captain',
     email: 're13093@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Dome Chartsakulkanajarn.jpg',
+    image: 'Dome Chartsakulkanajarn.jpg',
     name: 'Dome Chartsakulkanajarn',
     position: 'Social Secretary',
     email: 'tc14273@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Kaamil Walilay.png',
+    image: 'Kaamil Walilay.png',
     name: 'Kaamil Walilay',
     position: 'Development Squad Captain',
     email: 'kw13080@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Katrina Fray.png',
+    image: 'Katrina Fray.png',
     name: 'Katrina Fray',
     position: 'Kit Officer',
     email: 'kf15164@my.bristol.ac.uk'
   }
+  // ---- END EDIT HERE ----
 ]);
 
+// LIST OF CAPTAINS
 app.constant('captains', [
+
+  /*  This is a list of objects describing the Captains. It works the same as
+  **  the "Committee" section described above.
+  */
+  // ---- EDIT HERE ----
   {
-    imageUrl: 'assets/images/team/Rohan Gupta.jpg',
+    image: 'Rohan Gupta.jpg',
     name: 'Rohan Gupta',
     position: 'Men\'s 1st Captain',
     email: 'rg15793@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Will Brownhill.jpg',
+    image: 'Will Brownhill.jpg',
     name: 'Will Brownhill',
     position: 'Men\'s 2nd Captain',
     email: 'wb14520@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Georgia Higgs.jpg',
+    image: 'Georgia Higgs.jpg',
     name: 'Georgia Higgs',
     position: 'Ladies\' 1st Captain',
     email: 'gh15476@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/James Wheeler.png',
+    image: 'James Wheeler.png',
     name: 'James Wheeler',
     position: 'Men\'s Captain',
     email: 'jw15835@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Catherine Toase.jpg',
+    image: 'Catherine Toase.jpg',
     name: 'Catherine Toase',
     position: 'Ladies\' Captain',
     email: 'ct14868@my.bristol.ac.uk'
   }, {
-    imageUrl: 'assets/images/team/Lizzy Cassidy.png',
+    image: 'Lizzy Cassidy.png',
     name: 'Lizzy Cassidy',
     position: 'Mixed Captain',
     email: 'ec14396@my.bristol.ac.uk'
   }
+  // ---- END EDIT HERE ----
 ]);
 
+// LIST OF COACHES
 app.constant('coaches', [
+
+  /*  This is a list of objects describing the Coaches. It works the same as
+  **  the "Committee" and "Captains" sections described above, except an
+  **  email address is not specified.
+  */
+  // ---- EDIT HERE ----
   {
-    imageUrl: 'assets/images/team/Paul Tomlinson.png',
+    image: 'Paul Tomlinson.png',
     name: 'Paul Tomlinson',
     position: 'Performance Squad Coach'
   }, {
-    imageUrl: 'assets/images/team/Nicola Wall.png',
+    image: 'Nicola Wall.png',
     name: 'Nicola Wall',
     position: 'Performance Squad Coach'
   }
+  // ---- END EDIT HERE ----
 ]);
 
-app.constant('purchaseMembershipLink', 'http://bristol.unioncloud.org/groups/badminton-0548');
-app.constant('getTheKitLink', '');
-app.constant('viewOurCalendarLink', '');
+// LINK FOR THE PURCHASE MEMBERSHIP BUTTON
+app.constant('purchaseMembershipLink',
 
+  /*  The URL provided below is the web page that wil be opened when the
+  **  'PURCHASE MEMBERSHIP' button in the Membership section is clicked.
+  **  Make sure the URL below is surrounded by 'single quotes' !!
+  */
+  // ---- EDIT HERE ----
+  'http://bristol.unioncloud.org/groups/badminton-0548'
+  // ---- END EDIT HERE ----
+);
+
+// LINK FOR GET THE KIT BUTTON
+app.constant('getTheKitLink',
+
+  /*  The URL provided below is the web page that wil be opened when the
+  **  'GET THE KIT' button in the Membership section is clicked.
+  **  Make sure the URL below is surrounded by 'single quotes' !!
+  */
+  // ---- EDIT HERE ----
+  ''
+  // ---- END EDIT HERE ----
+);
+
+// LINK FOR THE VIEW OUR CALENDAR BUTTON
+app.constant('viewOurCalendarLink',
+
+  /*  The URL provided below is the web page that wil be opened when the
+  **  'VIEW OUR CALENDAR' button in the Events section is clicked.
+  **  Make sure the URL below is surrounded by 'single quotes' !!
+  */
+  // ---- EDIT HERE ----
+  ''
+  // ---- END EDIT HERE ----
+);
+
+// IMPORTANT LINKS APPEARING IN THE LEFT SIDE OF THE FOOTER
 app.constant('footerLinksLeft', [
+
+  /*  This is a list of objects describing the links which appear in the
+  **  left hand column of the website's footer.
+  **  Each object is made up of 2 properties:
+  **  'link'  This is the URL for the website that will be opened when the link is clicked
+  **  'name'  This is the text that will appear describing the link
+  */
+  // ---- EDIT HERE ----
   {
     link: 'http://www.bristol.ac.uk/',
     name: 'University of Bristol'
@@ -135,9 +263,19 @@ app.constant('footerLinksLeft', [
     link: 'http://www.bristol.ac.uk/sport/facilities/medicine-clinic/',
     name: 'UoB Sport, Exercise and Medicine Clinic'
   }
+  // ---- END EDIT HERE ----
 ]);
 
+// IMPORTANT LINKS APPEARING IN THE RIGHT SIDE OF THE FOOTER
 app.constant('footerLinksRight', [
+
+  /*  This is a list of objects describing the links which appear in the
+  **  right hand column of the website's footer.
+  **  Each object is made up of 2 properties:
+  **  'link'  This is the URL for the website that will be opened when the link is clicked
+  **  'name'  This is the text that will appear describing the link
+  */
+  // ---- EDIT HERE ----
   {
     link: 'http://www.fz-forza.com/',
     name: 'Fz Forza'
@@ -151,4 +289,5 @@ app.constant('footerLinksRight', [
     link: 'http://bucs.org.uk/',
     name: 'British University and College Sport'
   }
+  // ---- END EDIT HERE ----
 ]);

@@ -3,7 +3,7 @@
   <h2>COMMITTEE</h2>
   <ul>
     <li ng-repeat="member in committee">
-      <div class="profile" style="background-image: url('{{ member.imageUrl }}'), url('/assets/images/team/default-profile.jpg');"></div>
+      <div class="profile" style="background-image: url('EDITME/images/team/{{ member.image }}'), url('EDITME/images/team/default-profile.jpg');"></div>
       <h3>{{ member.name }}</h3>
       <h4>{{ member.position }}</h4>
       <h4>{{ member.email }}</h4>
@@ -12,7 +12,7 @@
   <h2>CAPTAINS</h2>
   <ul>
     <li ng-repeat="captain in captains">
-      <div class="profile" style="background-image: url('{{ captain.imageUrl }}'), url('/assets/images/team/default-profile.jpg');"></div>
+      <div class="profile" style="background-image: url('EDITME/images/team/{{ captain.image }}'), url('/assets/images/team/default-profile.jpg');"></div>
       <h3>{{ captain.name }}</h3>
       <h4>{{ captain.position }}</h4>
       <h4>{{ captain.email }}</h4>
@@ -21,7 +21,7 @@
   <h2>COACHES</h2>
   <ul>
     <li ng-repeat="coach in coaches">
-      <div class="profile" style="background-image: url('{{ coach.imageUrl }}'), url('/assets/images/team/default-profile.jpg');"></div>
+      <div class="profile" style="background-image: url('EDITME/images/team/{{ coach.image }}'), url('/assets/images/team/default-profile.jpg');"></div>
       <h3>{{ coach.name }}</h3>
       <h4>{{ coach.position }}</h4>
     </li>
