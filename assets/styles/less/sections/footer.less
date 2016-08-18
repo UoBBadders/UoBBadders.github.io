@@ -1,0 +1,34 @@
+div#footer {
+  width: 100%;
+  background-color: @university-black;
+  color: #fff;
+  padding: 50px 0;
+
+  div#container {
+    width: @section-width;
+    margin: auto;
+
+    ul {
+      display: inline-block;
+      width: calc(~'50% - 40px');
+      text-align: center;
+
+      a {
+        &:hover li {
+          text-decoration: underline;
+        }
+
+        li {
+          font-weight: 300;
+          margin-bottom: 10px;
+        }
+      }
+    }
+
+    img {
+      display: inline-block;
+      width: 80px;
+      height: auto;
+    }
+  }
+}

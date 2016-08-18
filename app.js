@@ -23,4 +23,5 @@ app.controller('appController', ['$rootScope', '$scope', function($rootScope, $s
   $scope.eventsUrl = '/sections/events/events.view.html';
   $scope.galleryUrl = '/sections/gallery/gallery.view.html';
   $scope.contactUrl = '/sections/contact/contact.view.html';
+  $scope.footerUrl = '/sections/footer/footer.view.html';
 }]);
