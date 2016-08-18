@@ -1,7 +1,7 @@
 /* jshint strict:false */
 'use strict';
 
-var app = angular.module('badmintonApp', ['ui.router', 'config', 'duScroll', 'hc.marked', 'leaflet-directive']);
+var app = angular.module('badmintonApp', ['ui.router', 'config', 'duScroll', 'hc.marked', 'ngMap']);
 
 // configure GitHub flavoured markdown
 app.config(['markedProvider', function (markedProvider) {

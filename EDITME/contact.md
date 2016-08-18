@@ -1,7 +1,5 @@
-### Email the Club
+### Club Email
 uobbadders@gmail.com
-### Email the Club Captain
-la13576@my.bristol.ac.uk
 
 ### Late for a BUCS match?
 Please contact SU staff member Sophie Thomas: sophie.thomas@bristol.ac.uk
