@@ -83,4 +83,14 @@ app.controller('teamController', function($scope) {
     position: 'Mixed Captain',
     email: 'ec14396@my.bristol.ac.uk'
   }];
+
+  $scope.coaches = [{
+    imageUrl: 'assets/images/team/Paul Tomlinson.png',
+    name: 'Paul Tomlinson',
+    position: 'Performance Squad Coach'
+  }, {
+    imageUrl: 'assets/images/team/Nicola Wall.png',
+    name: 'Nicola Wall',
+    position: 'Performance Squad Coach'
+  }];
 });

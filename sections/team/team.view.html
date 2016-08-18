@@ -18,4 +18,12 @@
       <h4>{{ captain.email }}</h4>
     </li>
   </ul>
+  <h2>COACHES</h2>
+  <ul>
+    <li ng-repeat="coach in coaches">
+      <div class="profile" style="background-image: url('{{ coach.imageUrl }}'), url('/assets/images/team/default-profile.jpg');"></div>
+      <h3>{{ coach.name }}</h3>
+      <h4>{{ coach.position }}</h4>
+    </li>
+  </ul>
 </div>
