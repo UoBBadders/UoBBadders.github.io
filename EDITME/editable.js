@@ -236,7 +236,7 @@ app.constant('viewOurCalendarLink',
   **  Make sure the URL below is surrounded by 'single quotes' !!
   */
   // ---- EDIT HERE ----
-  ''
+  'https://calendar.google.com/calendar/embed?src=uobbadders%40gmail.com&ctz=Europe%2FLondon'
   // ---- END EDIT HERE ----
 );
 
