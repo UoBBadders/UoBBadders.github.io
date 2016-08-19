@@ -3,9 +3,25 @@ div[marked] {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.5;
+  text-align: center;
 
   h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px;
+
+    @media all and (max-width: 1200px) {
+      h1 {
+        font-size: 1.5em;
+      }
+      h2 {
+        font-size: 1.2em;
+      }
+      h3 {
+        font-size: 1em;
+      }
+      h4, h5, h6 {
+        font-size: 0.8em;
+      }
+    }
   }
 
   h1#alt-h1,
@@ -64,11 +80,23 @@ div[marked] {
   table {
     border-spacing: 0;
     border-collapse: collapse;
-    margin: 15px 0;
+    margin: 15px auto;
   }
   table th, table td {
     border: 1px solid @light-grey;
     padding: 6px 13px;
     margin: 0;
+  }
+
+  @media all and (max-width: 760px) {
+  	// Force table to not be like tables anymore
+  	table, thead, tbody, th, td, tr {
+  		display: block;
+  	}
+
+  	// Hide table headers
+  	thead tr {
+  		display: none;
+  	}
   }
 }

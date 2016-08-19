@@ -1,24 +1,49 @@
 div#membership {
   div#container {
-    width: @section-width;
-    margin: auto;
-
-    div[marked] {
-      display: inline-block;
-      width: 50%;
-      text-align: left;
+    width: @section-width-narrow;
+    @media all and (max-width: 1800px) {
+      width: @section-width-medium;
     }
+    @media all and (max-width: 1200px) {
+      width: @section-width-wide;
+    }
+    margin: auto;
+    box-sizing: border-box;
+    padding: 20px 0;
 
     div#buttons {
-      display: inline-block;
-      width: calc(~'50% - 10px');
-      vertical-align: top;
       padding-top: 10px;
 
       a div.button {
         display: block;
-        width: 80%;
         margin: 40px auto;
+      }
+    }
+
+    @media all and (min-width: 901px) {
+      div#buttons {
+        display: inline-block;
+        width: calc(~'50% - 10px');
+        vertical-align: top;
+
+        a div.button {
+          width: 80%;
+        }
+      }
+      div[marked] {
+        display: inline-block;
+        width: 50%;
+      }
+    }
+
+    @media all and (max-width: 900px) {
+      div#buttons {
+        display: block;
+        vertical-align: top;
+
+        a div.button {
+          width: calc(~'100% - 20px');
+        }
       }
     }
   }

@@ -1,0 +1,33 @@
+div#sponsors {
+
+  width: @section-width-narrow;
+  @media all and (max-width: 1800px) {
+    width: @section-width-medium;
+  }
+  @media all and (max-width: 1200px) {
+    width: @section-width-wide;
+  }
+
+  margin: auto;
+  text-align: center;
+
+  h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 20px 0 10px 0;
+    letter-spacing: 5px;
+  }
+
+  ul {
+    margin-bottom: 10px;
+    a {
+      li {
+        display: inline-block;
+        margin: 20px;
+        img {
+          height: 50px;
+        }
+      }
+    }
+  }
+}

@@ -1,16 +1,17 @@
 <section-header title="'CONTACT'"></section-header>
 <div id="container">
+  <div marked src="'/EDITME/contact.md'"></div>
   <div id="location">
-    <p>UoB Badminton, University of Bristol<br>Bristol, BSX XXX</p>
-    <div id="map">
-      <leaflet lf-center="center" width="100%" height="100%"></leaflet>
-    </div>
+    <ng-map center="{{ center.lat }},{{ center.lng }}" zoom="{{ center.zoom }}">
+      <marker position="{{ center.lat }},{{ center.lng }}" title=""></marker>
+    </ng-map>
   </div><!--
-  --><div id="contact">
-    <p>Got a question? Want to join the club? Get in touch!</p>
-    <form method="POST">
+  --><div id="contact-form">
+    <form method="POST" action="https://formspree.io/uobbadders@gmail.com">
+      <input type="hidden" name="_subject" value="Submission from UoBBC Website!"></input>
+      <input type="text" name="_gotcha" style="display: none"></input>
       <input type="text" name="name" placeholder="Name..." required></input>
-      <input type="email" name="email" placeholder="Email..." required></input>
+      <input type="email" name="_replyto" placeholder="Email..." required></input>
       <textarea name="message" placeholder="Message..." maxlength="10000" required></textarea>
       <button type="submit" class="button">
         <span>SEND</span>

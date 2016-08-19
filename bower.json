@@ -1,0 +1,21 @@
+{
+  "name": "uobbadminton",
+  "description": "UoB Badminton society website",
+  "main": "",
+  "authors": [
+    "Mike Christensen"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/UoBBadders/UoBBadminton",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ngmap": "^1.17.3"
+  }
+}
