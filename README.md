@@ -6,6 +6,11 @@ The website is built using AngularJS and is hosted on GitHub Pages at https://uo
 # Making Edits
 ---
 
+## Important
+All changes you need for the site can be made directly on GitHub!
+However, in order for changes to appear live on the site they **must be made to the `gh-pages` branch**.
+The default branch is `master`, so you need to switch it over manually using the dropdown box at the top of the page!
+
 ## Text Changes
 You can make a number of changes to this site quite easily without requiring the assistance of a developer.
 Things that you can edit are found in the `EDITME` folder.
