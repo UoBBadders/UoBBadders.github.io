@@ -220,7 +220,7 @@ app.constant('getTheKitLink',
   **  Make sure the URL below is surrounded by 'single quotes' !!
   */
   // ---- EDIT HERE ----
-  ''
+  'http://playerlayer.com/account/university-of-bristol.html'
   // ---- END EDIT HERE ----
 );
 
