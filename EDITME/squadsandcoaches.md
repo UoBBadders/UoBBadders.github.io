@@ -1,6 +1,6 @@
 # Performance Squad and BUCS teams
 
-The performance squad is made up of around 30 players who train 3 times per week and compete for spots within the 3 Men’s and 1 Ladies’ BUCS teams.  The players selected into this squad receive professional coaching from our two coaches at least once per week.
+The performance squad is made up of around 30 players who train 4 times per week and compete for spots within the 2 Men’s and 1 Ladies’ BUCS teams.  The players selected into this squad receive professional coaching from our coach at least once per week.
 
 ### Training
 
