@@ -1,16 +1,16 @@
 # Performance Squad and BUCS teams
 
-The performance squad is made up of around 30 players who train 4 times per week and compete for spots within the 2 Men’s and 1 Ladies’ BUCS teams.  The players selected into this squad receive professional coaching from our coach at least once per week.
+The performance squad is made up of around 30 players who train 3 times per week and compete for spots within the 3 Men’s and 1 Ladies’ BUCS teams.  The players selected into this squad receive professional coaching from our two coaches at least once per week.
 
 ### Training
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Monday | 07.30-08.30 | SEH | Circuit Training (Booking Required) | Performance BUCS teams: M1, M2, L1
 Tuesday | 20.30-22.30 | SEH | 6 | Performance BUCS teams: M1, M2, L1
 Wednesday | 13.00-15.00 | SEH | 3-6 | Performance BUCS Matches
-Thursday | 18.00-19.30 | SEH | 6 | Performance BUCS: M1, M2, L1
-Friday | 19.00-20.30 | Kingsdown | 2 | Performance BUCS: L1, M1, M2
+Thursday | 18.00-19.30 | SEH | 6 | Performance BUCS: M1, M2, M3
+Friday | 19.00-20.30 | Kingsdown | 5 | Performance BUCS: L1, M1, M2
+Saturday | 11.15-12.45 | Cotham School | 4 | M3 + Development
 
 # Development Squad
 
@@ -20,8 +20,7 @@ The Development squad is made up of 20-40 players and offers a competitive strin
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Friday | 19.00-20.30 | Kingsdown | 3 | Development
-Saturday | 11.15-12.45 | Cotham School | 4 | Development
+Saturday | 11.15-12.45 | Cotham School | 4 | M3 + Development
 Sunday | 19.15-22.15 | SEH | 6 | Development + Local League
 
 # Social Section
@@ -32,7 +31,6 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Saturday | 09.30-11.00 | SEH | 3 | Badminton Clinic (Booking Required)
 Saturday | 17.00-18.30 | SEH | 6 | Social
 
 # Training Venues
