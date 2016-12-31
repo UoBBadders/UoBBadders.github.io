@@ -110,7 +110,7 @@ app.constant('committee', [
     position: 'Treasurer',
     email: 'jw15835@my.bristol.ac.uk'
   }, {
-    image: 'Bryan Wong.jpg',
+    image: 'Bryan Wong.png',
     name: 'Bryan Wong',
     position: 'Publicity Officer',
     email: 'bw14555@my.bristol.ac.uk'
