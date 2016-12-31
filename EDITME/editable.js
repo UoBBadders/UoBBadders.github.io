@@ -159,7 +159,7 @@ app.constant('captains', [
     image: 'Bradley Miles.png',
     name: 'Bradley Miles',
     position: 'Men\'s 2nd Captain',
-    email: 'bm157310@my.bristol.ac.uk'
+    email: 'bm15731@my.bristol.ac.uk'
   }, {
     image: 'Georgia Higgs.png',
     name: 'Georgia Higgs',
