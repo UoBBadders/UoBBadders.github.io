@@ -171,7 +171,7 @@ app.constant('captains', [
     position: 'Men\'s Captain',
     email: 'jw15835@my.bristol.ac.uk'
   }, {
-    image: 'Catherine Toase.jpg',
+    image: 'Catherine Toase.png',
     name: 'Catherine Toase',
     position: 'Ladies\' Captain',
     email: 'ct14868@my.bristol.ac.uk'
