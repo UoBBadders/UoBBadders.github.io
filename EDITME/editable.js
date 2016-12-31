@@ -120,7 +120,7 @@ app.constant('committee', [
     position: 'Equality Officer',
     email: 'db14349@my.bristol.ac.uk'
   }, {
-    image: 'Robert Eyre.jpg',
+    image: 'Robert Eyre.png',
     name: 'Robert Eyre',
     position: 'Social Section Captain',
     email: 're13093@my.bristol.ac.uk'
@@ -151,12 +151,12 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Rohan Gupta.jpg',
+    image: 'Rohan Gupta.png',
     name: 'Rohan Gupta',
     position: 'Men\'s 1st Captain',
     email: 'rg15793@my.bristol.ac.uk'
   }, {
-    image: 'Will Brownhill.jpg',
+    image: 'Bradley Miles.png',
     name: 'Will Brownhill',
     position: 'Men\'s 2nd Captain',
     email: 'wb14520@my.bristol.ac.uk'
