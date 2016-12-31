@@ -196,10 +196,6 @@ app.constant('coaches', [
     image: 'Paul Tomlinson.png',
     name: 'Paul Tomlinson',
     position: 'Performance Squad Coach'
-  }, {
-    image: 'Nicola Wall.png',
-    name: 'Nicola Wall',
-    position: 'Performance Squad Coach'
   }
   // ---- END EDIT HERE ----
 ]);
