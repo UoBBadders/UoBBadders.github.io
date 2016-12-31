@@ -125,7 +125,7 @@ app.constant('committee', [
     position: 'Social Section Captain',
     email: 're13093@my.bristol.ac.uk'
   }, {
-    image: 'Dome Chartsakulkanajarn.jpg',
+    image: 'Dome Chartsakulkanajarn.png',
     name: 'Dome Chartsakulkanajarn',
     position: 'Social Secretary',
     email: 'tc14273@my.bristol.ac.uk'
