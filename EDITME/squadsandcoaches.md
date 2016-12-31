@@ -31,7 +31,8 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Saturday | 17.00-18.30 | SEH | 6 | Social
+Saturday (Clinic Session) | 09.30-11.00 | SEH | 3 | Social
+Saturday (Main Session) | 17.00-18.30 | SEH | 6 | Social
 
 # Training Venues
 
