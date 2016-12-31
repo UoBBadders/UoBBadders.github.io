@@ -157,9 +157,9 @@ app.constant('captains', [
     email: 'rg15793@my.bristol.ac.uk'
   }, {
     image: 'Bradley Miles.png',
-    name: 'Will Brownhill',
+    name: 'Bradley Miles',
     position: 'Men\'s 2nd Captain',
-    email: 'wb14520@my.bristol.ac.uk'
+    email: 'bm157310@my.bristol.ac.uk'
   }, {
     image: 'Georgia Higgs.png',
     name: 'Georgia Higgs',
