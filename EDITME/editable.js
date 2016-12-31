@@ -100,7 +100,7 @@ app.constant('committee', [
     position: 'Vice Club Captain',
     email: 'ju14762@my.bristol.ac.uk'
   }, {
-    image: 'Darren Chin.jpg',
+    image: 'Darren Chin.png',
     name: 'Darren Chin',
     position: 'Secretary',
     email: 'dc15333@my.bristol.ac.uk'
