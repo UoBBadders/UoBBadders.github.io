@@ -10,6 +10,7 @@ We support the Stonewall Rainbow laces campaign to make sport everyone’s game.
 
 The University of Bristol Badminton Club welcomes ALL Bristol students and are committed to creating a safe and inclusive environment at all times.
 The University of Bristol Badminton Club will take a stance against discrimination in all its forms, therefore making activities at the club fun and open for all.
+We recently conducted a survey of our members to see how well we were performing in these areas, and where we can improve in the future. This has led to the creation of our Equality and Diversity One Year Plan, which can be found here: https://docs.google.com/document/d/1tqZuRvvsvlusrYmSJLYYCiwdZtQ3hO27we4PEEyakXs/edit?usp=sharingl 
 
 It doesn’t stop there! Off-court the opportunities and community atmosphere continues. With socials ranging from big nights out, trampolining, awards nights and spectating professional badminton, true friendships can be and are made within the club.
 
