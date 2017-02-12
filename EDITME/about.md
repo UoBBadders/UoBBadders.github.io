@@ -12,6 +12,9 @@ The University of Bristol Badminton Club welcomes ALL Bristol students and are c
 The University of Bristol Badminton Club will take a stance against discrimination in all its forms, therefore making activities at the club fun and open for all.
 We recently conducted a survey of our members to see how well we were performing in these areas, and where we can improve in the future. This has led to the creation of our Equality and Diversity One Year Plan, which can be found here: https://docs.google.com/document/d/1tqZuRvvsvlusrYmSJLYYCiwdZtQ3hO27we4PEEyakXs/edit?usp=sharingl 
 
+Sustainability is one of UoBBC’s core values. We are committed to reducing our social, economic and environmental impact both locally and globally. We also recognise that the club will exist for a long time after all our current members have moved on, and so leaving a sustainable club for future members means people can continue to enjoy the sport for many years to come.  
+A full report on how we intend to do this can be found here: https://docs.google.com/document/d/1GM-JP_G4te_UMNKRFMAyKaM1RE0HkNpbnIy0pcJY7rQ/edit?usp=sharing
+
 It doesn’t stop there! Off-court the opportunities and community atmosphere continues. With socials ranging from big nights out, trampolining, awards nights and spectating professional badminton, true friendships can be and are made within the club.
 
 For previous members looking to stay in contact with other old members, and/or keep up to date with what the club is doing, please join our Alumni Facebook page at https://www.facebook.com/groups/234221176994100/.  
