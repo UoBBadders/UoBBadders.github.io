@@ -8,7 +8,7 @@ All memberships require students to hold at least a [Get Active SEH membership f
 
 Check out the membership tariffs below: Which have now been updated to include half year memberships for those who are not currently a part of the club but would like to join for the remainder of the academic year. 
 
-Squad | Inclusions | Price
+Squad | Inclusions | Price £
 --- | --- | ---
 Performance | With Player Layer shirt and FZ Forza Shirt | 90
 Performance | With FZ Forza Shirt | 70
