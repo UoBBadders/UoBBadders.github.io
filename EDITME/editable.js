@@ -115,10 +115,10 @@ app.constant('committee', [
     position: 'Publicity Officer',
     email: 'bw14555@my.bristol.ac.uk'
   }, {
-    image: 'Dan Bethell.png',
-    name: 'Dan Bethell',
+    image: 'Martin Mai.png',
+    name: 'Martin Mai',
     position: 'Equality Officer',
-    email: 'db14349@my.bristol.ac.uk'
+    email: 'zm16638@my.bristol.ac.uk'
   }, {
     image: 'Robert Eyre.png',
     name: 'Robert Eyre',
