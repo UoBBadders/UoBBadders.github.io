@@ -100,10 +100,10 @@ app.constant('committee', [
     position: 'Vice Club Captain',
     email: 'ju14762@my.bristol.ac.uk'
   }, {
-    image: 'Darren Chin.png',
-    name: 'Darren Chin',
+    image: 'Tom Davies.png',
+    name: 'Tom Davies',
     position: 'Secretary',
-    email: 'dc15333@my.bristol.ac.uk'
+    email: 'td16216@my.bristol.ac.uk'
   }, {
     image: 'James Wheeler.png',
     name: 'James Wheeler',
@@ -125,15 +125,15 @@ app.constant('committee', [
     position: 'Social Section Captain',
     email: 're13093@my.bristol.ac.uk'
   }, {
+    image: 'Max La Faci.png',
+    name: 'Max La Faci',
+    position: 'Social Section Vice Captain',
+    email: 'ml16947@my.bristol.ac.uk'
+  }, {
     image: 'Dome Chartsakulkanajarn.png',
     name: 'Dome Chartsakulkanajarn',
     position: 'Social Secretary',
     email: 'tc14273@my.bristol.ac.uk'
-  }, {
-    image: 'Kaamil Walilay.png',
-    name: 'Kaamil Walilay',
-    position: 'Development Squad Captain',
-    email: 'kw13080@my.bristol.ac.uk'
   }, {
     image: 'Katrina Fray.png',
     name: 'Katrina Fray',
@@ -156,15 +156,15 @@ app.constant('captains', [
     position: 'Men\'s 1st Captain',
     email: 'rg15793@my.bristol.ac.uk'
   }, {
-    image: 'Bradley Miles.png',
-    name: 'Bradley Miles',
+    image: 'Dave Phillips.png',
+    name: 'Dave Phillips',
     position: 'Men\'s 2nd Captain',
-    email: 'bm15731@my.bristol.ac.uk'
+    email: 'David.Phillips@bristol.ac.uk'
   }, {
-    image: 'Georgia Higgs.png',
-    name: 'Georgia Higgs',
+    image: 'Grace Li.png',
+    name: 'Grace Li',
     position: 'Ladies\' 1st Captain',
-    email: 'gh15476@my.bristol.ac.uk'
+    email: 'gl16474@my.bristol.ac.uk'
   }, {
     image: 'James Wheeler.png',
     name: 'James Wheeler',
@@ -176,10 +176,10 @@ app.constant('captains', [
     position: 'Ladies\' Captain',
     email: 'ct14868@my.bristol.ac.uk'
   }, {
-    image: 'Lizzy Cassidy.png',
-    name: 'Lizzy Cassidy',
+    image: 'Roger Ip.png',
+    name: 'Roger Ip',
     position: 'Mixed Captain',
-    email: 'ec14396@my.bristol.ac.uk'
+    email: 'ri16490@my.bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
