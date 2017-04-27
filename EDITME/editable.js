@@ -139,6 +139,11 @@ app.constant('committee', [
     name: 'Katrina Fray',
     position: 'Kit Officer',
     email: 'kf15164@my.bristol.ac.uk'
+  }, {
+    image: 'Xiao Xuan Teh.png',
+    name: 'Xiao Xuan Teh',
+    position: 'Fitness Officer',
+    email: 'teh.xiao.xuan.2016@my.bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
