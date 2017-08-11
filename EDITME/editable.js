@@ -202,8 +202,8 @@ app.constant('coaches', [
     name: 'Paul Tomlinson',
     position: 'Performance Squad Coach'
   }, {  
-    image: 'Will Mellersh.png',
-    name: 'Will Mellersh',
+    image: 'default-profile.jpg',
+    name: 'Rebecca Pantaney',
     position: 'Performance Squad Coach'
   }
   // ---- END EDIT HERE ----
