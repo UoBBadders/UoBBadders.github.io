@@ -6,11 +6,14 @@ The performance squad is made up of around 30 players who train 4 times per week
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Monday (Fitness) | 07.30-08.30 | SEH | 6 | Performance BUCS teams: M1, M2, L1
-Tuesday | 20.30-22.30 | SEH | 6 | Performance BUCS teams: M1, M2, L1
+Monday (Motiv8 Fitness) | 07.30-08.30 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
+Monday (Drop In Fitness) | 12.00-14.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
+Tuesday | 20.30-22.30 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
 Wednesday | 13.00-15.00 | SEH | 3-6 | Performance BUCS Matches
-Thursday | 18.00-19.30 | SEH | 6 | Performance BUCS: M1, M2
-Friday | 19.00-20.30 | Kingsdown | 2 | Performance BUCS: M1, M2, L1
+Thursday | 18.00-19.30 | SEH | 6 | Performance BUCS: M1, M2, M3, L1, L2
+Friday (Drop In Fitness) | 12.00-14.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
+Friday | 19.00-20.30 | Kingsdown | 2 | Performance BUCS: M1, M2, M3, L1, L2
+Saturday (Fitness) | 09.00-10.00 | The Downs | ~ | Performance BUCS: M1, M2, M3, L1, L2
 
 # Development Squad
 
