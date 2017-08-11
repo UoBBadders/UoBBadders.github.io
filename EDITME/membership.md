@@ -6,16 +6,14 @@ To become a member all players pay a fee to the club; this pays for shuttles, co
 
 All memberships require students to hold at least a [Get Active SEH membership for the University Sports Centre](http://www.bristol.ac.uk/sport/memberships/student/).
 
-Check out the membership tariffs below: Which have now been updated to include half year memberships for those who are not currently a part of the club but would like to join for the remainder of the academic year. 
+Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £45 for Performance Players, and £32.50 for Development and Social Players.
 
 Squad | Inclusions | Price £
 --- | --- | ---
 Performance | With Player Layer shirt and FZ Forza Shirt | 90
-Performance | With FZ Forza Shirt | 70
-Development | With Forza Shirt | 60
+Performance | With FZ Forza or PlayerLayer Shirt | 80
+Performance | With No Shirt | 70
+Development | With FZ Forza Shirt | 65
+Development | With No Shirt | 55
 Social | With FZ Forza Shirt | 55
-Social | No shirt | 35
-Performance (Half Year) | No shirt | 35
-Development (Half Year) | No shirt | 25
-Social (Half Year) | No shirt | 17.50
-
+Social | No shirt | 45
