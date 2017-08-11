@@ -23,9 +23,9 @@ The Development squad is made up of 40 players and offers a competitive string o
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
+Tuesday | 07.00-08.30 | SEH | 3 (Shared) | Development
 Friday | 19.00-20.30 | Kingsdown | 3 | Development
-Saturday | 11.15-12.45 | Cotham School | 4 | Development
-Sunday | 19.15-22.15 | SEH | 3 | Development + Local League
+Sunday | 18.00-21.00 | SEH | 3 | Development + Local League
 
 # Social Section
 
@@ -35,8 +35,8 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Saturday (Clinic Session) | 09.30-11.00 | SEH | 3 | Social
-Saturday (Main Session) | 17.00-18.30 | SEH | 6 | Social
+Tuesday | 07.00-08.30 | SEH | 3 (Shared) | Development
+Saturday (Main Session) | 16.30-18.30 | SEH | 6 | Social
 
 # Training Venues
 
@@ -44,4 +44,3 @@ All of our training sessions take place in one of the following venues, as detai
 
 - University Indoor Sports Centre, Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP
 - Kingsdown Sports Club, Portland Street, Bristol, BS2 8HL
-- Cotham School, Cotham Lawn Road, Cotham, Bristol, BS6 6DT
