@@ -1,6 +1,6 @@
 # Performance Squad and BUCS teams
 
-The performance squad is made up of around 30 players who train 4 times per week and compete for spots within the 2 Men’s and 1 Ladies’ BUCS teams.  The players selected into this squad receive professional coaching from our two coaches at least once per week.
+The performance squad is made up of around 30 players who train 4 times per week and compete for spots within the 3 Men’s and 2 Ladies’ BUCS teams, as well 2 teams that compete in a singles league around Bristol. The players selected into this squad receive professional coaching from our two coaches at least once per week.
 
 ### Training
 
@@ -17,7 +17,7 @@ Saturday (Fitness) | 09.00-10.00 | The Downs | ~ | Performance BUCS teams: M1, M
 
 # Development Squad
 
-The Development squad is made up of 40 players and offers a competitive string of badminton for students with less time commitment than the performance squad. Players from this section form three local league teams ([Men's, Women's and Mixed teams in Bristol Leagues](http://www.avonba.co.uk/)) and an opportunity to play in the Time Attack competition run at the National BUCS event annually. Players in this section can move up to the performance squad and into the BUCS teams.
+The Development squad is made up of 40 players and offers a competitive string of badminton for students with less time commitment than the performance squad. Players from this section form three local league teams ([Men's, Women's and Mixed teams in Bristol Leagues](http://www.avonba.co.uk/)). Players in this section can move up to the performance squad and into the BUCS teams.
 
 ### Training
 
