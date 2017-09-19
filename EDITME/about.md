@@ -19,6 +19,8 @@ It doesn’t stop there! Off-court the opportunities and community atmosphere co
 
 For a recap of the year, as well as the announcement of our new committee, you can view the minutes from our 2017 AGM here: https://docs.google.com/document/d/1_8N5nCPJBBJiwaX3GG_vNbC3Xn_xMUFLndptsMzTGhw/edit?usp=sharing
 
+All players competing in BUCS competitions must also adhere to the Universities Clean Sport guidelines, which can be found here: https://docs.google.com/document/d/1qLuSzwh2OPXnnxh70Ly6Rel65D3DoFHIcM7b8BEFcko/edit?usp=sharing
+
 As a University of Bristol Students' Union Society, the rules regadring the running of the club are set out in our constitution, which can be found here: https://docs.google.com/document/d/13HxT8W5Ojaiil7HPZ1u3uBfBXwGPaF-d9V1EfTveBts/edit?usp=sharing
 
 For previous members looking to stay in contact with other old members, and/or keep up to date with what the club is doing, please join our Alumni Facebook page at https://www.facebook.com/groups/234221176994100/.  
