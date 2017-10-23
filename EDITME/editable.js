@@ -95,7 +95,7 @@ app.constant('committee', [
     position: 'Club Captain',
     email: 'la13576@my.bristol.ac.uk'
   }, {
-    image: 'JoeUrwin.png',
+    image: 'Joe Urwin.png',
     name: 'Joe Urwin',
     position: 'Vice Club Captain',
     email: 'ju14762@my.bristol.ac.uk'
