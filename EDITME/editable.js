@@ -166,6 +166,11 @@ app.constant('captains', [
     position: 'Men\'s 2nd Captain',
     email: 'David.Phillips@bristol.ac.uk'
   }, {
+    image: 'NickTaylor.png',
+    name: 'Nick Taylor',
+    position: 'Men\'s 3rd Captain',
+    email: 'nt12318@bristol.ac.uk'
+  }, {
     image: 'GraceLi.png',
     name: 'Grace Li',
     position: 'Ladies\' 1st Captain',
