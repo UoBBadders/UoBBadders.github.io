@@ -90,7 +90,7 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Lauren Ashley.png',
+    image: 'LaurenAshley.png',
     name: 'Lauren Ashley',
     position: 'Club Captain',
     email: 'la13576@my.bristol.ac.uk'
@@ -100,22 +100,22 @@ app.constant('committee', [
     position: 'Vice Club Captain',
     email: 'ju14762@my.bristol.ac.uk'
   }, {
-    image: 'Tom Davies.png',
+    image: 'TomDavies.png',
     name: 'Tom Davies',
     position: 'Secretary',
     email: 'td16216@my.bristol.ac.uk'
   }, {
-    image: 'James Wheeler.png',
+    image: 'JamesWheeler.png',
     name: 'James Wheeler',
     position: 'Treasurer',
     email: 'jw15835@my.bristol.ac.uk'
   }, {
-    image: 'Bryan Wong.png',
+    image: 'BryanWong.png',
     name: 'Bryan Wong',
     position: 'Publicity Officer',
     email: 'bw14555@my.bristol.ac.uk'
   }, {
-    image: 'Martin Mai.png',
+    image: 'MartinMai.png',
     name: 'Martin Mai',
     position: 'Equality Officer',
     email: 'zm16638@my.bristol.ac.uk'
@@ -125,22 +125,22 @@ app.constant('committee', [
     position: 'Social Section Captain',
     email: 're13093@my.bristol.ac.uk'
   }, {
-    image: 'Max La Faci.png',
+    image: 'MaxLaFaci.png',
     name: 'Max La Faci',
     position: 'Social Section Vice Captain',
     email: 'ml16947@my.bristol.ac.uk'
   }, {
-    image: 'Dome Chartsakulkanajarn.png',
+    image: 'DomeCharts.png',
     name: 'Dome Chartsakulkanajarn',
     position: 'Social Secretary',
     email: 'tc14273@my.bristol.ac.uk'
   }, {
-    image: 'Katrina Fray.png',
+    image: 'KatrinaFray.png',
     name: 'Katrina Fray',
     position: 'Kit Officer',
     email: 'kf15164@my.bristol.ac.uk'
   }, {
-    image: 'Xiao Xuan Teh.png',
+    image: 'XiaoXuanTeh.png',
     name: 'Xiao Xuan Teh',
     position: 'Fitness Officer',
     email: 'teh.xiao.xuan.2016@my.bristol.ac.uk'
@@ -156,32 +156,32 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Rohan Gupta.png',
+    image: 'RohanGupta.png',
     name: 'Rohan Gupta',
     position: 'Men\'s 1st Captain',
     email: 'rg15793@my.bristol.ac.uk'
   }, {
-    image: 'Dave Phillips.png',
+    image: 'DavidPhillips.png',
     name: 'Dave Phillips',
     position: 'Men\'s 2nd Captain',
     email: 'David.Phillips@bristol.ac.uk'
   }, {
-    image: 'Grace Li.png',
+    image: 'GraceLi.png',
     name: 'Grace Li',
     position: 'Ladies\' 1st Captain',
     email: 'gl16474@my.bristol.ac.uk'
   }, {
-    image: 'James Wheeler.png',
+    image: 'JamesWheeler.png',
     name: 'James Wheeler',
     position: 'Men\'s Captain',
     email: 'jw15835@my.bristol.ac.uk'
   }, {
-    image: 'Catherine Toase.png',
+    image: 'CatherineToase.png',
     name: 'Catherine Toase',
     position: 'Ladies\' Captain',
     email: 'ct14868@my.bristol.ac.uk'
   }, {
-    image: 'Roger Ip.png',
+    image: 'RogerIp.png',
     name: 'Roger Ip',
     position: 'Mixed Captain',
     email: 'ri16490@my.bristol.ac.uk'
