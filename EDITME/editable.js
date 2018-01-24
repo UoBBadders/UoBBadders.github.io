@@ -212,7 +212,7 @@ app.constant('coaches', [
     name: 'Paul Tomlinson',
     position: 'Performance Squad Coach'
   }, {  
-    image: 'default-profile.jpg',
+    image: 'RebeccaPantaney.png',
     name: 'Rebecca Pantaney',
     position: 'Performance Squad Coach'
   }
