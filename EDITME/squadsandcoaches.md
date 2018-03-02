@@ -13,7 +13,8 @@ Wednesday | 13.00-15.00 | SEH | 3-6 | Performance BUCS Matches
 Thursday | 18.00-19.30 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
 Friday (Drop In Fitness) | 12.00-14.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
 Friday | 19.00-20.30 | Kingsdown | 2 | Performance BUCS teams: M1, M2, M3, L1, L2
-Saturday (Fitness) | 09.00-10.00 | The Downs | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
+Saturday (Fitness) | 09.00-10.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
+Sunday | 15.00-17.00 | Kingsdown | 2 | Performance BUCS teams: M1, M2, M3, L1, L2
 
 # Development Squad
 
@@ -37,6 +38,17 @@ Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
 Tuesday | 07.00-08.30 | SEH | 3 (Shared) | Social
 Saturday (Main Session) | 16.30-18.30 | SEH | 6 | Social
+
+# Disability Badminton
+
+Disability badminton is an open and friendly environment catering for all staff and students or other interested participants, with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: uobbadders@gmail.com
+
+### Training
+
+Day | Time | Venue | Courts | Teams
+--- | --- | --- | --- | ---
+Sunday | 15.00-17.00 | Kingsdown | 1 | ~
+
 
 # Training Venues
 
