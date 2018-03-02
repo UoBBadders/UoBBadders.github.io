@@ -2,7 +2,7 @@ UoBBC is a large, thriving and vibrant club within Bristol Sport. Our club missi
 
 Currently the club has over 190 members, 2 professional coaches and a range of student volunteer coaches. This enables the club to support players at the beginning of their badminton career all the way through to those competing internationally.
 
-The club uses a 3-tiered system, providing a *social section*, *development squad* and *performance squad* to cater to all abilities.
+The club has 3 squads and offers disability badminton. The use of a 3-tiered system plus disability badminton, providing a *social section*, *development squad* and *performance squad*, allows us to cater for all abilities.
 
 The club has strong links with the county team and local badminton community, with 3 members playing for various Avon squads.
 
