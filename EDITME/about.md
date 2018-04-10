@@ -5,7 +5,7 @@ Currently the club has over 190 members, 2 professional coaches and a range of s
 Our player bursary form, for current players, to help with transport, entry and events costs, can be found here: https://goo.gl/xDWmtP
 
 More detailed documentation can be found in our document repository: https://goo.gl/PhF2vz 
-Including: UoBBC Equality and Diversity, UoBBC Sustainability, UoBBC AGM 2017 Minutes, UoBBC Constitution, Bristol SU Code of Conduct, Clean Sport at the University of Bristol
+Including: UoBBC Equality Statement, UoBBC Equality and Diversity, UoBBC Sustainability, UoBBC AGM 2017 Minutes, UoBBC Constitution, Bristol SU Code of Conduct, Clean Sport at the University of Bristol
 
 For previous members looking to stay in contact with other old members, and/or keep up to date with what the club is doing, please join our Alumni Facebook page at https://www.facebook.com/groups/234221176994100/.  
 
