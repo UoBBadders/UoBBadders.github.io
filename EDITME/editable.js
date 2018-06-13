@@ -90,55 +90,55 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'GraceLi.jpg',
+    image: 'GraceLi.png',
     name: 'Grace Li',
     position: 'Club Captain',
     email: 'gl16474@my.bristol.ac.uk'
   }, {
-    image: 'JoeUrwin.png',
-    name: 'Joe Urwin',
+    image: 'RohanGupta.jpg',
+    name: 'Rohan Gupta',
     position: 'Vice Club Captain',
-    email: 'ju14762@my.bristol.ac.uk'
+    email: 'rg15793@my.bristol.ac.uk'
   }, {
-    image: 'TomDavies.png',
-    name: 'Tom Davies',
+    image: 'EmmaGreenough.jpg',
+    name: 'Emma Greenough',
     position: 'Secretary',
-    email: 'td16216@my.bristol.ac.uk'
+    email: 'eg17373@my.bristol.ac.uk'
   }, {
-    image: 'JamesWheeler.png',
-    name: 'James Wheeler',
+    image: 'SimmieStone.jpg',
+    name: 'Simmie Stone',
     position: 'Treasurer',
-    email: 'jw15835@my.bristol.ac.uk'
+    email: 'ss17318@my.bristol.ac.uk'
   }, {
-    image: 'BryanWong.png',
-    name: 'Bryan Wong',
+    image: 'MartinRao.jpg',
+    name: 'Martin Rao',
     position: 'Publicity Officer',
-    email: 'bw14555@my.bristol.ac.uk'
+    email: 'mr16275@my.bristol.ac.uk'
   }, {
-    image: 'MartinMai.png',
-    name: 'Martin Mai',
+    image: 'AnaOprisan.jpg',
+    name: 'Ana Oprisan',
     position: 'Equality Officer',
-    email: 'zm16638@my.bristol.ac.uk'
+    email: 'ao16574@my.bristol.ac.uk'
   }, {
-    image: 'Robert Eyre.png',
-    name: 'Robert Eyre',
-    position: 'Social Section Captain',
-    email: 're13093@my.bristol.ac.uk'
-  }, {
-    image: 'MaxLaFaci.png',
+    image: 'MaxLaFaci.jpg',
     name: 'Max La Faci',
-    position: 'Social Section Vice Captain',
+    position: 'Social Section Captain',
     email: 'ml16947@my.bristol.ac.uk'
   }, {
-    image: 'DomeCharts.png',
-    name: 'Dome Chartsakulkanajarn',
-    position: 'Social Secretary',
-    email: 'tc14273@my.bristol.ac.uk'
+    image: 'ChristopherSaji.jpg',
+    name: 'Christopher Saji',
+    position: 'Social Section Vice Captain',
+    email: 'cs17792@my.bristol.ac.uk'
   }, {
-    image: 'KatrinaFray.png',
-    name: 'Katrina Fray',
+    image: 'AmyAmin.jpg',
+    name: 'Amy Amin',
+    position: 'Social Secretary',
+    email: 'aa17060@my.bristol.ac.uk'
+  }, {
+    image: 'AngelaLuo.jpg',
+    name: 'Angela Luo',
     position: 'Kit Officer',
-    email: 'kf15164@my.bristol.ac.uk'
+    email: 'wl17443@my.bristol.ac.uk'
   }, {
     image: 'XiaoXuanTeh.png',
     name: 'Xiao Xuan Teh',
@@ -156,45 +156,30 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'RohanGupta.png',
-    name: 'Rohan Gupta',
-    position: 'Men\'s 1st Captain',
-    email: 'rg15793@my.bristol.ac.uk'
+    image: 'MartinMai.jpg',
+    name: 'Martin Mai',
+    position: 'Men\'s Performance Captain',
+    email: 'zm16638@my.bristol.ac.uk'
   }, {
-    image: 'DavidPhillips.png',
-    name: 'Dave Phillips',
-    position: 'Men\'s 2nd Captain',
-    email: 'David.Phillips@bristol.ac.uk'
+    image: 'AmyPolglase.jpg',
+    name: 'Amy Polglase',
+    position: 'Ladies\' Performance Captain',
+    email: 'ap17353@my.bristol.ac.uk'
   }, {
-    image: 'NickTaylor.png',
-    name: 'Nick Taylor',
-    position: 'Men\'s 3rd Captain',
-    email: 'nt12318@bristol.ac.uk'
+    image: 'MatthewThompson.jpg',
+    name: 'Matthew Thompson',
+    position: 'Men\'s Development Captain',
+    email: 'mt17242@my.bristol.ac.uk'
   }, {
-    image: 'GraceLi.png',
-    name: 'Grace Li',
-    position: 'Ladies\' 1st Captain',
-    email: 'gl16474@my.bristol.ac.uk'
+    image: 'Lauren Rickwood.jpg',
+    name: 'Lauren Rickwood',
+    position: 'Ladies\' Development Captain',
+    email: 'lr163858@my.bristol.ac.uk'
   }, {
-    image: 'AnaMariaOprisan.png',
-    name: 'Ana Maria Oprisan',
-    position: 'Ladies\' 2nd Captain',
-    email: 'ao16574@bristol.ac.uk'
-  }, {
-    image: 'JamesWheeler.png',
-    name: 'James Wheeler',
-    position: 'Men\'s Captain',
-    email: 'jw15835@my.bristol.ac.uk'
-  }, {
-    image: 'CatherineToase.png',
-    name: 'Catherine Toase',
-    position: 'Ladies\' Captain',
-    email: 'ct14868@my.bristol.ac.uk'
-  }, {
-    image: 'RogerIp.png',
-    name: 'Roger Ip',
-    position: 'Mixed Captain',
-    email: 'ri16490@my.bristol.ac.uk'
+    image: 'Lauren Rickwood.jpg',
+    name: 'Lauren Rickwood',
+    position: 'Mixed Development Captain',
+    email: 'lr163858@my.bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
