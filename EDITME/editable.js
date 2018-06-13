@@ -120,16 +120,6 @@ app.constant('committee', [
     position: 'Equality Officer',
     email: 'ao16574@my.bristol.ac.uk'
   }, {
-    image: 'MaxLaFaci.jpg',
-    name: 'Max La Faci',
-    position: 'Social Section Captain',
-    email: 'ml16947@my.bristol.ac.uk'
-  }, {
-    image: 'ChristopherSaji.jpg',
-    name: 'Christopher Saji',
-    position: 'Social Section Vice Captain',
-    email: 'cs17792@my.bristol.ac.uk'
-  }, {
     image: 'AmyAmin.jpg',
     name: 'Amy Amin',
     position: 'Social Secretary',
@@ -180,7 +170,17 @@ app.constant('captains', [
     name: 'Lauren Rickwood',
     position: 'Mixed Development Captain',
     email: 'lr16385@my.bristol.ac.uk'
-  }
+  }, {
+    image: 'MaxLaFaci.jpg',
+    name: 'Max La Faci',
+    position: 'Social Section Captain',
+    email: 'ml16947@my.bristol.ac.uk'
+  }, {
+    image: 'ChristopherSaji.jpg',
+    name: 'Christopher Saji',
+    position: 'Social Section Vice Captain',
+    email: 'cs17792@my.bristol.ac.uk'
+  }, 
   // ---- END EDIT HERE ----
 ]);
 
