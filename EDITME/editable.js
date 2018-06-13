@@ -130,7 +130,7 @@ app.constant('committee', [
     position: 'Social Section Vice Captain',
     email: 'ml16947@my.bristol.ac.uk'
   }, {
-    image: 'DomeCharts.png',
+    image: 'Amy Amin.jpg',
     name: 'Dome Chartsakulkanajarn',
     position: 'Social Secretary',
     email: 'tc14273@my.bristol.ac.uk'
