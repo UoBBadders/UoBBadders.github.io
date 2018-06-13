@@ -171,15 +171,15 @@ app.constant('captains', [
     position: 'Men\'s Development Captain',
     email: 'mt17242@my.bristol.ac.uk'
   }, {
-    image: 'Lauren Rickwood.jpg',
+    image: 'LaurenRickwood.jpg',
     name: 'Lauren Rickwood',
     position: 'Ladies\' Development Captain',
-    email: 'lr163858@my.bristol.ac.uk'
+    email: 'lr16385@my.bristol.ac.uk'
   }, {
-    image: 'Lauren Rickwood.jpg',
+    image: 'LaurenRickwood.jpg',
     name: 'Lauren Rickwood',
     position: 'Mixed Development Captain',
-    email: 'lr163858@my.bristol.ac.uk'
+    email: 'lr16385@my.bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
