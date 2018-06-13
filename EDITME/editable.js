@@ -90,10 +90,10 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'LaurenAshley.png',
-    name: 'Lauren Ashley',
+    image: 'GraceLi.jpg',
+    name: 'Grace Li',
     position: 'Club Captain',
-    email: 'la13576@my.bristol.ac.uk'
+    email: 'gl16474@my.bristol.ac.uk'
   }, {
     image: 'JoeUrwin.png',
     name: 'Joe Urwin',
