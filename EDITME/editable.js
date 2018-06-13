@@ -140,7 +140,7 @@ app.constant('committee', [
     position: 'Kit Officer',
     email: 'wl17443@my.bristol.ac.uk'
   }, {
-    image: 'XiaoXuanTeh.png',
+    image: 'XiaoXuanTeh.jpg',
     name: 'Xiao Xuan Teh',
     position: 'Fitness Officer',
     email: 'teh.xiao.xuan.2016@my.bristol.ac.uk'
