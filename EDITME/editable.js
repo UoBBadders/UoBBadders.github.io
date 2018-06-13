@@ -143,7 +143,7 @@ app.constant('committee', [
     image: 'XiaoXuanTeh.jpg',
     name: 'Xiao Xuan Teh',
     position: 'Fitness Officer',
-    email: 'teh.xiao.xuan.2016@my.bristol.ac.uk'
+    email: 'xt16907@my.bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
