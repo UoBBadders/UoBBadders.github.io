@@ -134,6 +134,11 @@ app.constant('committee', [
     name: 'Xiao Xuan Teh',
     position: 'Fitness Officer',
     email: 'xt16907@my.bristol.ac.uk'
+  }, {
+    image: 'RohanGupta.jpg',
+    name: 'Rohan Gupta',
+    position: 'Disability Badminton Officer',
+    email: 'rg15793@my.bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
