@@ -6,7 +6,7 @@ To become a member all players pay a fee to the club; this pays for shuttles, co
 
 All memberships require students to hold at least a [Get Active SEH membership for the University Sports Centre](http://www.bristol.ac.uk/sport/memberships/student/).
 
-Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £35 for Performance Players, £25 for Development PLayers and £20 for Social Players.
+Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £35 for Performance Players, £25 for Development Players and £20 for Social Players.
 
 Squad | Inclusions | Price £
 --- | --- | ---
