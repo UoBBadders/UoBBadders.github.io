@@ -4,7 +4,7 @@ To become a member all players pay a fee to the club; this pays for shuttles, co
 - Development memberships are available to strong players wanting to play in Local League teams, those who are improving towards the performance standard or would prefer a lower training commitment compared to the performance squad.
 - Social memberships are available to anyone who would like to become a member of the club, whether you have never picked up a racket or just want an opportunity to play regularly.
 
-All memberships require students to hold at least a [Get Active SEH membership for the University Sports Centre](http://www.bristol.ac.uk/sport/memberships/student/).
+All memberships require students to hold at least a [B:Active SEH membership for the University Sports Centre](http://www.bristol.ac.uk/sport/memberships/student/).
 
 Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £35 for Performance Players, £25 for Development Players and £20 for Social Players.
 
