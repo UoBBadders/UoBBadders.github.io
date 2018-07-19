@@ -8,5 +8,3 @@ More detailed documentation can be found in our document repository: https://goo
 Including: UoBBC Equality Statement, UoBBC Sustainability Statement, UoBBC Equality and Diversity, UoBBC Sustainability, UoBBC AGM 2018 Minutes, UoBBC Constitution, Bristol SU Code of Conduct, Clean Sport at the University of Bristol
 
 For previous members looking to stay in contact with other old members, and/or keep up to date with what the club is doing, please join our Alumni Facebook page at https://www.facebook.com/groups/234221176994100/.
-
-UoBBC are hosting Junior Camps this summer, aimed at junior players around the ages of 15-18 years old. The camp will feature on-court training from experienced Level 2 coaches, as well as off-court strength and conditioning, nutrition, and more! For more information, please check out the event on Facebook at https://www.facebook.com/events/206738153278654/ or email the club at uobbadders@gmail.com.
