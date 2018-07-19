@@ -5,7 +5,7 @@ uobbadders@gmail.com
 Please contact SU staff member Sophie Thomas: sophie.thomas@bristol.ac.uk
 
 ### Need info for a local league match?
-Please contact James Wheeler: jw15835@my.bristol.ac.uk
+Please contact the club at: uobbadders@gmail.com
 
 ### SEH
 Indoor Sports Centre
