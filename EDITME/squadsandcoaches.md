@@ -7,14 +7,12 @@ The performance squad is made up of around 30 players who train 4 times per week
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
 Monday (Motiv8 Fitness) | 07.30-08.30 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
-Monday (Drop In Fitness) | 12.00-14.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
 Tuesday | 20.30-22.30 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
 Wednesday | 13.00-15.00 | SEH | 3-6 | Performance BUCS Matches
-Thursday | 18.00-19.30 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
-Friday (Drop In Fitness) | 12.00-14.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
-Friday | 19.00-20.30 | Kingsdown | 2 | Performance BUCS teams: M1, M2, M3, L1, L2
-Saturday (Fitness) | 09.00-10.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
-Sunday | 15.00-17.00 | Kingsdown | 2 | Performance BUCS teams: M1, M2, M3, L1, L2
+Thursday | 19.30-21.00 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
+Saturday (S&C) | 12.00-13.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
+Sunday | 17.30-19.00 | SEH | 3 | Performance BUCS teams: variable
+Sunday | 19.00-21.00 | SEH | 3 | Local League
 
 # Development Squad
 
@@ -24,9 +22,11 @@ The Development squad is made up of 40 players and offers a competitive string o
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
+Monday (Motiv8 Fitness) | 07.30-08.30 | SEH | ~ | Development
 Tuesday | 07.00-08.30 | SEH | 3 (Shared) | Development
-Friday | 19.00-20.30 | Kingsdown | 3 | Development
-Sunday | 18.00-21.00 | SEH | 3 | Development + Local League
+Friday | 19.00-20.30 | Kingsdown | 4 | Development
+Saturday (S&C) | 12.00-13.00 | SEH | ~ | Development
+Sunday | 19.00-21.00 | SEH | 3 | Development + Local League
 
 # Social Section
 
@@ -47,7 +47,7 @@ Disability badminton is an open and friendly environment catering for all staff 
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Sunday | 15.00-17.00 | Kingsdown | 1 | ~
+Friday | 19.00-20.30 | Kingsdown | 1 | ~
 
 
 # Training Venues
