@@ -55,4 +55,5 @@ Friday | 19.00-20.30 | Kingsdown | 1 | ~
 All of our training sessions take place in one of the following venues, as detailed in the timetables above:
 
 University Indoor Sports Centre, Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP
+
 Kingsdown Sports Club, Portland Street, Bristol, BS2 8HL
