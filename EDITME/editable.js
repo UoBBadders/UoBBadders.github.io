@@ -229,7 +229,7 @@ app.constant('getTheKitLink',
   **  Make sure the URL below is surrounded by 'single quotes' !!
   */
   // ---- EDIT HERE ----
-  'http://playerlayer.com'
+  'https://www.surridgesport.com/uob-badminton'
   // ---- END EDIT HERE ----
 );
 
