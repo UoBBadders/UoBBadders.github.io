@@ -10,10 +10,8 @@ Check out the membership tariffs below: For those who are only around for half o
 
 Squad | Inclusions | Price £
 --- | --- | ---
-Performance | With Player Layer shirt and FZ Forza Shirt | 90
-Performance | With FZ Forza or PlayerLayer Shirt | 80
-Performance | With No Shirt | 70
-Development | With FZ Forza Shirt | 65
-Development | With No Shirt | 55
-Social | With FZ Forza Shirt | 55
+Performance | With Surridge match shirt | 90
+Performance | No shirt | 80
+Development | No Shirt | 75
+Social | With FZ Forza Shirt | 50
 Social | No shirt | 45
