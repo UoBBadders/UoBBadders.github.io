@@ -115,7 +115,7 @@ app.constant('committee', [
     position: 'Publicity Officer',
     email: 'mr16275@my.bristol.ac.uk'
   }, {
-    image: 'Adam Stephens.jpg',
+    image: 'AdamStephens.jpg',
     name: 'Adam Stephens',
     position: 'Equality Officer',
     email: 'a.stephens@bristol.ac.uk'
