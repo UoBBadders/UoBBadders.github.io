@@ -2,7 +2,7 @@ UoBBC is a large, thriving and vibrant club within Bristol Sport. Our club missi
 
 Currently the club has over 200 members, 2 professional coaches and a range of student volunteer coaches. This enables the club to support players at the beginning of their badminton career all the way through to those competing internationally. The club has 3 squads and offers disability badminton. The use of a 3-tiered system plus disability badminton, providing a *social section*, *development squad* and *performance squad*, allows us to cater for all abilities. The club has strong links with the county team and local badminton community, with 3 members playing for various Avon squads. It doesn’t stop there! Off-court the opportunities and community atmosphere continues. With socials ranging from big nights out, trampolining, awards nights and spectating professional badminton, true friendships can be and are made within the club.
 
-Our player bursary form, for current players, to help with transport, entry and events costs, can be found here: https://goo.gl/xDWmtP
+Our player bursary form, for current players, to help with transport, entry and events costs, can be found here: https://drive.google.com/file/d/1t_iXoH-I2VbtQXx-ZjRUsRipWbU6Mk3_/view?usp=sharing
 
 More detailed documentation can be found in our document repository: https://goo.gl/PhF2vz 
 Including: UoBBC Equality Statement, UoBBC Sustainability Statement, UoBBC Equality and Diversity, UoBBC Sustainability, UoBBC AGM 2018 Minutes, UoBBC Constitution, Bristol SU Code of Conduct, Clean Sport at the University of Bristol
