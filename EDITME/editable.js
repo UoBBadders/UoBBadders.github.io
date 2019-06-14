@@ -72,6 +72,9 @@ app.constant('sponsors', [
   {
     link: 'http://www.fz-forza.com/',
     image: 'Fz Forza.png'
+  }, {
+    link: 'https://the-lostandfound.co.uk/',
+    image: 'The Lost and Found.svg'
   }
   // ---- END EDIT HERE ----
 ]);
@@ -90,6 +93,7 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
+<<<<<<< HEAD
     image: 'GraceLi.png',
     name: 'Grace Li',
     position: 'Club Captain',
@@ -139,6 +143,82 @@ app.constant('committee', [
     name: 'Rohan Gupta',
     position: 'Disability Badminton Officer',
     email: 'rg15793@my.bristol.ac.uk'
+=======
+    image: 'Matthew Thompson.jpg',
+    name: 'Matthew Thompson',
+    position: 'Club Captain',
+    email: 'mt17242@my.bristol.ac.uk'
+  }, {
+    image: 'Jenny Chung.jpg',
+    name: 'Jenny Chung',
+    position: 'Vice-Captain',
+    email: '	ie18818@my.bristol.ac.uk'
+  }, {
+    image: 'Gem Liew.jpg',
+    name: 'Germaine Liew',
+    position: 'Secretary',
+    email: 'pn18593@my.bristol.ac.uk'
+  }, {
+    image: 'Niharika Singh.jpg',
+    name: 'Niharika Singh',
+    position: 'Treasurer',
+    email: 'ns17177@my.bristol.ac.uk'
+  }, {
+    image: 'Akhilesh Mistry.jpg',
+    name: 'Akhilesh Mistry',
+    position: 'Fitness Secretary and Equality Officer',
+    email: 'am16676@my.bristol.ac.uk'
+  }, {
+    image: 'Angela Luo.jpg',
+    name: 'Angela Luo',
+    position: 'Publicity Officer',
+    email: 'wl17443@my.bristol.ac.uk'
+  }, {
+    image: 'Caitlin Shaw.png',
+    name: 'Caitlin Shaw',
+    position: 'Kit Officer',
+    email: 'cs17104@my.bristol.ac.uk'
+  }, {
+    image: 'Mark Pearson.jpg',
+    name: 'Mark Pearson',
+    position: 'Social Secretary',
+    email: 'ol18693@my.bristol.ac.uk'
+  }, {
+    image: 'Abigail Kemp.png',
+    name: 'Abigail Kemp',
+    position: 'Womens Performance Captain',
+    email: 'mo18714@bristol.ac.uk'
+  }, {
+    image: 'Timmy Chen.png',
+    name: 'Timmy Chen',
+    position: 'Men\'s Performance Captain',
+    email: 'lo18724@bristol.ac.uk'
+  }, {
+    image: 'Chloe Deng.jpg',
+    name: 'Chloe Deng',
+    position: 'Women\'s Development Captain',
+    email: 'hd16343@my.bristol.ac.uk'
+  }, {
+    image: 'James Uzzell.jpg',
+    name: 'James Uzzell',
+    position: 'Men\'s Development Captain',
+    email: 'ju17703@my.bristol.ac.uk'
+  }, {
+    image: 'Maria Takeuchi.jpg',
+    name: 'Maria Takeuchi',
+    position: 'Mixed Development Captain',
+    email: 'rs18735@my.bristol.ac.uk'
+  }, {
+    image: 'Roman Shkunov.jpg',
+    name: 'Roman Shkunov',
+    position: 'Social Captain',
+    email: 'qv18917@my.bristol.ac.uk'
+  }, {
+    image: 'Joe Rees.jpg',
+    name: 'Joe Rees',
+    position: 'Social Vice-Captain',
+    email: 'jr17209@my.bristol.ac.uk'
+>>>>>>> 2019
   }
   // ---- END EDIT HERE ----
 ]);
@@ -151,6 +231,7 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
+<<<<<<< HEAD
     image: 'MartinMai.jpg',
     name: 'Martin Mai',
     position: 'Men\'s Performance Captain',
@@ -186,6 +267,43 @@ app.constant('captains', [
     position: 'Social Section Vice Captain',
     email: 'cs17792@my.bristol.ac.uk'
   }, 
+=======
+    image: 'Timmy Chen.png',
+    name: 'Timmy Chen',
+    position: 'Men\'s Performance Captain',
+    email: 'lo18724@bristol.ac.uk'
+  }, {
+    image: 'Abigail Kemp.png',
+    name: 'Abigail Kemp',
+    position: 'Womens Performance Captain',
+    email: 'mo18714@bristol.ac.uk'
+  }, {
+    image: 'Chloe Deng.jpg',
+    name: 'Chloe Deng',
+    position: 'Women\'s Development Captain',
+    email: 'hd16343@my.bristol.ac.uk'
+  }, {
+    image: 'James Uzzell.jpg',
+    name: 'James Uzzell',
+    position: 'Men\'s Development Captain',
+    email: 'ju17703@my.bristol.ac.uk'
+  }, {
+    image: 'Maria Takeuchi.jpg',
+    name: 'Maria Takeuchi',
+    position: 'Mixed Development Captain',
+    email: 'rs18735@my.bristol.ac.uk'
+  }, {
+    image: 'Roman Shkunov.jpg',
+    name: 'Roman Shkunov',
+    position: 'Social Captain',
+    email: 'qv18917@my.bristol.ac.uk'
+  }, {
+    image: 'Joe Rees.jpg',
+    name: 'Joe Rees',
+    position: 'Social Vice-Captain',
+    email: 'jr17209@my.bristol.ac.uk'
+  }
+>>>>>>> 2019
   // ---- END EDIT HERE ----
 ]);
 
