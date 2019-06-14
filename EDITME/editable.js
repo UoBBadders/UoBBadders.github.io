@@ -93,57 +93,6 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
-<<<<<<< HEAD
-    image: 'GraceLi.png',
-    name: 'Grace Li',
-    position: 'Club Captain',
-    email: 'gl16474@my.bristol.ac.uk'
-  }, {
-    image: 'RohanGupta.jpg',
-    name: 'Rohan Gupta',
-    position: 'Vice Club Captain',
-    email: 'rg15793@my.bristol.ac.uk'
-  }, {
-    image: 'EmmaGreenough.jpg',
-    name: 'Emma Greenough',
-    position: 'Secretary',
-    email: 'eg17373@my.bristol.ac.uk'
-  }, {
-    image: 'SimmieStone.jpg',
-    name: 'Simmie Stone',
-    position: 'Treasurer',
-    email: 'ss17318@my.bristol.ac.uk'
-  }, {
-    image: 'MartinRao.jpg',
-    name: 'Martin Rao',
-    position: 'Publicity Officer',
-    email: 'mr16275@my.bristol.ac.uk'
-  }, {
-    image: 'AdamStephens.jpg',
-    name: 'Adam Stephens',
-    position: 'Equality Officer',
-    email: 'a.stephens@bristol.ac.uk'
-  }, {
-    image: 'AmyAmin.jpg',
-    name: 'Amy Amin',
-    position: 'Social Secretary',
-    email: 'aa17060@my.bristol.ac.uk'
-  }, {
-    image: 'AngelaLuo.jpg',
-    name: 'Angela Luo',
-    position: 'Kit Officer',
-    email: 'wl17443@my.bristol.ac.uk'
-  }, {
-    image: 'XiaoXuanTeh.jpg',
-    name: 'Xiao Xuan Teh',
-    position: 'Fitness Officer',
-    email: 'xt16907@my.bristol.ac.uk'
-  }, {
-    image: 'RohanGupta.jpg',
-    name: 'Rohan Gupta',
-    position: 'Disability Badminton Officer',
-    email: 'rg15793@my.bristol.ac.uk'
-=======
     image: 'Matthew Thompson.jpg',
     name: 'Matthew Thompson',
     position: 'Club Captain',
@@ -218,7 +167,6 @@ app.constant('committee', [
     name: 'Joe Rees',
     position: 'Social Vice-Captain',
     email: 'jr17209@my.bristol.ac.uk'
->>>>>>> 2019
   }
   // ---- END EDIT HERE ----
 ]);
@@ -231,43 +179,6 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
-<<<<<<< HEAD
-    image: 'MartinMai.jpg',
-    name: 'Martin Mai',
-    position: 'Men\'s Performance Captain',
-    email: 'zm16638@my.bristol.ac.uk'
-  }, {
-    image: 'AmyPolglase.jpg',
-    name: 'Amy Polglase',
-    position: 'Ladies\' Performance Captain',
-    email: 'ap17353@my.bristol.ac.uk'
-  }, {
-    image: 'MatthewThompson.jpg',
-    name: 'Matthew Thompson',
-    position: 'Men\'s Development Captain',
-    email: 'mt17242@my.bristol.ac.uk'
-  }, {
-    image: 'LaurenRickwood.jpg',
-    name: 'Lauren Rickwood',
-    position: 'Ladies\' Development Captain',
-    email: 'lr16385@my.bristol.ac.uk'
-  }, {
-    image: 'LaurenRickwood.jpg',
-    name: 'Lauren Rickwood',
-    position: 'Mixed Development Captain',
-    email: 'lr16385@my.bristol.ac.uk'
-  }, {
-    image: 'MaxLaFaci.jpg',
-    name: 'Max La Faci',
-    position: 'Social Section Captain',
-    email: 'ml16947@my.bristol.ac.uk'
-  }, {
-    image: 'ChristopherSaji.jpg',
-    name: 'Christopher Saji',
-    position: 'Social Section Vice Captain',
-    email: 'cs17792@my.bristol.ac.uk'
-  }, 
-=======
     image: 'Timmy Chen.png',
     name: 'Timmy Chen',
     position: 'Men\'s Performance Captain',
@@ -303,7 +214,6 @@ app.constant('captains', [
     position: 'Social Vice-Captain',
     email: 'jr17209@my.bristol.ac.uk'
   }
->>>>>>> 2019
   // ---- END EDIT HERE ----
 ]);
 
