@@ -179,37 +179,37 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Timmy Chen.png',
+    image: 'Timmy Chen.JPG',
     name: 'Timmy Chen',
     position: 'Men\'s Performance Captain',
     email: 'lo18724@bristol.ac.uk'
   }, {
-    image: 'Abigail Kemp.png',
+    image: 'Abigail Kemp.JPG',
     name: 'Abigail Kemp',
     position: 'Womens Performance Captain',
     email: 'mo18714@bristol.ac.uk'
   }, {
-    image: 'Chloe Deng.jpg',
+    image: 'Chloe Deng.JPG',
     name: 'Chloe Deng',
     position: 'Women\'s Development Captain',
     email: 'hd16343@my.bristol.ac.uk'
   }, {
-    image: 'James Uzzell.jpg',
+    image: 'James Uzzell.JPG',
     name: 'James Uzzell',
     position: 'Men\'s Development Captain',
     email: 'ju17703@my.bristol.ac.uk'
   }, {
-    image: 'Maria Takeuchi.jpg',
+    image: 'Maria Takeuchi.JPG',
     name: 'Maria Takeuchi',
     position: 'Mixed Development Captain',
     email: 'rs18735@my.bristol.ac.uk'
   }, {
-    image: 'Roman Shkunov.jpg',
+    image: 'Roman Shkunov.JPG',
     name: 'Roman Shkunov',
     position: 'Social Captain',
     email: 'qv18917@my.bristol.ac.uk'
   }, {
-    image: 'Joe Rees.jpg',
+    image: 'Joe Rees.JPG',
     name: 'Joe Rees',
     position: 'Social Vice-Captain',
     email: 'jr17209@my.bristol.ac.uk'
