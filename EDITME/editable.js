@@ -93,77 +93,77 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Matthew Thompson.jpg',
+    image: 'Matthew Thompson.JPG',
     name: 'Matthew Thompson',
     position: 'Club Captain',
     email: 'mt17242@my.bristol.ac.uk'
   }, {
-    image: 'Jenny Chung.jpg',
+    image: 'Jenny Chung.JPG',
     name: 'Jenny Chung',
     position: 'Vice-Captain',
     email: '	ie18818@my.bristol.ac.uk'
   }, {
-    image: 'Gem Liew.jpg',
+    image: 'Gem Liew.JPG',
     name: 'Germaine Liew',
     position: 'Secretary',
     email: 'pn18593@my.bristol.ac.uk'
   }, {
-    image: 'Niharika Singh.jpg',
+    image: 'Niharika Singh.JPG',
     name: 'Niharika Singh',
     position: 'Treasurer',
     email: 'ns17177@my.bristol.ac.uk'
   }, {
-    image: 'Akhilesh Mistry.jpg',
+    image: 'Akhilesh Mistry.JPG',
     name: 'Akhilesh Mistry',
     position: 'Fitness Secretary and Equality Officer',
     email: 'am16676@my.bristol.ac.uk'
   }, {
-    image: 'Angela Luo.jpg',
+    image: 'Angela Luo.JPG',
     name: 'Angela Luo',
     position: 'Publicity Officer',
     email: 'wl17443@my.bristol.ac.uk'
   }, {
-    image: 'Caitlin Shaw.png',
+    image: 'Caitlin Shaw.JPG',
     name: 'Caitlin Shaw',
     position: 'Kit Officer',
     email: 'cs17104@my.bristol.ac.uk'
   }, {
-    image: 'Mark Pearson.jpg',
+    image: 'Mark Pearson.JPG',
     name: 'Mark Pearson',
     position: 'Social Secretary',
     email: 'ol18693@my.bristol.ac.uk'
   }, {
-    image: 'Abigail Kemp.png',
+    image: 'Abigail Kemp.JPG',
     name: 'Abigail Kemp',
     position: 'Womens Performance Captain',
     email: 'mo18714@bristol.ac.uk'
   }, {
-    image: 'Timmy Chen.png',
+    image: 'Timmy Chen.JPG',
     name: 'Timmy Chen',
     position: 'Men\'s Performance Captain',
     email: 'lo18724@bristol.ac.uk'
   }, {
-    image: 'Chloe Deng.jpg',
+    image: 'Chloe Deng.JPG',
     name: 'Chloe Deng',
     position: 'Women\'s Development Captain',
     email: 'hd16343@my.bristol.ac.uk'
   }, {
-    image: 'James Uzzell.jpg',
+    image: 'James Uzzell.JPG',
     name: 'James Uzzell',
     position: 'Men\'s Development Captain',
     email: 'ju17703@my.bristol.ac.uk'
   }, {
-    image: 'Maria Takeuchi.jpg',
+    image: 'Maria Takeuchi.JPG',
     name: 'Maria Takeuchi',
     position: 'Mixed Development Captain',
     email: 'rs18735@my.bristol.ac.uk'
   }, {
-    image: 'Roman Shkunov.jpg',
+    image: 'Roman Shkunov.JPG',
     name: 'Roman Shkunov',
     position: 'Social Captain',
     email: 'qv18917@my.bristol.ac.uk'
   }, {
-    image: 'Joe Rees.jpg',
+    image: 'Joe Rees.JPG',
     name: 'Joe Rees',
     position: 'Social Vice-Captain',
     email: 'jr17209@my.bristol.ac.uk'
