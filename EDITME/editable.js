@@ -115,7 +115,7 @@ app.constant('committee', [
   }, {
     image: 'Akhilesh Mistry.JPG',
     name: 'Akhilesh Mistry',
-    position: 'Fitness Secretary and Equality Officer',
+    position: 'Fitness and Equality Officer',
     email: 'am16676@my.bristol.ac.uk'
   }, {
     image: 'Angela Luo.JPG',
