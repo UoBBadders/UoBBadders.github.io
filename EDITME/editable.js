@@ -103,7 +103,7 @@ app.constant('committee', [
     position: 'Vice-Captain',
     email: '	ie18818@my.bristol.ac.uk'
   }, {
-    image: 'Gem Liew.JPG',
+    image: 'gemliew.jpg',
     name: 'Germaine Liew',
     position: 'Secretary',
     email: 'pn18593@my.bristol.ac.uk'
