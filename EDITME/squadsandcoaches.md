@@ -6,13 +6,13 @@ The performance squad is made up of around 30 players who train 4 times per week
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Monday (Motiv8 Fitness) | 07.30-08.30 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
-Tuesday | 20.30-22.30 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
-Wednesday | 13.00-15.00 | SEH | 3-6 | Performance BUCS Matches
-Thursday | 19.30-21.00 | SEH | 6 | Performance BUCS teams: M1, M2, M3, L1, L2
-Saturday (S&C) | 12.00-13.00 | SEH | ~ | Performance BUCS teams: M1, M2, M3, L1, L2
-Sunday | 17.30-19.00 | SEH | 3 | Performance BUCS teams: variable
-Sunday | 19.00-21.00 | SEH | 3 | Local League
+Monday (S&C) | 17.30-18.30 (Every Fortnight) | SEH Jogging Track | ~ | All 
+Monday | 18.30-19.30 | SEH | 6 | All 
+Tuesday | 20.00-22.30 | SEH | 6 | Doubles 20.00-21.00 All 21.00-22.30 
+Wednesday | 13.00-15.00 | SEH | 3-6 | BUCS Matches
+Thursday | 21.30-22.30 | SEH | 6 | Singles 
+Friday (S&C) | 20.00-20.45 | BGS Gym | ~ | All 
+Sunday | TBC | SEH | 3 | Local League
 
 # Development Squad
 
@@ -22,11 +22,9 @@ The Development squad is made up of 40 players and offers a competitive string o
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Monday (Motiv8 Fitness) | 07.30-08.30 | SEH | ~ | Development
-Tuesday | 07.00-08.30 | SEH | 3 (Shared) | Development
+Monday (S&C) | 17.30-18.30 (Every Fortnight) | SEH Jogging Track | ~ | Development
 Friday | 19.00-20.30 | Kingsdown | 4 | Development
-Saturday (S&C) | 12.00-13.00 | SEH | ~ | Development
-Sunday | 19.00-21.00 | SEH | 3 | Development + Local League
+Sunday | 18.00-21.00 | SEH | 3 | Development + Local League
 
 # Social Section
 
@@ -36,8 +34,8 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Tuesday | 07.00-08.30 | SEH | 3 (Shared) | Social
-Saturday (Main Session) | 16.30-18.30 | SEH | 6 | Social
+Tuesday | 21.00-22.30 | SEH | 6 | Social
+Saturday (Main Session) | 13.00-15.00 | SEH | 3 | Social
 
 # Disability Badminton
 

@@ -10,9 +10,8 @@ Check out the membership tariffs below: For those who are only around for half o
 
 Squad | Inclusions | Price £
 --- | --- | ---
-Performance | With Surridge match shirt | 90
-Performance | No shirt | 80
-Development | No Shirt | 75
-Social | With FZ Forza Shirt | 50
+Performance | With Surridge match shirt | 95
+Development | No Shirt | 80
+Social | With FZ Forza Shirt | 55
 Social | No shirt | 45
-Disability Badminton | No shirt | 0
+Disability Badminton | No shirt | 5
