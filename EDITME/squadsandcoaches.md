@@ -34,7 +34,7 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
-Tuesday | 21.00-22.30 | SEH | 6 | Social
+Friday | 21.00-22.30 | SEH | 6 | Social
 Saturday (Main Session) | 13.00-15.00 | SEH | 3 | Social
 
 # Disability Badminton
