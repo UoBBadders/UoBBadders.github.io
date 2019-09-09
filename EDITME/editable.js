@@ -75,6 +75,9 @@ app.constant('sponsors', [
   }, {
     link: 'https://the-lostandfound.co.uk/',
     image: 'The Lost and Found.svg'
+  }, {
+    link: 'https://bostonteaparty.co.uk/our_cafes/bristol-park-street.php',
+    image: 'btp.jpg'
   }
   // ---- END EDIT HERE ----
 ]);
