@@ -6,7 +6,7 @@ To become a member all players pay a fee to the club; this pays for shuttles, co
 
 All memberships require students to hold at least a [B:Active SEH membership for the University Sports Centre](http://www.bristol.ac.uk/sport/memberships/student/).
 
-Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £45 for Performance Players, £35 for Development Players and £25 for Social Players. If you would like to play Disability Badminton, we charge £1 per session, but you will still need to register with us on the Bristol SU website.
+Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £47.50 for Performance Players, £40 for Development Players and £27.50 for Social Players. If you would like to play Disability Badminton, we charge £1 per session, but you will still need to register with us on the Bristol SU website. 
 
 Squad | Inclusions | Price £
 --- | --- | ---
