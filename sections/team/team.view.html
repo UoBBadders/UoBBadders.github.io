@@ -26,4 +26,13 @@
       <h4>{{ coach.position }}</h4>
     </li>
   </ul>
+  <h2>Other Positions</h2>
+  <ul>
+    <li ng-repeat="other in others">
+      <div class="profile" style="background-image: url('EDITME/images/team/{{ other.image }}'), url('/assets/images/team/default-profile.jpg');"></div>
+      <h3>{{ other.name }}</h3>
+      <h4>{{ other.position }}</h4>
+      <h5>{{ other.details }}</h5>
+    </li>
+  </ul>
 </div>
