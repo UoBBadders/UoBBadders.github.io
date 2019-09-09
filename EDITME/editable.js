@@ -99,27 +99,27 @@ app.constant('committee', [
     image: 'Matthew Thompson.JPG',
     name: 'Matthew Thompson',
     position: 'Club Captain',
-    email: 'mt17242@my.bristol.ac.uk'
+    email: 'mt17242@bristol.ac.uk'
   }, {
     image: 'Jenny Chung.JPG',
     name: 'Jenny Chung',
     position: 'Vice-Captain',
-    email: '	ie18818@my.bristol.ac.uk'
+    email: '	ie18818@bristol.ac.uk'
   }, {
     image: 'gemliew.jpg',
     name: 'Germaine Liew',
     position: 'Secretary',
-    email: 'pn18593@my.bristol.ac.uk'
+    email: 'pn18593@bristol.ac.uk'
   }, {
     image: 'Niharika Singh.JPG',
     name: 'Niharika Singh',
     position: 'Treasurer',
-    email: 'ns17177@my.bristol.ac.uk'
+    email: 'ns17177@bristol.ac.uk'
   }, {
     image: 'Akhilesh Mistry.JPG',
     name: 'Akhilesh Mistry',
     position: 'Fitness and Equality Officer',
-    email: 'am16676@my.bristol.ac.uk'
+    email: 'am16676@bristol.ac.uk'
   }, {
     image: 'Angela Luo.JPG',
     name: 'Angela Luo',
@@ -129,7 +129,7 @@ app.constant('committee', [
     image: 'Caitlin Shaw.JPG',
     name: 'Caitlin Shaw',
     position: 'Kit Officer',
-    email: 'cs17104@my.bristol.ac.uk'
+    email: 'cs17104@bristol.ac.uk'
   }, {
     image: 'Abigail Kemp.JPG',
     name: 'Abigail Kemp',
@@ -144,27 +144,27 @@ app.constant('committee', [
     image: 'Chloe Deng.JPG',
     name: 'Chloe Deng',
     position: 'Women\'s Development Captain',
-    email: 'hd16343@my.bristol.ac.uk'
+    email: 'hd16343@bristol.ac.uk'
   }, {
     image: 'James Uzzell.JPG',
     name: 'James Uzzell',
     position: 'Men\'s Development Captain',
-    email: 'ju17703@my.bristol.ac.uk'
+    email: 'ju17703@bristol.ac.uk'
   }, {
     image: 'Maria Takeuchi.JPG',
     name: 'Maria Takeuchi',
     position: 'Mixed Development Captain',
-    email: 'rs18735@my.bristol.ac.uk'
+    email: 'rs18735@bristol.ac.uk'
   }, {
     image: 'Roman Shkunov.JPG',
     name: 'Roman Shkunov',
     position: 'Social Captain',
-    email: 'qv18917@my.bristol.ac.uk'
+    email: 'qv18917@bristol.ac.uk'
   }, {
     image: 'Joe Rees.JPG',
     name: 'Joe Rees',
     position: 'Social Vice-Captain',
-    email: 'jr17209@my.bristol.ac.uk'
+    email: 'jr17209@bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
@@ -190,27 +190,27 @@ app.constant('captains', [
     image: 'Chloe Deng.JPG',
     name: 'Chloe Deng',
     position: 'Women\'s Development Captain',
-    email: 'hd16343@my.bristol.ac.uk'
+    email: 'hd16343@bristol.ac.uk'
   }, {
     image: 'James Uzzell.JPG',
     name: 'James Uzzell',
     position: 'Men\'s Development Captain',
-    email: 'ju17703@my.bristol.ac.uk'
+    email: 'ju17703@bristol.ac.uk'
   }, {
     image: 'Maria Takeuchi.JPG',
     name: 'Maria Takeuchi',
     position: 'Mixed Development Captain',
-    email: 'rs18735@my.bristol.ac.uk'
+    email: 'rs18735@bristol.ac.uk'
   }, {
     image: 'Roman Shkunov.JPG',
     name: 'Roman Shkunov',
     position: 'Social Captain',
-    email: 'qv18917@my.bristol.ac.uk'
+    email: 'qv18917@bristol.ac.uk'
   }, {
     image: 'Joe Rees.JPG',
     name: 'Joe Rees',
     position: 'Social Vice-Captain',
-    email: 'jr17209@my.bristol.ac.uk'
+    email: 'jr17209@bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
