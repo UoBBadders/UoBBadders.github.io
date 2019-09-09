@@ -131,11 +131,6 @@ app.constant('committee', [
     position: 'Kit Officer',
     email: 'cs17104@my.bristol.ac.uk'
   }, {
-    image: 'Mark Pearson.JPG',
-    name: 'Mark Pearson',
-    position: 'Social Secretary',
-    email: 'ol18693@my.bristol.ac.uk'
-  }, {
     image: 'Abigail Kemp.JPG',
     name: 'Abigail Kemp',
     position: 'Womens Performance Captain',
