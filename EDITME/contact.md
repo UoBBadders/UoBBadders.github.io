@@ -1,5 +1,5 @@
 ### Club Email
-uobbadders@gmail.com
+uobbadders@outlook.com
 
 ### Late for a BUCS match?
 Please contact SU staff member Sophie Thomas: sophie.thomas@bristol.ac.uk
