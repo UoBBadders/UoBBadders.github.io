@@ -6,4 +6,6 @@ It doesn’t stop there! Off-court the opportunities and community atmosphere co
 
 True friendships can be and are made within the club. 
 
-For previous members looking to stay in contact with other old members, and/or keep up to date with what the club is doing, please join our [Alumni LinkedIn Group](https://www.linkedin.com/groups/8772039)
+For previous members looking to stay in contact with other old members, and/or keep up to date with what the club is doing, please join our [Alumni LinkedIn Group](https://www.linkedin.com/groups/8772039).
+
+You can also read our Equality and Diversity Statement [here](https://1drv.ms/w/s!Ar71Oo8yOpUvh2MifvaXYowfouYr?e=30wD5v).
