@@ -7,8 +7,8 @@ The performance squad is made up of around 30 players who train 4 times per week
 Day | Time | Venue | Courts | Teams
 --- | --- | --- | --- | ---
 Monday (S&C) | 17.30-18.30 (Every Fortnight) | SEH Jogging Track | ~ | All 
-Monday | 18.30-19.30 | SEH | 6 | All 
-Tuesday | 20.00-22.30 | SEH | 6 | Doubles 20.00-21.00 All 21.00-22.30 
+Monday | 18.30-19.30 | SEH | 6 | Doubles
+Tuesday | 20.00-22.30 | SEH | 6 | All 20.00-22.30 
 Wednesday | 13.00-15.00 | SEH | 3-6 | BUCS Matches
 Thursday | 21.30-22.30 | SEH | 6 | Singles 
 Friday (S&C) | 20.00-20.45 | BGS Gym | ~ | All 
