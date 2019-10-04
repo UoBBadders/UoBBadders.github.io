@@ -39,7 +39,7 @@ Saturday (Main Session) | 13.00-15.00 | SEH | 3 | Social
 
 # Disability Badminton
 
-Disability badminton is an open and friendly environment catering for all staff and students or other interested participants, with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: uobbadders@gmail.com
+Disability badminton is an open and friendly environment catering for all staff and students or other interested participants, with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: uobbadders@outlook.com
 
 ### Training
 
