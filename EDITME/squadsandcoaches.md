@@ -1,30 +1,30 @@
-# Performance Squad and BUCS teams
+# Performance Squad
 
-The performance squad is made up of around 30 players who train 4 times per week and compete for spots within the 3 Men’s and 2 Ladies’ BUCS teams, as well 2 teams that compete in a singles league around Bristol. The players selected into this squad receive professional coaching from our two coaches at least once per week.
+The Performance squad is made up of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams, as well teams that compete in Women's, Men's, Mixed and Singles leagues in the Avon local leagues. The players selected into this squad receive professional coaching from our two coaches twice per week.
 
 ### Training
 
-Day | Time | Venue | Courts | Teams
+Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday (S&C) | 17.30-18.30 (Every Fortnight) | SEH Jogging Track | ~ | All 
-Monday | 18.30-19.30 | SEH | 6 | Doubles
-Tuesday | 20.00-22.30 | SEH | 6 | All 20.00-22.30 
-Wednesday | 13.00-15.00 | SEH | 3-6 | BUCS Matches
-Thursday | 21.30-22.30 | SEH | 6 | Singles 
-Friday (S&C) | 20.00-20.45 | BGS Gym | ~ | All 
-Sunday | TBC | SEH | 3 | Local League
+TBC | TBC | TBC | ~ | S&C 
+Tuesday | 20.00-22.30 | Indoor Sports Centre | 6 | On-court training 
+Wednesday | TBC | Indoor Sports Centre | TBC | BUCS replacement
+Thursday | 21.30-22.30 | Indoor Sports Centre | 6 | On-court training 
+TBC | TBC | Badminton School | 4 | On-court training 
+TBC | TBC | TBC | ~ | Local League matches
 
 # Development Squad
 
-The Development squad is made up of 40 players and offers a competitive string of badminton for students with less time commitment than the performance squad. Players from this section form three local league teams ([Men's, Women's and Mixed teams in Bristol Leagues](http://www.avonba.co.uk/)). Players in this section can move up to the performance squad and into the BUCS teams.
+The Development squad is made up of around 40 players and offers a competitive string of badminton for students with less time commitment than the Performance squad. Players from this section form teams that compete in the [Men's, Women's and Mixed teams in Avon Leagues](http://www.avonba.co.uk/)). Development squad players have the chance at points in the year to move up to the Performance squad and into the BUCS teams.
 
 ### Training
 
-Day | Time | Venue | Courts | Teams
+Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday (S&C) | 17.30-18.30 (Every Fortnight) | SEH Jogging Track | ~ | Development
-Friday | 19.00-20.30 | Kingsdown | 4 | Development
-Sunday | 18.00-21.00 | SEH | 3 | Development + Local League
+TBC | TBC | TBC | ~ | S&C
+Saturday | 13.00-15.00 | Indoor Sports Centre | 3 | On-court training
+Sunday | 18.00-21.00 | Indoor Sports Centre | 3 | On-court training
+TBC | TBC | TBC | ~ | Local League matches
 
 # Social Section
 
@@ -32,26 +32,27 @@ Our social section is open to everyone and is a great way to get involved with b
 
 ### Training
 
-Day | Time | Venue | Courts | Teams
+Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Friday | 21.00-22.30 | SEH | 6 | Social
-Saturday (Main Session) | 13.00-15.00 | SEH | 3 | Social
+Friday | 21.00-22.30 | Indoor Sports Centre | 6 | On-court session
 
 # Disability Badminton
 
-Disability badminton is an open and friendly environment catering for all staff and students or other interested participants, with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: uobbadders@outlook.com
+Disability badminton is an open and friendly environment catering for all staff, students or other interested participants with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: uobbadders@outlook.com
 
 ### Training
 
-Day | Time | Venue | Courts | Teams
+Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Friday | 19.00-20.30 | Kingsdown | 1 | ~
+Saturday | 13.00-15.00 | Indoor Sports Centre | 1 | On-court session
 
 
 # Training Venues
 
-All of our training sessions take place in one of the following venues, as detailed in the timetables above:
+Details for all possible training venues are as follows:
 
 University Indoor Sports Centre, Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP
 
-Kingsdown Sports Club, Portland Street, Bristol, BS2 8HL
+Badminton School, Westbury Road, Westbury-on-Trym, Bristol, BS9 3BA
+
+Kingsdown Sports Centre, Portland Street, Bristol, BS2 8HL
