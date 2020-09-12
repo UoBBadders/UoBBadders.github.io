@@ -15,7 +15,7 @@ TBC | TBC | TBC | ~ | Local League matches
 
 # Development Squad
 
-The Development squad is made up of around 40 players and offers a competitive string of badminton for students with less time commitment than the Performance squad. Players from this section form teams that compete in the [Men's, Women's and Mixed teams in Avon Leagues](http://www.avonba.co.uk/). Development squad players have the chance at points in the year to move up to the Performance squad and into the BUCS teams.
+The Development squad is made up of around 40 players and offers a competitive string of badminton for students with less time commitment than the Performance squad. Players from this section form teams that compete in the [Men's, Women's and Mixed teams in Avon Leagues](https://www.avonba.org/). Development squad players have the chance at points in the year to move up to the Performance squad and into the BUCS teams.
 
 ### Training
 
