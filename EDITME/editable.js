@@ -90,7 +90,7 @@ app.constant('committee', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Matthew Thompson.JPG',
+    image: 'Silhouette.jpg',
     name: 'Matthew Thompson',
     position: 'Club Captain',
     email: 'mt17242@bristol.ac.uk'
