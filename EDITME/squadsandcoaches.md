@@ -22,7 +22,7 @@ Saturday | 13.00-15.00 | Indoor Sports Centre | 3 | On-court training
 Sunday | 18.00-21.00 | Indoor Sports Centre | 3 | On-court training
 TBC | TBC | TBC | ~ | Local League matches
 
-# Social Section
+# Social Squad
 
 Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone! Social members will also receive access to badminton clinic sessions run by student coaches to improve technical ability and shot quality - an excellent opportunity for players looking to improve their badminton.
 
