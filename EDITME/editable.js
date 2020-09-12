@@ -190,11 +190,13 @@ app.constant('coaches', [
   {
     image: 'Paul Tomlinson.png',
     name: 'Paul Tomlinson',
-    position: 'Performance and Development\nSquad Coach'
+    position: 'Performance and Development\nSquad Coach',
+    details: '',
   }, {
     image: 'RebeccaPantaney.png',
     name: 'Rebecca Pantaney',
-    position: 'Performance Squad Coach'
+    position: 'Badminton Coordinator and Performance Squad Coach',
+    details: 'The University have appointed a part time Badminton Coordinator, Bex. She works within the club committee and alongside Avon and Badminton England to support the growth and development of UoBBC as a nationally recognised institution within both the Bristol and Badminton communities. Bex works to host several Badminton England sanctioned tournaments throughout the year, support NGB talent pathways, and encourage player development.',
   }
   // ---- END EDIT HERE ----
 ]);
