@@ -49,10 +49,10 @@ Saturday | 13.00-15.00 | Indoor Sports Centre | 1 | On-court session
 
 # Training Venues
 
-Details for all possible training venues are as follows:
+Details for our possible training venues are as follows:
 
-University Indoor Sports Centre, Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP
+•Indoor Sports Centre, Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP
 
-Badminton School, Westbury Road, Westbury-on-Trym, Bristol, BS9 3BA
+•Badminton School, Westbury Road, Westbury-on-Trym, Bristol, BS9 3BA
 
-Kingsdown Sports Centre, Portland Street, Bristol, BS2 8HL
+•Kingsdown Sports Centre, Portland Street, Bristol, BS2 8HL
