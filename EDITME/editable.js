@@ -91,74 +91,49 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   {
     image: 'Silhouette.jpg',
-    name: 'Matthew Thompson',
+    name: 'Emma Greenough',
     position: 'Club Captain',
-    email: 'mt17242@bristol.ac.uk'
+    email: 'eg173732@bristol.ac.uk'
   }, {
-    image: 'Jenny Chung.JPG',
-    name: 'Jenny Chung',
-    position: 'Vice-Captain',
-    email: '	ie18818@bristol.ac.uk'
+    image: 'Silhouette.jpg',
+    name: 'Eve Chillcott',
+    position: 'Vice-Club Captain',
+    email: 'dp19613@bristol.ac.uk'
   }, {
-    image: 'gemliew.jpg',
-    name: 'Germaine Liew',
+    image: 'Silhouette.jpg',
+    name: 'Eva Craig',
     position: 'Secretary',
-    email: 'pn18593@bristol.ac.uk'
+    email: 'wp19488@bristol.ac.uk'
   }, {
-    image: 'Niharika Singh.JPG',
+    image: 'Silhouette.jpg',
     name: 'Niharika Singh',
     position: 'Treasurer',
     email: 'ns17177@bristol.ac.uk'
   }, {
-    image: 'Akhilesh Mistry.JPG',
-    name: 'Akhilesh Mistry',
-    position: 'Fitness and Equality Officer',
-    email: 'am16676@bristol.ac.uk'
-  }, {
-    image: 'Angela Luo.JPG',
-    name: 'Angela Luo',
+    image: 'Silhouette.jpg',
+    name: 'Julian Chan',
     position: 'Publicity Officer',
-    email: 'wl17443@my.bristol.ac.uk'
+    email: 'sq18682@bristol.ac.uk'
   }, {
-    image: 'Caitlin Shaw.JPG',
-    name: 'Caitlin Shaw',
+    image: 'Silhouette.jpg',
+    name: 'Henry Doyle',
+    position: 'Fitness Officer',
+    email: 'pf19393@bristol.ac.uk'
+  }, {
+    image: 'Silhouette.jpg',
+    name: 'Charlotte Housden',
     position: 'Kit Officer',
-    email: 'cs17104@bristol.ac.uk'
+    email: 'uf19497@bristol.ac.uk'
   }, {
-    image: 'Abigail Kemp.JPG',
-    name: 'Abigail Kemp',
-    position: 'Womens Performance Captain',
-    email: 'mo18714@bristol.ac.uk'
+    image: 'Silhouette.jpg',
+    name: 'Juliet Chee',
+    position: 'Social Secretary',
+    email: 'fb18727@bristol.ac.uk'
   }, {
-    image: 'Timmy Chen.JPG',
-    name: 'Timmy Chen',
-    position: 'Men\'s Performance Captain',
-    email: 'lo18724@bristol.ac.uk'
-  }, {
-    image: 'Chloe Deng.JPG',
-    name: 'Chloe Deng',
-    position: 'Women\'s Development Captain',
-    email: 'hd16343@bristol.ac.uk'
-  }, {
-    image: 'James Uzzell.JPG',
-    name: 'James Uzzell',
-    position: 'Men\'s Development Captain',
-    email: 'ju17703@bristol.ac.uk'
-  }, {
-    image: 'Maria Takeuchi.JPG',
-    name: 'Maria Takeuchi',
-    position: 'Mixed Development Captain',
-    email: 'rs18735@bristol.ac.uk'
-  }, {
-    image: 'Roman Shkunov.JPG',
-    name: 'Roman Shkunov',
-    position: 'Social Captain',
-    email: 'qv18917@bristol.ac.uk'
-  }, {
-    image: 'Joe Rees.JPG',
-    name: 'Joe Rees',
-    position: 'Social Vice-Captain',
-    email: 'jr17209@bristol.ac.uk'
+    image: 'Silhouette.jpg',
+    name: 'Numra Maryam',
+    position: 'Equality and Welfare Officer',
+    email: 'fe18932@bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
@@ -171,40 +146,35 @@ app.constant('captains', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Timmy Chen.JPG',
-    name: 'Timmy Chen',
+    image: 'Silhouette.jpg',
+    name: 'Ben Wood',
     position: 'Men\'s Performance Captain',
-    email: 'lo18724@bristol.ac.uk'
+    email: 'bw17084@bristol.ac.uk'
   }, {
-    image: 'Abigail Kemp.JPG',
-    name: 'Abigail Kemp',
-    position: 'Womens Performance Captain',
-    email: 'mo18714@bristol.ac.uk'
+    image: 'Silhouette.jpg',
+    name: 'Maya Raichoora',
+    position: 'Women\'s Performance Captain',
+    email: 'mr16067@bristol.ac.uk'
   }, {
-    image: 'Chloe Deng.JPG',
-    name: 'Chloe Deng',
-    position: 'Women\'s Development Captain',
-    email: 'hd16343@bristol.ac.uk'
-  }, {
-    image: 'James Uzzell.JPG',
-    name: 'James Uzzell',
+    image: 'Silhouette.jpg',
+    name: 'Henry Doyle',
     position: 'Men\'s Development Captain',
-    email: 'ju17703@bristol.ac.uk'
+    email: 'pf19393@bristol.ac.uk'
   }, {
-    image: 'Maria Takeuchi.JPG',
-    name: 'Maria Takeuchi',
-    position: 'Mixed Development Captain',
-    email: 'rs18735@bristol.ac.uk'
+    image: 'Silhouette.jpg',
+    name: 'Anna McQuillan',
+    position: 'Women\'s and Mixed Development Captain',
+    email: 'sy19161@bristol.ac.uk'
   }, {
-    image: 'Roman Shkunov.JPG',
-    name: 'Roman Shkunov',
+    image: 'Silhouette.jpg',
+    name: 'Mark Ngu',
     position: 'Social Captain',
-    email: 'qv18917@bristol.ac.uk'
+    email: 'eh19379@bristol.ac.uk'
   }, {
-    image: 'Joe Rees.JPG',
-    name: 'Joe Rees',
+    image: 'Silhouette.jpg',
+    name: 'Miguel Sangalang',
     position: 'Social Vice-Captain',
-    email: 'jr17209@bristol.ac.uk'
+    email: 'tp19086@bristol.ac.uk'
   }
   // ---- END EDIT HERE ----
 ]);
@@ -220,7 +190,7 @@ app.constant('coaches', [
   {
     image: 'Paul Tomlinson.png',
     name: 'Paul Tomlinson',
-    position: 'Performance Squad Coach'
+    position: 'Performance and Development Squad Coach'
   }, {
     image: 'RebeccaPantaney.png',
     name: 'Rebecca Pantaney',
@@ -241,7 +211,7 @@ app.constant('others', [
     image: 'RebeccaPantaney.png',
     name: 'Rebecca Pantaney',
     position: 'Badminton Coordinator',
-    details: 'The Uni of Bristol have appointed a part time Badminton Coordinator who will work within the club committee, and partner alongside Avon and Badminton England. Working to support the growth and development of UoBBC as a nationally leading recognised institution within both the Bristol and Badminton community. Also working on hosting several tournaments planned throughout the year, link with Avon Badminton and support NGB talent pathways, and future player development.'
+    details: 'The University have appointed a part time Badminton Coordinator, Bex. She works within the club committee and alongside Avon and Badminton England to support the growth and development of UoBBC as a nationally recognised institution within both the Bristol and Badminton communities. Bex works to host several Badminton England sanctioned tournaments throughout the year, support NGB talent pathways, and encourage player development.'
   }
   // ---- END EDIT HERE ----
 ]);
