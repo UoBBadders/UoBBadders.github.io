@@ -93,7 +93,7 @@ app.constant('committee', [
     image: 'Silhouette.jpg',
     name: 'Emma Greenough',
     position: 'Club Captain',
-    email: 'eg173732@bristol.ac.uk'
+    email: 'eg17373@bristol.ac.uk'
   }, {
     image: 'Silhouette.jpg',
     name: 'Eve Chillcott',
