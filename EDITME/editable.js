@@ -163,7 +163,7 @@ app.constant('captains', [
   }, {
     image: 'Silhouette.jpg',
     name: 'Anna McQuillan',
-    position: 'Women\'s and Mixed Development Captain',
+    position: 'Women\'s and Mixed\nDevelopment Captain',
     email: 'sy19161@bristol.ac.uk'
   }, {
     image: 'Silhouette.jpg',
