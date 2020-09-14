@@ -6,7 +6,6 @@ Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
 TBC | TBC | TBC | ~ | S&C 
 Tuesday | 20.00-22.30 | Indoor Sports Centre | 6 | On-court training 
-Wednesday | TBC | Indoor Sports Centre | TBC | BUCS replacement
 Thursday | 21.30-22.30 | Indoor Sports Centre | 6 | On-court training 
 Saturday | 16.00-18.00 | Badminton School | 4 | On-court training 
 TBC | TBC | TBC | ~ | Local League matches
