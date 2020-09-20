@@ -21,6 +21,8 @@
   </head>
   <body ng-controller="appController">
     <nav-bar></nav-bar>
+    <!-- Nav background to avoid cutting off the image slider -->
+    <div class="nav-padding"></div>
     <div class="full-page">
       <div id="header" ng-include src="headerUrl" ng-controller="headerController"></div>
       <div id="sponsors" ng-include src="sponsorsUrl" ng-controller="sponsorsController"></div>
