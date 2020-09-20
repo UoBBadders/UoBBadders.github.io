@@ -1,0 +1,10 @@
+/* This file contains CSS rules not specified by less, and is loaded separately */
+
+li.profile-container {
+    /* Restrict the width of some profiles */
+    max-width: 200px;
+}
+
+div.profile {
+    display: inline-block;
+}
