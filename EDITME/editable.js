@@ -173,39 +173,48 @@ app.constant('captains', [
 
   /*  This is a list of objects describing the Captains. It works the same as
   **  the "Committee" section described above.
+  **  The three tiers here match those for the squads
   */
   // ---- EDIT HERE ----
-  {
-    image: 'Silhouette.jpg',
-    name: 'Ben Wood',
-    position: 'Men\'s Performance Captain',
-    email: 'bw17084@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Maya Raichoora',
-    position: 'Women\'s Performance Captain',
-    email: 'mr16067@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Henry Doyle',
-    position: 'Men\'s Development Captain',
-    email: 'pf19393@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Anna McQuillan',
-    position: 'Women\'s and Mixed\nDevelopment Captain',
-    email: 'sy19161@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Mark Ngu',
-    position: 'Social Captain',
-    email: 'eh19379@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Miguel Sangalang',
-    position: 'Social Vice-Captain',
-    email: 'tp19086@bristol.ac.uk'
-  }
+  [ // Performance
+    {
+      image: 'Silhouette.jpg',
+      name: 'Ben Wood',
+      position: 'Men\'s Performance Captain',
+      email: 'bw17084@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Maya Raichoora',
+      position: 'Women\'s Performance Captain',
+      email: 'mr16067@bristol.ac.uk'
+    }
+  ],
+  [ // Dev
+    {
+      image: 'Silhouette.jpg',
+      name: 'Henry Doyle',
+      position: 'Men\'s Development Captain',
+      email: 'pf19393@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Anna McQuillan',
+      position: 'Women\'s and Mixed\nDevelopment Captain',
+      email: 'sy19161@bristol.ac.uk'
+    }
+  ],
+  [ // Social
+    {
+      image: 'Silhouette.jpg',
+      name: 'Mark Ngu',
+      position: 'Social Captain',
+      email: 'eh19379@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Miguel Sangalang',
+      position: 'Social Vice-Captain',
+      email: 'tp19086@bristol.ac.uk'
+    }
+  ]
   // ---- END EDIT HERE ----
 ]);
 
@@ -218,15 +227,16 @@ app.constant('coaches', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Paul Tomlinson.png',
-    name: 'Paul Tomlinson',
-    position: 'Performance and Development\nSquad Coach',
-    details: '',
-  }, {
     image: 'RebeccaPantaney.png',
     name: 'Rebecca Pantaney',
     position: 'Badminton Coordinator and Performance Squad Coach',
     details: 'The University have appointed a part time Badminton Coordinator, Bex. She works within the club committee and alongside Avon and Badminton England to support the growth and development of UoBBC as a nationally recognised institution within both the Bristol and Badminton communities. Bex works to host several Badminton England sanctioned tournaments throughout the year, support NGB talent pathways, and encourage player development.',
+  },
+  {
+    image: 'Paul Tomlinson.png',
+    name: 'Paul Tomlinson',
+    position: 'Performance and Development\nSquad Coach',
+    details: '',
   }
   // ---- END EDIT HERE ----
 ]);
