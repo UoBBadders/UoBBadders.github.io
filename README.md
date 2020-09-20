@@ -45,7 +45,7 @@ This | is | a  | table
 row1 | *content* | goes | here
 row2 | content | **goes** | here
 
-In order to change the text in the "Squads and Coaches" section, for example, edit the Markdown in the file called `squadsandcoaches.md` in the folder `EDITME`.
+In order to change the text in the "Training Times" section, for example, edit the Markdown in the file called `trainingtimes.md` in the folder `EDITME`.
 
 ## More complex changes
 You can also change things like:

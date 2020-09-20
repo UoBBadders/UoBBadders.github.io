@@ -19,7 +19,7 @@ app.controller('appController', ['$rootScope', '$scope', function($rootScope, $s
   $scope.sponsorsUrl = '/sections/sponsors/sponsors.view.html';
   $scope.aboutUrl = '/sections/about/about.view.html';
   $scope.teamUrl = '/sections/team/team.view.html';
-  $scope.squadsandcoachesUrl = '/sections/squadsandcoaches/squadsandcoaches.view.html';
+  $scope.trainingtimesUrl = '/sections/trainingtimes/trainingtimes.view.html';
   $scope.membershipUrl = '/sections/membership/membership.view.html';
   $scope.eventsUrl = '/sections/events/events.view.html';
   $scope.galleryUrl = '/sections/gallery/gallery.view.html';
