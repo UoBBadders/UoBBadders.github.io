@@ -1,8 +1,8 @@
 <section-header title="'TEAM'"></section-header>
 <div id="container">
   <h2>COMMITTEE</h2>
-  <ul>
-    <li ng-repeat="member in committee">
+  <ul ng-repeat="tier in committee">
+    <li class="profile-container" ng-repeat="member in tier">
       <div class="profile" style="background-image: url('EDITME/images/team/{{ member.image }}'), url('EDITME/images/team/default-profile.jpg');"></div>
       <h3>{{ member.name }}</h3>
       <h4>{{ member.position }}</h4>

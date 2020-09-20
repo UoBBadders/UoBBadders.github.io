@@ -78,8 +78,30 @@ app.constant('sponsors', [
 
 // LIST OF COMMITTEE MEMBERS
 app.constant('committee', [
-  /*  This is a list of objects describing the committee members which appear in
+  /*  This is a 'list of lists' of objects describing the committee members which appear in
   **  the 'Team' section. (See below for a similar list for the Captains and Coaches).
+  **  Each 'sub-list' (between sets of square brackets) contains the members that will
+  **  be displayed on the same level on-screen.
+  **  Currently the committee is shown in a 2-4-3 layout, this can be seen and modified in
+  **  the list structure below.
+  **  You can even add more tiers if you like, just make sure the general format is:
+  **
+  [ // outer list, opened above
+    [
+      // First tier
+      {member 1},
+      {member 2},
+      ...
+    ],
+    [
+      // second tier
+      :
+    ],
+    :
+    [
+      // final tier
+    ]
+  ]
   **
   **  Each committee member object is wrapped in {curly braces},
   **  and inside it specified 4 properties:
@@ -89,52 +111,60 @@ app.constant('committee', [
   **  'email' is the email of the committee member
   */
   // ---- EDIT HERE ----
-  {
-    image: 'Silhouette.jpg',
-    name: 'Emma Greenough',
-    position: 'Club Captain',
-    email: 'eg17373@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Eve Chillcott',
-    position: 'Vice-Club Captain',
-    email: 'dp19613@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Eva Craig',
-    position: 'Secretary',
-    email: 'wp19488@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Niharika Singh',
-    position: 'Treasurer',
-    email: 'ns17177@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Julian Chan',
-    position: 'Publicity Officer',
-    email: 'sq18682@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Henry Doyle',
-    position: 'Fitness Officer',
-    email: 'pf19393@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Charlotte Housden',
-    position: 'Kit Officer',
-    email: 'uf19497@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Juliet Chee',
-    position: 'Social Secretary',
-    email: 'fb18727@bristol.ac.uk'
-  }, {
-    image: 'Silhouette.jpg',
-    name: 'Numra Maryam',
-    position: 'Equality and Welfare Officer',
-    email: 'fe18932@bristol.ac.uk'
-  }
+  [ // First tier
+    {
+      image: 'Silhouette.jpg',
+      name: 'Emma Greenough',
+      position: 'Club Captain',
+      email: 'eg17373@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Eve Chillcott',
+      position: 'Vice-Club Captain',
+      email: 'dp19613@bristol.ac.uk'
+    }
+  ], 
+  [ // Second tier
+    {
+      image: 'Silhouette.jpg',
+      name: 'Eva Craig',
+      position: 'Secretary',
+      email: 'wp19488@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Niharika Singh',
+      position: 'Treasurer',
+      email: 'ns17177@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Julian Chan',
+      position: 'Publicity Officer',
+      email: 'sq18682@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Henry Doyle',
+      position: 'Fitness Officer',
+      email: 'pf19393@bristol.ac.uk'
+    },
+  ],
+  [ // Third tier
+    {
+      image: 'Silhouette.jpg',
+      name: 'Charlotte Housden',
+      position: 'Kit Officer',
+      email: 'uf19497@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Juliet Chee',
+      position: 'Social Secretary',
+      email: 'fb18727@bristol.ac.uk'
+    }, {
+      image: 'Silhouette.jpg',
+      name: 'Numra Maryam',
+      position: 'Equality and Welfare Officer',
+      email: 'fe18932@bristol.ac.uk'
+    }
+  ],
   // ---- END EDIT HERE ----
 ]);
 
