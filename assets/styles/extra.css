@@ -8,3 +8,9 @@ li.profile-container {
 div.profile {
     display: inline-block;
 }
+
+/* Fonts are all over the place - override and ditch Open Sans, which nobody has */
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
