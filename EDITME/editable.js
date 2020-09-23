@@ -152,7 +152,7 @@ app.constant('committee', [
       image: 'Silhouette.jpg',
       name: 'Charlotte Housden',
       position: 'Kit Officer',
-      email: 'uf19497@bristol.ac.uk'
+      email: 'uf19497@bristol.ac.uk\r\n&nbsp;'
     }, {
       image: 'Silhouette.jpg',
       name: 'Juliet Chee',
@@ -161,7 +161,7 @@ app.constant('committee', [
     }, {
       image: 'Silhouette.jpg',
       name: 'Numra Maryam',
-      position: 'Equality and Welfare Officer',
+      position: 'Equality and Welfare Officer\r\n&nbsp;',
       email: 'fe18932@bristol.ac.uk'
     }
   ],
@@ -198,7 +198,7 @@ app.constant('captains', [
     }, {
       image: 'Silhouette.jpg',
       name: 'Anna McQuillan',
-      position: 'Women\'s and Mixed\nDevelopment Captain',
+      position: 'Women\'s and Mixed Development Captain',
       email: 'sy19161@bristol.ac.uk'
     }
   ],
