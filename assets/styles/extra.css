@@ -27,12 +27,11 @@ div.nav-padding {
 }
 
 @media all and (min-width: 901px) {
-div#footer ul {
-    display: inline-block;
-        width: calc('50% - 60px');
+    div#footer ul {
+        width: calc(50% - 60px) !important;
     }
 }
 
 #footer-logo {
-    width: 120px;
+    width: 120px !important;
 }
