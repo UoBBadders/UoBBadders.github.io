@@ -12,7 +12,13 @@ div.profile {
 /* Fonts are all over the place - override and ditch Open Sans, which nobody has */
 p {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 14px;   
+}
+
+p.coach-details {
+    color: #1c1c1c;
+    line-height: 1.5;
+    text-align: center;
 }
 
 /* Pad the page contents down to avoid cutting images */
