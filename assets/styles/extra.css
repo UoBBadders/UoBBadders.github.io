@@ -35,3 +35,7 @@ div.nav-padding {
 #footer-logo {
     width: 120px !important;
 }
+
+#events-desc {
+    margin: 30px 0;
+}
