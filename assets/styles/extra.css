@@ -32,3 +32,7 @@ div#footer ul {
         width: calc(~'50% - 60px');
       }
 }
+
+#footer-logo {
+    width: 120px;
+}
