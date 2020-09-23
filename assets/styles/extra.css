@@ -27,10 +27,10 @@ div.nav-padding {
 }
 
 div#footer ul {
-    @media all and (min-width: 901px) {
+    @media (min-width: 901px) {
         display: inline-block;
         width: calc(~'50% - 60px');
-      }
+    }
 }
 
 #footer-logo {
