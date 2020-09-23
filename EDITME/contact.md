@@ -1,5 +1,5 @@
 ### Club Email
-uobbadders@outlook.com
+[uobbadders@outlook.com](mailto://uobbadders@outlook.com)
 
 ### Late for a BUCS match?
 Please contact our BUCS coordinator Sophie Thomas: [sophie.thomas@bristol.ac.uk](mailto://sophie.thomas@bristol.ac.uk)

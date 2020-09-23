@@ -31,7 +31,7 @@ Friday | 21.00-22.30 | Indoor Sports Centre | 6 | On-court session
 
 # Disability Badminton
 
-Disability badminton is an open and friendly environment catering for all staff, students or other interested participants with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: uobbadders@outlook.com
+Disability badminton is an open and friendly environment catering for all staff, students or other interested participants with any disability, injury or impairment. This session offers an alternative way to experience badminton including wheelchair badminton, blind and deaf badminton and mental health sport. For more info get in touch: [uobbadders@outlook.com](mailto://uobbadders@outlook.com)
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
