@@ -8,10 +8,9 @@ All memberships require students to hold at least a [#WeAreBristol membership fo
 
 Check out the membership tariffs below: For those who are only around for half of the academic year, we offer half year memberships, which are £47.50 for Performance Players, £40 for Development Players and £27.50 for Social Players. If you would like to play Disability Badminton, we charge £1 per session, but you will still need to register with us on the Bristol SU website. 
 
-Squad | Inclusions | Price £
+Membership | Details | Price £
 --- | --- | ---
-Performance | With Surridge match shirt | 95
-Development | No Shirt | 80
-Social | With FZ Forza Shirt | 55
-Social | No shirt | 45
-Disability Badminton | No shirt | 5
+Club | All players except Disability Badminton members must purchase this membership | 45
+Development Upgrade | Development Squad players must purchase Club membership + this upgrade | 35
+Performance Upgrade | Performance Squad players must purchase Club membership + this upgrade | 45
+Disability Badminton | - | 10
