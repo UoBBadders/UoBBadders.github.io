@@ -4,11 +4,10 @@ The Performance squad is made up of around 40 players who train multiple times p
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-TBC | TBC | TBC | ~ | S&C 
-Tuesday | 20.00-22.30 | Indoor Sports Centre | 6 | On-court training 
-Thursday | 21.30-22.30 | Indoor Sports Centre | 6 | On-court training 
-Saturday | 16.00-18.00 | Badminton School | 4 | On-court training 
-TBC | TBC | TBC | ~ | Local League matches
+Monday | 7.00-9.00 | Indoor Sports Centre | 3 | Skills session - invite only 
+Tuesday | 20.00-21.45 | Indoor Sports Centre | 6 | On-court training (coached)
+Thursday | 19.30-21.45 | Indoor Sports Centre | 3 | On-court training 
+Sunday | 18.00-19.00 | Indoor Sports Centre | 3 | On-court training (coached) 
 
 # Development Squad
 
@@ -16,10 +15,9 @@ The Development squad is made up of around 40 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-TBC | TBC | TBC | ~ | S&C
-Saturday | 13.00-15.00 | Indoor Sports Centre | 3 | On-court training
-Sunday | 18.00-21.00 | Indoor Sports Centre | 3 | On-court training
-TBC | TBC | TBC | ~ | Local League matches
+Monday | 20.15-21.45 | Indoor Sports Centre | 3 | On-court training
+Friday | 19.15-20.45 | Indoor Sports Centre | 3 | On-court training (coached)
+Sunday | 19.00-21.00 | Indoor Sports Centre | 6 | On-court training
 
 # Social Squad
 
@@ -27,7 +25,8 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Friday | 21.00-22.30 | Indoor Sports Centre | 6 | On-court session
+Friday | 20.45-21.45 | Indoor Sports Centre | 6 | On-court session
+Saturday | 13.00-15.00 | Indoor Sports Centre | 3 | On-court session
 
 # Disability Badminton
 
@@ -35,7 +34,7 @@ Disability badminton is an open and friendly environment catering for all staff,
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Saturday | 13.00-15.00 | Indoor Sports Centre | 1 | On-court session
+Sunday | 19.00-21.00 | Indoor Sports Centre | 1 | On-court session
 
 
 # Training Venues
