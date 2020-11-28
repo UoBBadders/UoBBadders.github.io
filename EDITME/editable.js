@@ -113,12 +113,12 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Silhouette.jpg',
+      image: 'Emma Greenough.jpg',
       name: 'Emma Greenough',
       position: 'Club Captain',
       email: 'eg17373@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Eve Chillcott.png',
       name: 'Eve Chillcott',
       position: 'Vice-Club Captain',
       email: 'dp19613@bristol.ac.uk'
@@ -131,7 +131,7 @@ app.constant('committee', [
       position: 'Secretary',
       email: 'wp19488@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Niharika Singh.png',
       name: 'Niharika Singh',
       position: 'Treasurer',
       email: 'ns17177@bristol.ac.uk'
@@ -178,12 +178,12 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Silhouette.jpg',
+      image: 'Ben Wood.png',
       name: 'Ben Wood',
       position: 'Men\'s Performance Captain',
       email: 'bw17084@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Maya Raichoora.png',
       name: 'Maya Raichoora',
       position: 'Women\'s Performance Captain',
       email: 'mr16067@bristol.ac.uk'
