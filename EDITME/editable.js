@@ -136,7 +136,7 @@ app.constant('committee', [
       position: 'Treasurer',
       email: 'ns17177@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Julian Chan.jpg',
       name: 'Julian Chan',
       position: 'Publicity Officer',
       email: 'sq18682@bristol.ac.uk'
