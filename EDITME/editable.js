@@ -149,12 +149,12 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'Silhouette.jpg',
+      image: 'Charlotte Housden.jpg',
       name: 'Charlotte Housden',
       position: 'Kit Officer',
       email: 'uf19497@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Juliet Chee.jpg',
       name: 'Juliet Chee',
       position: 'Social Secretary',
       email: 'fb18727@bristol.ac.uk'
