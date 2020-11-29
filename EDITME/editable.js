@@ -204,12 +204,12 @@ app.constant('captains', [
   ],
   [ // Social
     {
-      image: 'Silhouette.jpg',
+      image: 'Mark Ngu.jpg',
       name: 'Mark Ngu',
       position: 'Social Captain',
       email: 'eh19379@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Miguel Sangalang.jpg',
       name: 'Miguel Sangalang',
       position: 'Social Vice-Captain',
       email: 'tp19086@bristol.ac.uk'
