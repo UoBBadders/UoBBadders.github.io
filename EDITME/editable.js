@@ -141,7 +141,7 @@ app.constant('committee', [
       position: 'Publicity Officer',
       email: 'sq18682@bristol.ac.uk'
     }, {
-      image: 'Henry Doyle 2.jpg',
+      image: 'Henry Doyle.jpg',
       name: 'Henry Doyle',
       position: 'Fitness Officer',
       email: 'pf19393@bristol.ac.uk'
@@ -159,7 +159,7 @@ app.constant('committee', [
       position: 'Social Secretary',
       email: 'fb18727@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Numra Maryam.jpg',
       name: 'Numra Maryam',
       position: 'Equality and Welfare Officer',
       email: 'fe18932@bristol.ac.uk'
