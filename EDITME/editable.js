@@ -126,7 +126,7 @@ app.constant('committee', [
   ], 
   [ // Second tier
     {
-      image: 'Silhouette.jpg',
+      image: 'Eva Craig.jpg',
       name: 'Eva Craig',
       position: 'Secretary',
       email: 'wp19488@bristol.ac.uk'
@@ -141,7 +141,7 @@ app.constant('committee', [
       position: 'Publicity Officer',
       email: 'sq18682@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Henry Doyle 2.jpg',
       name: 'Henry Doyle',
       position: 'Fitness Officer',
       email: 'pf19393@bristol.ac.uk'
@@ -191,12 +191,12 @@ app.constant('captains', [
   ],
   [ // Dev
     {
-      image: 'Silhouette.jpg',
+      image: 'Henry Doyle.jpg',
       name: 'Henry Doyle',
       position: 'Men\'s Development Captain',
       email: 'pf19393@bristol.ac.uk'
     }, {
-      image: 'Silhouette.jpg',
+      image: 'Anna McQuillan.jpg',
       name: 'Anna McQuillan',
       position: 'Women\'s and Mixed Development Captain',
       email: 'sy19161@bristol.ac.uk'
