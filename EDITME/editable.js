@@ -231,6 +231,7 @@ app.constant('coaches', [
     name: 'Rebecca Pantaney',
     position: 'Badminton Coordinator and Performance Squad Coach',
     details: 'Bex is employed by the University of Bristol and works within SEH to support the growth and development of UoBBC as a nationally recognised institution within both the Bristol and Badminton communities. Bex leads the hosting of several Badminton England sanctioned tournaments throughout the year, supports NGB talent pathways, and encourages player development.',
+    email: 'ny19487@bristol.ac.uk'
   },
   {
     image: 'Paul Tomlinson.png',
@@ -240,24 +241,6 @@ app.constant('coaches', [
   }
   // ---- END EDIT HERE ----
 ]);
-
-// LIST OF OTHER POSITIONS
-app.constant('others', [
-
-  /*  This is a list of objects describing the Other Positions. It works the same as
-  **  the "Committee" and "Captains" sections described above, except an
-  **  email address is not specified.
-  */
-  // ---- EDIT HERE ----
-  {
-    image: 'RebeccaPantaney.png',
-    name: 'Rebecca Pantaney',
-    position: 'Badminton Coordinator',
-    details: 'The University have appointed a part time Badminton Coordinator, Bex. She works within the club committee and alongside Avon and Badminton England to support the growth and development of UoBBC as a nationally recognised institution within both the Bristol and Badminton communities. Bex works to host several Badminton England sanctioned tournaments throughout the year, support NGB talent pathways, and encourage player development.'
-  }
-  // ---- END EDIT HERE ----
-]);
-
 
 // LINK FOR THE PURCHASE MEMBERSHIP BUTTON
 app.constant('purchaseMembershipLink',
