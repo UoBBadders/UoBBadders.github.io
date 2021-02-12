@@ -1,3 +1,1 @@
-Alumni
-
-AlumniAlumni
+If you have been a member of UoBBC at any time during its history, please join our Facebook and LinkedIn groups to get invites to our yearly alumni weekened, Past vs Present, and other exclusive events!
