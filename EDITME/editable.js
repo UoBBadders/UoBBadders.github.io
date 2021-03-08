@@ -143,7 +143,7 @@ app.constant('committee', [
     }, {
       image: 'Henry Doyle.jpg',
       name: 'Henry Doyle',
-      position: 'Fitness Officer',
+      position: 'Fitness Secretary',
       email: 'pf19393@bristol.ac.uk'
     },
   ],
