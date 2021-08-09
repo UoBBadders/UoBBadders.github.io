@@ -12,5 +12,5 @@ Membership | Details | Price £
 --- | --- | ---
 Club | All players except Disability Badminton members must purchase this membership | 45
 Development Upgrade | Development Squad players must purchase Club membership + this upgrade | 35
-Performance Upgrade | Performance Squad players must purchase Club membership + this upgrade | 45
+Performance Upgrade | Performance Squad players must purchase Club membership + this upgrade | 40
 Disability Badminton | - | 10
