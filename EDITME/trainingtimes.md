@@ -19,7 +19,7 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday | 21.00-22.30 Indoor Sports Centre | 4 | On-court training and matchplay
+Monday | 21.00-22.30 | Indoor Sports Centre | 4 | On-court training and matchplay
 Friday | 19.15-20.15 | Bristol Grammar School | 5 | On-court training (coached)
 Sunday | 18.30-20.00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
 
