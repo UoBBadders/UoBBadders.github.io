@@ -9,12 +9,9 @@ All memberships also require students to hold at least a [#WeAreBristol membersh
 
 Check out the membership tariffs below for the 2021-2022 academic year. For those who are only around for half of the academic year, we offer half year memberships. 
 
-Membership | Price £
---- | --- 
-Social (Full year) | 35
-Social (Half Year) | 20
-Development (Full Year) | 75
-Development (Half Year) | 40
-Performance (Full Year) | 90
-Performance (Half Year) | 45
-Disability Badminton | 5
+Membership | Full Year Price £ | Half Year Price £ 
+--- | --- | ---
+Social | 35 | 20
+Development | 75 | 40
+Performance | 90 | 45
+Disability Badminton | 5 | 5
