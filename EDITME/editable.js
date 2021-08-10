@@ -298,7 +298,7 @@ app.constant('footerLinksLeft', [
     link: 'http://www.bristol.ac.uk/sport/welcome/',
     name: 'UoB Sport, Exercise and Health'
   }, {
-    link: 'http://www.bristol.ac.uk/sport/facilities/medicine-clinic/',
+    link: 'https://www.bristol.ac.uk/sport/facilities/clinic/',
     name: 'UoB Sport, Exercise and Medicine Clinic'
   }
   // ---- END EDIT HERE ----
@@ -321,7 +321,7 @@ app.constant('footerLinksRight', [
     link: 'http://www.badmintonengland.co.uk/homepage.asp',
     name: 'Badminton England'
   }, {
-    link: 'http://avonba.co.uk/index.php/mnulcllgs/mnubritables',
+    link: 'http://avonba.org/leagues',
     name: 'Avon and Local League'
   }, {
     link: 'http://bucs.org.uk/',
