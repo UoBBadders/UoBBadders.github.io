@@ -8,7 +8,7 @@ This is for strong and committed players wanting to compete for the University a
 - Access to a 1 week intensive summer camp of varied training and matchplay.
 - Opportunity to apply for one of our 2 available Maroon Scholarships (lasts for 1 year).
 - Access to all society socials and events.
-- 
+
 #### Development Membership:
 This is for players at a lower level than Performance looking for the opportunity to train, compete and improve, or perhaps prefering a lower training committment. Membership includes:
 - Weekly training times and coaching detailed above during term-time.
