@@ -8,12 +8,14 @@ This is for strong and committed players wanting to compete for the University a
 - Access to a 1 week intensive summer camp of varied training and matchplay.
 - Opportunity to apply for one of our 2 available Maroon Scholarships (lasts for 1 year).
 - Access to all society socials and events.
+- 
 #### Development Membership:
 This is for players at a lower level than Performance looking for the opportunity to train, compete and improve, or perhaps prefering a lower training committment. Membership includes:
 - Weekly training times and coaching detailed above during term-time.
 - Opportunity to represent the club in Sunday Local League matches against other local badminton clubs.
 - Access to a 1 week intensive summer camp of varied training and matchplay (if aiming for Performance Squad level).
 - Access to all society socials and events.
+
 #### Social Membership:
 This is for anyone who would like to be a member of the club. Whether you have never picked up a racket before or just want an opportunity to play regularly and get some exercise, you're guaranteed to have fun! Membership includes:
 - Weekly games during the court times detailed above through term-time. 
