@@ -321,6 +321,9 @@ app.constant('footerLinksRight', [
     link: 'http://www.bristol.ac.uk/students/support/finances/scholarships/vc-scholarship/terms/',
     name: 'UoB Vice-Chancellor\'s Scholarship'
   }, {
+    link: 'http://www.bristol.ac.uk/sport/performance/squad/maroon-athletes/',
+    name: 'Maroon Scholarship'
+  }, {
     link: 'http://www.fz-forza.com/',
     name: 'Fz Forza'
   }, {
