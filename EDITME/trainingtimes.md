@@ -2,7 +2,7 @@ Our training times for the 2021-2022 academic year:
 
 # Performance Squad
 
-The Performance squad is a high-committment group of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams, as well as teams that compete in Women's, Men's, Mixed and Singles leagues in the Avon local leagues. The players selected into this squad receive professional on-court coaching from Rebecca Pantaney as well as badminton-performance-focussed strength and conditioning (S&C) training from the University's professional trainers.
+The Performance squad is a high-committment group of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams. The players selected into this squad receive professional on-court coaching from Rebecca Pantaney as well as badminton-performance-focussed strength and conditioning (S&C) training from the University's professional trainers.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
