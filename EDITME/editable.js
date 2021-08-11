@@ -295,6 +295,9 @@ app.constant('footerLinksLeft', [
     link: 'http://www.bristolsu.org.uk/',
     name: 'UoB Students\' Union'
   }, {
+    link: 'https://www.bristolsu.org.uk/groups/badminton-0548',
+    name: 'Our SU Page'
+  }, {
     link: 'http://www.bristol.ac.uk/sport/welcome/',
     name: 'UoB Sport, Exercise and Health'
   }, {
@@ -315,6 +318,9 @@ app.constant('footerLinksRight', [
   */
   // ---- EDIT HERE ----
   {
+    link: 'http://www.bristol.ac.uk/students/support/finances/scholarships/vc-scholarship/terms/',
+    name: 'UoB Vice-Chancellor\'s Scholarship'
+  }, {
     link: 'http://www.fz-forza.com/',
     name: 'Fz Forza'
   }, {
