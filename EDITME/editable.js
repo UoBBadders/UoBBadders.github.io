@@ -236,8 +236,8 @@ app.constant('coaches', [
   {
     image: 'Paul Tomlinson.png',
     name: 'Paul Tomlinson',
-    position: 'Performance and Development Squad Coach',
-    details: 'Paul has been part of UoBBC for many years, and has been instrumental in its growth as a club. He coaches twice a week, developing players in both the Performance and Development squads.',
+    position: 'Development Squad Coach',
+    details: 'Paul has been part of UoBBC for many years and has been instrumental in its growth as a club. He coaches once a week for the Development squad.',
   }
   // ---- END EDIT HERE ----
 ]);
