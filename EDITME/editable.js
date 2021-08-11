@@ -113,33 +113,33 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Emma Greenough.jpg',
-      name: 'Emma Greenough',
-      position: 'Club Captain',
-      email: 'eg17373@bristol.ac.uk'
-    }, {
-      image: 'Eve Chillcott.jpg',
-      name: 'Eve Chillcott',
-      position: 'Vice-Club Captain',
-      email: 'dp19613@bristol.ac.uk'
-    }
-  ], 
-  [ // Second tier
-    {
       image: 'Eva Craig.jpg',
       name: 'Eva Craig',
       position: 'Secretary',
       email: 'wp19488@bristol.ac.uk'
+    }, {
+      image: 'Alex Hyde.jpg',
+      name: 'Alex Hyde',
+      position: 'Vice-Club Captain',
+      email: 'vc20825@bristol.ac.uk'
+    }
+  ], 
+  [ // Second tier
+    {
+      image: 'Matthew Coates.PNG',
+      name: 'Matt Coates',
+      position: 'Secretary',
+      email: 'xx20727@bristol.ac.uk'
     }, {
       image: 'Niharika Singh.png',
       name: 'Niharika Singh',
       position: 'Treasurer',
       email: 'ns17177@bristol.ac.uk'
     }, {
-      image: 'Julian Chan.jpg',
-      name: 'Julian Chan',
-      position: 'Publicity Officer',
-      email: 'sq18682@bristol.ac.uk'
+      image: 'Emma Greenough.jpg',
+      name: 'Emma Greenough',
+      position: 'Publicity Officer & Alumni Secretary',
+      email: 'eg17373@bristol.ac.uk'
     }, {
       image: 'Henry Doyle.jpg',
       name: 'Henry Doyle',
@@ -149,15 +149,20 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'Charlotte Housden.jpg',
-      name: 'Charlotte Housden',
+      image: 'Eve Chillcott.jpg',
+      name: 'Eve Chillcott',
       position: 'Kit Officer',
-      email: 'uf19497@bristol.ac.uk'
+      email: 'eve.c.2019@bristol.ac.uk'
     }, {
-      image: 'Juliet Chee.jpg',
-      name: 'Juliet Chee',
+      image: 'Sam Philmore.jpg',
+      name: 'Sam Philmore',
       position: 'Social Secretary',
-      email: 'fb18727@bristol.ac.uk'
+      email: 's.philmore.2020@bristol.ac.uk'
+    }, {
+      image: 'Elspeth Laidlaw.jpg',
+      name: 'Elspeth Laidlaw',
+      position: 'Social Secretary',
+      email: 'yf20694@bristol.ac.uk'
     }, {
       image: 'Numra Maryam.jpg',
       name: 'Numra Maryam',
@@ -178,41 +183,36 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Ben Wood.png',
-      name: 'Ben Wood',
+      image: 'Timmy Chen.jpg',
+      name: 'Timmy Chen',
       position: 'Men\'s Performance Captain',
-      email: 'bw17084@bristol.ac.uk'
+      email: 'lo18724@bristol.ac.uk'
     }, {
-      image: 'Maya Raichoora.png',
-      name: 'Maya Raichoora',
+      image: 'Serena Farrelly.jpg',
+      name: 'Serena Farrelly',
       position: 'Women\'s Performance Captain',
-      email: 'mr16067@bristol.ac.uk'
+      email: 's.farrelly.2020@bristol.ac.uk'
     }
   ],
   [ // Dev
     {
-      image: 'Henry Doyle.jpg',
-      name: 'Henry Doyle',
-      position: 'Men\'s Development Captain',
-      email: 'pf19393@bristol.ac.uk'
-    }, {
-      image: 'Anna McQuillan.jpg',
-      name: 'Anna McQuillan',
-      position: 'Women\'s and Mixed Development Captain',
-      email: 'sy19161@bristol.ac.uk'
+      image: 'Jung Yon.jpg',
+      name: 'Jung Yon',
+      position: 'Development Captain',
+      email: 'nz20736@bristol.ac.uk'
     }
   ],
   [ // Social
     {
-      image: 'Mark Ngu.jpg',
-      name: 'Mark Ngu',
+      image: 'Tam Le.jpg',
+      name: 'Tam Le',
       position: 'Social Captain',
-      email: 'eh19379@bristol.ac.uk'
+      email: 'tam.le01.2020@bristol.ac.uk'
     }, {
-      image: 'Miguel Sangalang.jpg',
-      name: 'Miguel Sangalang',
+      image: 'tommychung.jpg',
+      name: 'Tommy Chung',
       position: 'Social Vice-Captain',
-      email: 'tp19086@bristol.ac.uk'
+      email: 'uq19383@bristol.ac.uk'
     }
   ]
   // ---- END EDIT HERE ----
