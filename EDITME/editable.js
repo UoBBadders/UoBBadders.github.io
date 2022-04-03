@@ -72,6 +72,9 @@ app.constant('sponsors', [
   {
     link: 'http://www.fz-forza.com/',
     image: 'Fz Forza.png'
+  }, {
+    link: 'https://www.bristolsu.org.uk/',
+    image: 'Supported_By_Bristol_SU_Logo_Blue.png'
   }
   // ---- END EDIT HERE ----
 ]);
