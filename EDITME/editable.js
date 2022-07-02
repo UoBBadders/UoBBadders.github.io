@@ -134,7 +134,7 @@ app.constant('committee', [
       position: 'Secretary',
       email: 'lucy.ossege.2020@bristol.ac.uk'
     }, {
-      image: 'Sam Philmore2.jpg',
+      image: 'Sam Philmore.jpg',
       name: 'Sam Philmore',
       position: 'Treasurer',
       email: 's.philmore.2020@bristol.ac.uk'
@@ -147,7 +147,7 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'Sam Philmore2.jpg',
+      image: 'Sam Philmore.jpg',
       name: 'Sam Philmore',
       position: 'Kit Officer',
       email: 's.philmore.2020@bristol.ac.uk'
