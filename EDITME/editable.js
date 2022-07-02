@@ -117,7 +117,7 @@ app.constant('committee', [
   [ // First tier
     {
       image: 'Eva Craig.jpg',
-      name: 'Eva Craig',
+      name: 'Eva',
       position: 'Secretary',
       email: 'wp19488@bristol.ac.uk'
     }, {
