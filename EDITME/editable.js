@@ -186,7 +186,7 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Eve Chillcott2.jpg',
+      image: 'Eve Chillcott.jpg',
       name: 'Eve Chillcott',
       position: 'Women\'s Performance Captain',
       email: 'eve.c.2019@bristol.ac.uk'
