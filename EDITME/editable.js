@@ -132,17 +132,17 @@ app.constant('committee', [
       image: 'Leon Zhu.png',
       name: 'Lucy Ossege',
       position: 'Secretary',
-      email: 'xx20727@bristol.ac.uk'
+      email: 'lucy.ossege.2020@bristol.ac.uk'
     }, {
       image: 'Leon Zhu.png',
       name: 'Sam Philmore',
       position: 'Treasurer',
-      email: 'ns17177@bristol.ac.uk'
+      email: 's.philmore.2020@bristol.ac.uk'
     }, {
       image: 'Leon Zhu.png',
       name: 'Ryan Cho',
-      position: 'Publicity Officer & Alumni Secretary',
-      email: 'eg17373@bristol.ac.uk'
+      position: 'Publicity Officer',
+      email: 'nn21181@bristol.ac.uk'
     }, 
   ],
   [ // Third tier
@@ -150,22 +150,27 @@ app.constant('committee', [
       image: 'Leon Zhu.png',
       name: 'Sam Philmore',
       position: 'Kit Officer',
-      email: 'eve.c.2019@bristol.ac.uk'
+      email: 's.philmore.2020@bristol.ac.uk'
     }, {
+      image: 'Leon Zhu.png',
+      name: 'Eva Craig',
+      position: 'Alumni Secretary',
+      email: 'eva.craig.2019@bristol.ac.uk'
+    },  {
       image: 'Leon Zhu.png',
       name: 'Amy Kwong',
       position: 'Social Secretary',
-      email: 's.philmore.2020@bristol.ac.uk'
+      email: 'tc20603@bristol.ac.uk'
     }, {
       image: 'Leon Zhu.png',
       name: 'Leon Zhu',
       position: 'Social Secretary',
-      email: 'yf20694@bristol.ac.uk'
+      email: 'ab20179@bristol.ac.uk'
     }, {
       image: 'Leon Zhu.png',
       name: 'Serena Khan',
       position: 'Equality and Welfare Officer',
-      email: 'fe18932@bristol.ac.uk'
+      email: 'serena.k.2020@bristol.ac.uk'
     }
   ],
   // ---- END EDIT HERE ----
@@ -181,36 +186,41 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Timmy Chen.jpg',
-      name: 'Timmy Chen',
+      image: 'Leon Zhu.jpg',
+      name: 'Ricky Lam',
       position: 'Men\'s Performance Captain',
-      email: 'lo18724@bristol.ac.uk'
+      email: 'qj20749@bristol.ac.uk'
     }, {
-      image: 'Serena Farrelly.jpg',
-      name: 'Serena Farrelly',
+      image: 'Leon Zhu.png',
+      name: 'Eve Chillcott',
       position: 'Women\'s Performance Captain',
-      email: 's.farrelly.2020@bristol.ac.uk'
+      email: 'eve.c.2019@bristol.ac.uk'
     }
   ],
   [ // Dev
     {
-      image: 'Jung Yon.jpg',
-      name: 'Jung Yon',
-      position: 'Development Captain',
-      email: 'nz20736@bristol.ac.uk'
+      image: 'Leon Zhu.png',
+      name: 'Hattie Chudley',
+      position: 'Women\'s Development Captain',
+      email: 'sa21715@bristol.ac.uk'
+    }, {
+      image: 'Leon Zhu.png',
+      name: 'Alex Chan',
+      position: 'Men\'s Development Captain',
+      email: 'pf19367@bristol.ac.uk'
     }
   ],
   [ // Social
     {
-      image: 'Tam Le.jpg',
-      name: 'Tam Le',
+      image: 'Leon Zhu.png',
+      name: 'Amy Kwong',
       position: 'Social Captain',
-      email: 'tam.le01.2020@bristol.ac.uk'
+      email: 'tc20603@bristol.ac.uk'
     }, {
-      image: 'tommychung.jpg',
-      name: 'Tommy Chung',
+      image: 'Leon Zhu.png',
+      name: 'Pranav Arya',
       position: 'Social Vice-Captain',
-      email: 'uq19383@bristol.ac.uk'
+      email: 'bv21717@bristol.ac.uk'
     }
   ]
   // ---- END EDIT HERE ----
