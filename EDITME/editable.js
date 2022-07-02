@@ -116,59 +116,54 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Leon Zhu.jpg',
+      image: 'Leon Zhu.png',
       name: 'Alex Hyde',
       position: 'Club Captain',
-      email: 'vc20825@bristol.ac.uk (Eva\'s was wp19488@bristol).ac.uk'
-    }, {
-      image: 'Alex Hyde.jpg',
-      name: 'Alex Hyde',
-      position: 'Vice-Club Captain',
       email: 'vc20825@bristol.ac.uk'
+    }, {
+      image: 'Leon Zhu.png',
+      name: 'Peter Shield',
+      position: 'Vice-Club Captain',
+      email: 'ax21801@bristol.ac.uk'
     }
   ], 
   [ // Second tier
     {
-      image: 'Matthew Coates.PNG',
-      name: 'Matt Coates',
+      image: 'Leon Zhu.png',
+      name: 'Lucy Ossege',
       position: 'Secretary',
       email: 'xx20727@bristol.ac.uk'
     }, {
-      image: 'Niharika Singh.png',
-      name: 'Niharika Singh',
+      image: 'Leon Zhu.png',
+      name: 'Sam Philmore',
       position: 'Treasurer',
       email: 'ns17177@bristol.ac.uk'
     }, {
-      image: 'Emma Greenough.jpg',
-      name: 'Emma Greenough',
+      image: 'Leon Zhu.png',
+      name: 'Ryan Cho',
       position: 'Publicity Officer & Alumni Secretary',
       email: 'eg17373@bristol.ac.uk'
-    }, {
-      image: 'Henry Doyle.jpg',
-      name: 'Henry Doyle',
-      position: 'Fitness Secretary',
-      email: 'pf19393@bristol.ac.uk'
-    },
+    }, 
   ],
   [ // Third tier
     {
-      image: 'Eve Chillcott.jpg',
-      name: 'Eve Chillcott',
+      image: 'Leon Zhu.png',
+      name: 'Sam Philmore',
       position: 'Kit Officer',
       email: 'eve.c.2019@bristol.ac.uk'
     }, {
-      image: 'Sam Philmore.jpg',
-      name: 'Sam Philmore',
+      image: 'Leon Zhu.png',
+      name: 'Amy Kwong',
       position: 'Social Secretary',
       email: 's.philmore.2020@bristol.ac.uk'
     }, {
-      image: 'Elspeth Laidlaw.jpg',
-      name: 'Elspeth Laidlaw',
+      image: 'Leon Zhu.png',
+      name: 'Leon Zhu',
       position: 'Social Secretary',
       email: 'yf20694@bristol.ac.uk'
     }, {
-      image: 'Numra Maryam.jpg',
-      name: 'Numra Maryam',
+      image: 'Leon Zhu.png',
+      name: 'Serena Khan',
       position: 'Equality and Welfare Officer',
       email: 'fe18932@bristol.ac.uk'
     }
