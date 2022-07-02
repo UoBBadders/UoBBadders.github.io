@@ -116,7 +116,7 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Eva Craig.jpg',
+      image: 'Leon Zhu.jpg',
       name: 'Alex Hyde',
       position: 'Club Captain',
       email: 'vc20825@bristol.ac.uk (Eva\'s was wp19488@bristol).ac.uk'
