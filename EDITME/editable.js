@@ -38,11 +38,11 @@ app.constant('coverImageUrls', [
   '2022cover1.jpg',
   '2022cover2.JPG',
   '2022cover3.jpg',
-  '2022cover4.JPG',
+  '2022cover4.jpg',
   '2022cover5.jpg',
   '2022cover6.jpg',
-  '2022cover7.jpg',
-  '2022cover8.JPG'
+  '2022cover7.JPG',
+  '2022cover8.jpg'
   // ---- END EDIT HERE ----
 
 ]);
