@@ -1,8 +1,10 @@
+Our training times for the academic year 2022-2023 are not yet finalised. Please see below our training schedule for last year, which gives a sense of what the training schedule will look like in the upcoming academic year, since the schedule is likely only to change slightly.
+
 Our training times for the 2021-2022 academic year: 
 
 # Performance Squad
 
-The Performance squad is a high-committment group of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams. The players selected into this squad receive professional on-court coaching from Rebecca Pantaney as well as badminton-performance-focussed strength and conditioning (S&C) training from the University's professional trainers.
+The Performance squad is a high-committment group of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams. The players selected into this squad receive professional on-court coaching from Rebecca Pantaney as well as badminton-performance-focused strength and conditioning (S&C) training from the University's professional trainers.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
@@ -15,7 +17,7 @@ Sunday | 20.00-21.00 | Indoor Sports Centre | 6 | On-court training (coached)
 
 # Development Squad
 
-The Development squad is made up of around 50 players and offers a competitive string of badminton for students with less time commitment and/or skills than the Performance squad. Players from this section recieve professional coaching from Paul Tomlinson and form teams that compete in the [Men's, Women's and Mixed teams in Avon Leagues](https://www.avonba.org/). Development squad players have the chance at points in the year to move up to the Performance squad and into the BUCS teams.
+The Development squad is made up of around 50 players and offers a competitive string of badminton for students with less time commitment and/or who are aspiring to join the Performance squad. Players from this section recieve professional coaching from Paul Tomlinson and form teams that compete in the [Men's, Women's and Mixed teams in Avon local Leagues](https://www.avonba.org/). Development squad players have the opportunity halfway through the academic year to move up to the Performance squad and into the BUCS teams.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
