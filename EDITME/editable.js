@@ -48,7 +48,7 @@ app.constant('coverImageUrls', [
 ]);
 
 // LIST OF SPONSORS AND THEIR LOGOS
-app.constant('sponsors', [
+app.constant('supports', [
 
   /*  This is a list of objects describing the sponsors which appear in a banner
   **  beneath the slideshow. Each sponsor object is wrapped in {curly braces},
