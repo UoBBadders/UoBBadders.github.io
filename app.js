@@ -16,7 +16,7 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
 
 app.controller('appController', ['$rootScope', '$scope', function($rootScope, $scope) {
   $scope.headerUrl = '/sections/header/header.view.html';
-  $scope.sponsorsUrl = '/sections/sponsors/sponsors.view.html';
+  $scope.supportsUrl = '/sections/supports/supports.view.html';
   $scope.aboutUrl = '/sections/about/about.view.html';
   $scope.teamUrl = '/sections/team/team.view.html';
   $scope.trainingtimesUrl = '/sections/trainingtimes/trainingtimes.view.html';
