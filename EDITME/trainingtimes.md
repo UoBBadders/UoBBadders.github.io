@@ -1,6 +1,4 @@
-Our training times for the academic year 2022-2023 are not yet finalised. Please see below our training schedule for last year, which gives a sense of what the training schedule will look like in the upcoming academic year, since the schedule is likely only to change slightly.
-
-Our training times for the 2021-2022 academic year: 
+Our training times for the 2022-2023 academic year:  
 
 # Performance Squad
 
@@ -8,22 +6,22 @@ The Performance squad is a high-committment group of around 40 players who train
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday | 20.15-21.00 | Bristol Grammar School | N.A. | Strength and Conditioning 
-Tuesday | 18.00-20.00 | Indoor Sports Centre | 6 | On-court training (coached)
-Thursday | 19.30-21.00 | Indoor Sports Centre | 6 | On-court training and matchplay
-Friday | 19:30-20:15 | Bristol Grammar School | N.A. | Strength and Conditioning
-Friday | 20:15-21:15 | Bristol Grammar School | 5 | Self-led skills training & multifeeding
-Sunday | 20.00-21.00 | Indoor Sports Centre | 6 | On-court training (coached) 
+Monday | 20:15-21:00 | Coombe Dingle | N.A. | Strength and Conditioning 
+Tuesday | 18:00-20:00 | Indoor Sports Centre | 6 | On-court training (coached)
+Thursday | 16:00-18:00 | Coombe Dingle | N.A. | Strength and Conditioning
+Thursday | 19:30-21:30 | Indoor Sports Centre | 6 | On-court training and matchplay
+Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | Team Training on Rota (coached)
+(from 19 Sep) Sunday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training, matchplay & Dev+Perf Practice
 
 # Development Squad
 
-The Development squad is made up of around 50 players and offers a competitive string of badminton for students with less time commitment and/or who are aspiring to join the Performance squad. Players from this section recieve professional coaching from Paul Tomlinson and form teams that compete in the [Men's, Women's and Mixed teams in Avon local Leagues](https://www.avonba.org/). Development squad players have the opportunity halfway through the academic year to move up to the Performance squad and into the BUCS teams.
+The Development squad is made up of around 50 players and offers a competitive string of badminton for students with less time commitment and/or who are aspiring to join the Performance squad. Players from this section recieve coaching from trained Performance players with Badminton England coaching qualifications and form teams that compete in the [Men's, Women's and Mixed teams in Avon local Leagues](https://www.avonba.org/). Development squad players have the opportunity halfway through the academic year to move up to the Performance squad and into the BUCS teams.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday | 21.00-22.30 | Indoor Sports Centre | 4 | On-court training and matchplay
-Friday | 19.15-20.15 | Bristol Grammar School | 5 | On-court training (coached)
-Sunday | 18.30-20.00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
+Monday | 20:30-22.30 | Indoor Sports Centre | 3 | On-court training, matchplay & local league
+Friday | 21:00-22:30 | Indoor Sports Centre | 6 | On-court training (coached)
+Sunday | 17:30-19:30 | Indoor Sports Centre | 6 | On-court training, matchplay & Dev+Perf Practice
 
 # Social Squad
 
@@ -31,8 +29,9 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Friday | 16.00-17.00 | Indoor Sports Centre | 6 | On-court session
 Saturday | 17.00-18.30 | Indoor Sports Centre | 6 | On-court session
+Sunday | TBC | Kingsdown Leisure Centre | 5 | On-court session
+(until 19 Sep) Sunday | 19:30-21:00 | Indoor Sports Centre | 6 | On-court session
 
 # Disability Badminton
 
@@ -50,5 +49,5 @@ Details of our different training locations (all very close to each other):
 Venue | Address | Details
 --- | --- | ---
 Indoor Sports Centre | Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP | Main training location. Courts bookable online.
-Bristol Grammar School | University Rd, Bristol, BS8 1SR | Used for coached S&C and extra training time.
 Kingsdown Sports Centre | Portland Street, Bristol, BS2 8HL | Used as and when required. Courts bookable online.
+Coombe Dingle | Coombe Ln, Bristol BS9 2BJ | Used for coached S&C
