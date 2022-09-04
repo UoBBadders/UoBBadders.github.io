@@ -30,7 +30,8 @@ Our social section is open to everyone and is a great way to get involved with b
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
 Saturday | 17.00-18.30 | Indoor Sports Centre | 6 | On-court session
-Sunday | TBC | Kingsdown Leisure Centre | 5 | On-court session
+Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | On-court session
+(from 19 Sep) Sunday | TBC | Kingsdown Leisure Centre | 5 | On-court session
 (until 19 Sep) Sunday | 19:30-21:00 | Indoor Sports Centre | 6 | On-court session
 
 # Disability Badminton
