@@ -1,4 +1,4 @@
-To become a member all players pay a fee to the club; this pays for shuttles, coaches, courts, transport to matches and more. The fees correspond to what you get in return as a member of one of our 3 squads: Performance, Development or Social. If you wish to join the "Performance" or "Development" squads you should attend trials at the start of the year and a committee member will discuss with you which membership is most appropriate for you.
+To become a member, all players pay a fee to the club. This pays for shuttles, coaches, courts, transport to matches and more. The fees correspond to what you get in return as a member of one of our 3 squads: Performance, Development or Social. If you wish to join the "Performance" or "Development" squads you should attend trials at the start of the year and a committee member will discuss with you which membership is most appropriate for you.
 
 #### Performance Membership:
 This is for strong and committed players wanting to compete for the University and recieve lots of training time. Membership includes:
@@ -30,4 +30,4 @@ Development | 75 | 40
 Performance | 90 (+£10 match shirt add-on) | 45 (+£10 match shirt add-on)
 Disability Badminton | 5 | 5
 
-All memberships also require students to hold at least a [#WeAreBristol membership for the University Sports Centre](http://www.bristol.ac.uk/sport/memberships/student/) to enable access to the sports clubs' facilities. 
+All memberships also require students to hold an [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/). The [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/) requires a one-off payment of £25 which goes directly to SEH (the sports facilities provider), not the badminon club, and will permit you access to the sports facilities. This single payment of £25 is made via the Bristol SU website when joining any sports club. Please note: you only need to buy the [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/) ONCE, even if you join multiple sports clubs. For more information, click this link: [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/), scroll down to "Helpful information & Troubleshooting" and read the section titled "Sports Clubs".
