@@ -265,7 +265,7 @@ app.constant('purchaseMembershipLink',
   **  Make sure the URL below is surrounded by 'single quotes' !!
   */
   // ---- EDIT HERE ----
-  'http://bristol.unioncloud.org/groups/badminton-0548'
+  'https://www.bristolsu.org.uk/groups/badminton-9c11'
   // ---- END EDIT HERE ----
 );
 
