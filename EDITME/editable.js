@@ -191,7 +191,7 @@ app.constant('captains', [
       position: 'Women\'s Performance Captain',
       email: 'eve.c.2019@bristol.ac.uk'
     }, {
-      image: 'Ricky Lam.png',
+      image: 'Ricky Lam.jpg',
       name: 'Ricky Lam',
       position: 'Men\'s Performance Captain',
       email: 'qj20749@bristol.ac.uk'
