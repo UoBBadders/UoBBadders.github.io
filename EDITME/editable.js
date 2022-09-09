@@ -242,10 +242,17 @@ app.constant('coaches', [
     email: 'ny19487@bristol.ac.uk'
   },
   {
+    image: 'UoBBC Logo.png',
+    name: 'Performance/Development Player-Coaches',
+    position: 'Coaches for the Development and Social Squads',
+    details: 'Starting this year, a team of Performance Squad and Development Squad players are training as Badminton England-qualified coaches as part of the University\'s "Game Changers" program. These coaches will run coaching sessions for the Development and Social Squads, supported by experienced coaches in the Performance Squad.',
+    email: 'uobbadders@outlook.com'
+  },
+  {
     image: 'Paul Tomlinson.png',
     name: 'Paul Tomlinson',
-    position: 'Development Squad Coach',
-    details: 'Paul has been part of UoBBC for many years and has been instrumental in its growth as a club. He coaches once a week for the Development squad.',
+    position: 'Outgoing Development Squad Coach',
+    details: 'Paul has been part of UoBBC for many years and has been instrumental in its growth as a club. This year, he is moving on from coaching at the University and we wish him all the best in his future endeavours.',
   }
   // ---- END EDIT HERE ----
 ]);
