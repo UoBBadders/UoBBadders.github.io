@@ -212,14 +212,9 @@ app.constant('captains', [
   ],
   [ // Social
     {
-      image: 'Amy Kwong.jpg',
-      name: 'Amy Kwong',
-      position: 'Social Captain',
-      email: 'tc20603@bristol.ac.uk'
-    }, {
       image: 'Pranav Arya.jpg',
       name: 'Pranav Arya',
-      position: 'Social Vice-Captain',
+      position: 'Social Captain',
       email: 'bv21717@bristol.ac.uk'
     }
   ]
