@@ -11,7 +11,7 @@ Tuesday | 18:00-20:00 | Indoor Sports Centre | 6 | On-court training (coached)
 Thursday | 16:00-18:00 | Coombe Dingle | N.A. | Strength and Conditioning
 Thursday | 19:30-21:30 | Indoor Sports Centre | 6 | On-court training and matchplay
 Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | Team Training on Rota (coached)
-(from 19 Sep) Sunday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training, matchplay & Dev+Perf Practice
+Sunday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training, matchplay & Dev+Perf Practice
 
 # Development Squad
 
@@ -29,10 +29,10 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
+Friday | TBC | Indoor Sports Centre | 6 | B:Active Session
 Saturday | 13:00-15:00 | Indoor Sports Centre | 6 | On-court session
 Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | On-court session
-(from 19 Sep) Sunday | TBC | Kingsdown Leisure Centre | 5 | On-court session
-(until 19 Sep) Sunday | 19:30-21:00 | Indoor Sports Centre | 6 | On-court session
+Sunday | 18:00-19:00 | Kingsdown Leisure Centre | 5 | On-court session
 
 # Disability Badminton
 
