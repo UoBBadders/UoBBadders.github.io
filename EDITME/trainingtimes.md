@@ -29,7 +29,7 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Friday | TBC | Indoor Sports Centre | 6 | B:Active Session
+Friday | 16:30-17:30 | Indoor Sports Centre | 6 | B:Active Session
 Saturday | 13:00-15:00 | Indoor Sports Centre | 6 | On-court session
 Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | On-court session
 Sunday | 18:00-19:00 | Kingsdown Leisure Centre | 5 | On-court session
