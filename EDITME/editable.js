@@ -35,7 +35,6 @@ app.constant('coverImageUrls', [
   **  is a comma separating each entry. Do not put a comma after the very last entry.
   */
   // ---- EDIT HERE ----
-  'Trials Info 2022.jpg',
   '2022cover1.jpg',
   '2022cover2.JPG',
   '2022cover3.jpg',
