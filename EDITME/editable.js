@@ -216,6 +216,11 @@ app.constant('captains', [
       name: 'Pranav Arya',
       position: 'Social Captain',
       email: 'bv21717@bristol.ac.uk'
+    }, {
+      image: 'Aryan Pola.jpg',
+      name: 'Aryan Pola',
+      position: 'Social Vice Captain',
+      email: 'mw21585@bristol.ac.uk'
     }
   ]
   // ---- END EDIT HERE ----
