@@ -70,9 +70,6 @@ app.constant('supports', [
   */
   // ---- EDIT HERE ----
   {
-    link: 'http://www.fz-forza.com/',
-    image: 'Fz Forza.png'
-  }, {
     link: 'https://www.bristolsu.org.uk/',
     image: 'Supported_By_Bristol_SU_Logo_Blue.png'
   }
@@ -343,9 +340,6 @@ app.constant('footerLinksRight', [
   }, {
     link: 'http://www.bristol.ac.uk/sport/performance/squad/maroon-athletes/',
     name: 'Maroon Scholarship'
-  }, {
-    link: 'http://www.fz-forza.com/',
-    name: 'Fz Forza'
   }, {
     link: 'http://www.badmintonengland.co.uk/homepage.asp',
     name: 'Badminton England'
