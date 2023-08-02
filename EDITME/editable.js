@@ -173,7 +173,7 @@ app.constant('committee', [
       email: '...'
     }, {
       image: 'UoBBC Logo.png',
-      name: Orton Khoo',
+      name: 'Orton Khoo',
       position: 'Fixtures Secretary',
       email: '...'
     }
