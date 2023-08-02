@@ -116,12 +116,12 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Peter Shield.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Peter Shield',
       position: 'Club Captain',
       email: 'ax21801@bristol.ac.uk'
     }, {
-      image: 'Peter Shield.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Ben Kemp',
       position: 'Vice-Club Captain',
       email: 'mw21957@bristol.ac.uk'
@@ -129,17 +129,17 @@ app.constant('committee', [
   ], 
   [ // Second tier
     {
-      image: 'Ryan Cho.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Ryan Cho',
       position: 'Secretary',
       email: 'nn21181@bristol.ac.uk'
     }, {
-      image: 'Sam Philmore.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Ryan Tham',
       position: 'Treasurer',
       email: '...'
     }, {
-      image: 'Ryan Cho.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Than Sin',
       position: 'Publicity Officer',
       email: '...'
@@ -147,32 +147,32 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'Leon Zhu.png',
+      image: 'UoBBC Logo.png',
       name: 'Leon Zhu',
       position: 'Kit Officer',
       email: 'ab20179@bristol.ac.uk'
     }, {
-      image: 'Eva Craig.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Amy Amin',
       position: 'Alumni Secretary',
       email: '...'
     },  {
-      image: 'Amy Kwong.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Barney Pridmore',
       position: 'Social Secretary',
       email: '...'
     }, {
-      image: 'Leon Zhu.png',
+      image: 'UoBBC Logo.png',
       name: 'To Be Confirmed',
       position: 'Social Secretary',
       email: '...'
     }, {
-      image: 'Serena Khan.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Priya Basnet',
       position: 'Equality and Welfare Officer',
       email: '...'
     }, {
-      image: 'Serena Khan.jpg',
+      image: 'UoBBC Logo.png',
       name: Orton Khoo',
       position: 'Fixtures Secretary',
       email: '...'
@@ -191,12 +191,12 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Eve Chillcott.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Rachel Chew',
       position: 'Women\'s Performance Captain',
       email: '...'
     }, {
-      image: 'Ricky Lam.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Ricky Lam',
       position: 'Men\'s Performance Captain',
       email: 'qj20749@bristol.ac.uk'
@@ -204,12 +204,12 @@ app.constant('captains', [
   ],
   [ // Dev
     {
-      image: 'Hattie Chudley.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Lacey Rose Trébilcook',
       position: 'Women\'s Development Captain',
       email: '...'
     }, {
-      image: 'Alex Chan.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Aaron Vinod',
       position: 'Men\'s Development Captain',
       email: '...'
@@ -217,12 +217,12 @@ app.constant('captains', [
   ],
   [ // Social
     {
-      image: 'Pranav Arya.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Min Xu',
       position: 'Social Captain',
       email: '...'
     }, {
-      image: 'Aryan Pola.jpg',
+      image: 'UoBBC Logo.png',
       name: 'Huvan Chan',
       position: 'Social Vice Captain',
       email: '...'
