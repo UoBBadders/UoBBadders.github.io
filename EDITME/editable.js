@@ -171,6 +171,11 @@ app.constant('committee', [
       name: 'Priya Basnet',
       position: 'Equality and Welfare Officer',
       email: '...'
+    }, {
+      image: 'Serena Khan.jpg',
+      name: Orton Khoo',
+      position: 'Fixtures Secretary',
+      email: '...'
     }
   ],
   // ---- END EDIT HERE ----
