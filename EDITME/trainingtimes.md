@@ -1,17 +1,16 @@
-Our training times for the 2022-2023 academic year:  
+Our Provisional training times for the 2023-2024 academic year:  
 
 # Performance Squad
 
-The Performance squad is a high-committment group of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams. The players selected into this squad receive professional on-court coaching from Level 3 Coach Rebecca Pantaney as well as badminton-performance-focused strength and conditioning (S&C) training from the University's professional trainers.
+The Performance squad is a high-committment group of around 40 players who train multiple times per week and compete for spots within the 3 Men’s and 2 Women’s BUCS teams. The players selected into this squad receive professional on-court coaching from Coach Raj Popat as well as badminton-performance-focused strength and conditioning (S&C) training from the University's professional trainers.
+
+These times are only provisional and are subject to change. They will also be updated to include S&C training slots when we have them confirmed.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday | 20:15-21:00 | Coombe Dingle | N.A. | Strength and Conditioning 
-Tuesday | 18:00-20:00 | Indoor Sports Centre | 6 | On-court training (coached)
-Thursday | 16:00-18:00 | Coombe Dingle | N.A. | Strength and Conditioning
-Thursday | 19:30-21:30 | Indoor Sports Centre | 6 | On-court training and matchplay
-Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | Team Training on Rota (coached)
-Sunday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training, matchplay & Dev+Perf Practice
+Tuesday | 18:30-20:30 | Indoor Sports Centre | 6 | On-court training (coached)
+Saturday | 10:30-12:30 | Indoor Sports Centre | 6 | On-court training & Matchplay
+Sunday | 18:00-20:00 | Kingsdown Leisure Centre | 5 | On-court training, matchplay & Dev+Perf Practice
 
 # Development Squad
 
