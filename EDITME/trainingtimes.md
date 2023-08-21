@@ -10,7 +10,7 @@ Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
 Tuesday | 18:30-20:30 | Indoor Sports Centre | 6 | On-court training (coached)
 Saturday | 10:30-12:30 | Indoor Sports Centre | 6 | On-court training & Matchplay
-Sunday | 18:00-20:00 | Kingsdown Leisure Centre | 5 | On-court training, matchplay & Dev+Perf Practice
+Sunday | 18:00-20:00 | Kingsdown Leisure Centre | 5 | On-court training & matchplay
 
 # Development Squad
 
