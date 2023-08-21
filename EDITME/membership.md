@@ -6,7 +6,6 @@ This is for strong and committed players wanting to compete for the University a
 - Access to 4 weeks intensive pre-season on-court training and coached strength and conditioning before the academic year.
 - Opportunity to compete for the University in BUCS matches.
 - Access to a 1 week intensive summer camp of varied training and matchplay.
-- Opportunity each year to apply for one of our 2 available [Maroon Scholarships](http://www.bristol.ac.uk/sport/performance/squad/maroon-athletes/).
 - Access to all society socials and events.
 
 #### Development Membership:
