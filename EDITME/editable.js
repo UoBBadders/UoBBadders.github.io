@@ -113,7 +113,7 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Peter Shield 2.jpg',
+      image: 'Peter Shield 2.JPG',
       name: 'Peter Shield',
       position: 'Club Captain',
       email: 'ax21801@bristol.ac.uk'
@@ -136,7 +136,7 @@ app.constant('committee', [
       position: 'Treasurer',
       email: '...'
     }, {
-      image: 'Than Sin.jpg',
+      image: 'Than Sin.JPG',
       name: 'Than Sin',
       position: 'Publicity Officer',
       email: '...'
@@ -144,17 +144,17 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'UoBBC Logo.png',
+      image: 'UoBBC Logo.JPG',
       name: 'Leon Zhu',
       position: 'Kit Officer',
       email: 'ab20179@bristol.ac.uk'
     }, {
-      image: 'Amy Amin.jpg',
+      image: 'Amy Amin.JPG',
       name: 'Amy Amin',
       position: 'Alumni Secretary',
       email: '...'
     },  {
-      image: 'Barney Pridmore.jpg',
+      image: 'Barney Pridmore.JPG',
       name: 'Barney Pridmore',
       position: 'Social Secretary',
       email: '...'
@@ -164,12 +164,12 @@ app.constant('committee', [
       position: 'Social Secretary',
       email: '...'
     }, {
-      image: 'Priya Basnet.jpg',
+      image: 'Priya Basnet.JPG',
       name: 'Priya Basnet',
       position: 'Equality and Welfare Officer',
       email: '...'
     }, {
-      image: 'Orton Khoo.jpg',
+      image: 'Orton Khoo.JPG',
       name: 'Orton Khoo',
       position: 'Fixtures Secretary',
       email: '...'
