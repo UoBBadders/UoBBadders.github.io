@@ -18,9 +18,8 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Monday | 20:30-22.30 | Indoor Sports Centre | 3 | On-court training, matchplay & local league
-Friday | 21:00-22:30 | Indoor Sports Centre | 6 | On-court training (coached)
-Sunday | 17:30-19:30 | Indoor Sports Centre | 6 | On-court training, matchplay & Dev+Perf Practice
+Thursday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
+Sunday | 15:30-17:30 | Indoor Sports Centre | 6 | On-court training & matchplay
 
 # Social Squad
 
