@@ -237,10 +237,10 @@ app.constant('coaches', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'RebeccaPantaney.png',
-    name: 'Rebecca Pantaney',
-    position: 'Badminton Coordinator and Performance Squad Coach',
-    details: 'Bex is employed by the University of Bristol and works within SEH to support the growth and development of UoBBC as a nationally recognised institution within both the Bristol and Badminton communities. Bex leads the hosting of several Badminton England sanctioned tournaments throughout the year, supports NGB talent pathways, and encourages player development.',
+    image: 'UoBBC Logo.png',
+    name: 'Raj Popat',
+    position: 'Performance Squad Coach',
+    details: 'Raj is our new Performance Squad Coach, he will be in charge of player and team development. He will be there throughout the season to coach squad training sessions and BUCS matches. We look forward to working with him over the coming year.',
     email: 'ny19487@bristol.ac.uk'
   },
   {
@@ -251,10 +251,10 @@ app.constant('coaches', [
     email: 'uobbadders@outlook.com'
   },
   {
-    image: 'Paul Tomlinson.png',
-    name: 'Paul Tomlinson',
-    position: 'Outgoing Development Squad Coach',
-    details: 'Paul has been part of UoBBC for many years and has been instrumental in its growth as a club. This year, he is moving on from coaching at the University and we wish him all the best in his future endeavours.',
+    image: 'RebeccaPantaney.png',
+    name: 'Rebecca Pantaney',
+    position: 'Outgoing Badminton Coordinator & Performance Squad Coach',
+    details: 'Bex has been part of UoBBC for many years, during this time she has played a pivotal role in overseeing the growth and development of the club. We are sad to lose Bex, but we wish her all the best for her future endeavours.',
   }
   // ---- END EDIT HERE ----
 ]);
