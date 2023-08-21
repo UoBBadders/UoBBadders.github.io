@@ -144,7 +144,7 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'UoBBC Logo.JPG',
+      image: 'Leon Zhu.png',
       name: 'Leon Zhu',
       position: 'Kit Officer',
       email: 'ab20179@bristol.ac.uk'
@@ -188,7 +188,7 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'UoBBC Logo.png',
+      image: 'Rachel Chew.JPG',
       name: 'Rachel Chew',
       position: 'Women\'s Performance Captain',
       email: '...'
@@ -201,7 +201,7 @@ app.constant('captains', [
   ],
   [ // Dev
     {
-      image: 'UoBBC Logo.png',
+      image: 'Lacey Rose Trebilcook.JPG',
       name: 'Lacey Rose Trébilcook',
       position: 'Women\'s Development Captain',
       email: '...'
