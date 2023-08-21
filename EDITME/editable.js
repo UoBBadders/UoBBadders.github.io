@@ -113,7 +113,7 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'UoBBC Logo.png',
+      image: 'Peter Shield 2.jpg',
       name: 'Peter Shield',
       position: 'Club Captain',
       email: 'ax21801@bristol.ac.uk'
@@ -127,7 +127,7 @@ app.constant('committee', [
   [ // Second tier
     {
       image: 'UoBBC Logo.png',
-      name: 'Ryan Cho',
+      name: 'To Be Confirmed',
       position: 'Secretary',
       email: 'nn21181@bristol.ac.uk'
     }, {
@@ -136,7 +136,7 @@ app.constant('committee', [
       position: 'Treasurer',
       email: '...'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Than Sin.jpg',
       name: 'Than Sin',
       position: 'Publicity Officer',
       email: '...'
@@ -149,12 +149,12 @@ app.constant('committee', [
       position: 'Kit Officer',
       email: 'ab20179@bristol.ac.uk'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Amy Amin.jpg',
       name: 'Amy Amin',
       position: 'Alumni Secretary',
       email: '...'
     },  {
-      image: 'UoBBC Logo.png',
+      image: 'Barney Pridmore.jpg',
       name: 'Barney Pridmore',
       position: 'Social Secretary',
       email: '...'
@@ -164,12 +164,12 @@ app.constant('committee', [
       position: 'Social Secretary',
       email: '...'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Priya Basnet.jpg',
       name: 'Priya Basnet',
       position: 'Equality and Welfare Officer',
       email: '...'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Orton Khoo.jpg',
       name: 'Orton Khoo',
       position: 'Fixtures Secretary',
       email: '...'
