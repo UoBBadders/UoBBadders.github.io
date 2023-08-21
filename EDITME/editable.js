@@ -118,7 +118,7 @@ app.constant('committee', [
       position: 'Club Captain',
       email: 'ax21801@bristol.ac.uk'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Ben Kemp.JPG',
       name: 'Ben Kemp',
       position: 'Vice-Club Captain',
       email: 'mw21957@bristol.ac.uk'
@@ -193,7 +193,7 @@ app.constant('captains', [
       position: 'Women\'s Performance Captain',
       email: '...'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Ricky Lam.png',
       name: 'Ricky Lam',
       position: 'Men\'s Performance Captain',
       email: 'qj20749@bristol.ac.uk'
