@@ -27,10 +27,11 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Friday | 16:30-17:30 | Indoor Sports Centre | 6 | B:Active Session
-Saturday | 13:00-15:00 | Indoor Sports Centre | 6 | On-court session
-Sunday | 9:00-10:30 | Indoor Sports Centre | 3 | On-court session
-Sunday | 18:00-19:00 | Kingsdown Leisure Centre | 5 | On-court session
+DAY TBC | TIME TBC | Indoor Sports Centre | 6 | B:Active Session
+DAY TBC | TIME TBC | Indoor Sports Centre | 6 | LGBT B:Active Session
+Saturday | 15:00-17:00 | Bristol Grammar School | 5 | Intramural
+Sunday | 9:30-10:30 | Indoor Sports Centre | 6 | On-court session
+Sunday | 17:30-20:00 | Kingsdown Leisure Centre | 3 | On-court session
 
 # Disability Badminton
 
