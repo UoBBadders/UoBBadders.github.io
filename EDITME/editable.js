@@ -36,12 +36,12 @@ app.constant('coverImageUrls', [
   */
   // ---- EDIT HERE ----
   '2023cover1.jpg',
-  '2023cover2.JPG',
+  '2023cover2.jpg',
   '2023cover3.jpg',
   '2023cover4.jpg',
   '2023cover5.jpg',
   '2023cover6.jpg',
-  '2023cover7.JPG',
+  '2023cover7.jpg',
   '2023cover8.jpg'
   // ---- END EDIT HERE ----
 
