@@ -132,12 +132,12 @@ app.constant('committee', [
       image: 'UoBBC Logo.png',
       name: 'To Be Confirmed',
       position: 'Secretary',
-      email: 'nn21181@bristol.ac.uk'
+      email: '...'
     }, {
       image: 'Ryan Tham.JPG',
       name: 'Ryan Tham',
       position: 'Treasurer',
-      email: '...'
+      email: 'uo21656@bristol.ac.uk'
     }, {
       image: 'Than Sin.JPG',
       name: 'Than Sin',
@@ -170,7 +170,7 @@ app.constant('committee', [
       image: 'Priya Basnet.JPG',
       name: 'Priya Basnet',
       position: 'Equality and Welfare Officer',
-      email: '...'
+      email: 'lv21097@bristol.ac.uk'
     }, {
       image: 'Orton Khoo.JPG',
       name: 'Orton Khoo',
@@ -194,7 +194,7 @@ app.constant('captains', [
       image: 'Rachel Chew.JPG',
       name: 'Rachel Chew',
       position: 'Women\'s Performance Captain',
-      email: '...'
+      email: 'yn22384@bristol.ac.uk'
     }, {
       image: 'Ricky Lam.png',
       name: 'Ricky Lam',
@@ -207,12 +207,12 @@ app.constant('captains', [
       image: 'Lacey Rose Trebilcook.JPG',
       name: 'Lacey Rose Trébilcook',
       position: 'Women\'s Development Captain',
-      email: '...'
+      email: 'oe20277@bristol.ac.uk'
     }, {
       image: 'Aaron Vinod.JPG',
       name: 'Aaron Vinod',
       position: 'Men\'s Development Captain',
-      email: '...'
+      email: 'ce20480@bristol.ac.uk'
     }
   ],
   [ // Social
