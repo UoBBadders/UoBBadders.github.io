@@ -131,7 +131,7 @@ app.constant('committee', [
       position: 'Secretary',
       email: 'nn21181@bristol.ac.uk'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Ryan Tham.JPG',
       name: 'Ryan Tham',
       position: 'Treasurer',
       email: '...'
