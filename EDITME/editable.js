@@ -219,7 +219,7 @@ app.constant('captains', [
       position: 'Social Captain',
       email: '...'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Huvan Chan.JPG',
       name: 'Huvan Chan',
       position: 'Social Vice Captain',
       email: '...'
