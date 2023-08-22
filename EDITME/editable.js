@@ -72,7 +72,7 @@ app.constant('supports', [
   {
     link: 'https://www.bristolsu.org.uk/',
     image: 'Supported_By_Bristol_SU_Logo_Blue.png'
-  }  {
+  },  {
     link: 'https://www.kempsjewellers.com/',
     image: 'KempsLogoBlack.png'
   }
