@@ -206,7 +206,7 @@ app.constant('captains', [
       position: 'Women\'s Development Captain',
       email: '...'
     }, {
-      image: 'UoBBC Logo.png',
+      image: 'Aaron Vinod.JPG',
       name: 'Aaron Vinod',
       position: 'Men\'s Development Captain',
       email: '...'
