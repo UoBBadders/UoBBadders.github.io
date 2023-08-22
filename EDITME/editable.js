@@ -35,14 +35,14 @@ app.constant('coverImageUrls', [
   **  is a comma separating each entry. Do not put a comma after the very last entry.
   */
   // ---- EDIT HERE ----
-  '2022cover1.jpg',
-  '2022cover2.JPG',
-  '2022cover3.jpg',
-  '2022cover4.jpg',
-  '2022cover5.jpg',
-  '2022cover6.jpg',
-  '2022cover7.JPG',
-  '2022cover8.jpg'
+  '2023cover1.jpg',
+  '2023cover2.JPG',
+  '2023cover3.jpg',
+  '2023cover4.jpg',
+  '2023cover5.jpg',
+  '2023cover6.jpg',
+  '2023cover7.JPG',
+  '2023cover8.jpg'
   // ---- END EDIT HERE ----
 
 ]);
