@@ -244,7 +244,6 @@ app.constant('coaches', [
     name: 'Raj Popat',
     position: 'Performance Squad Coach',
     details: 'Raj is our new Performance Squad Coach, he will be in charge of player and team development. He will be there throughout the season to coach squad training sessions and BUCS matches. We look forward to working with him over the coming year.',
-    email: 'ny19487@bristol.ac.uk'
   },
   {
     image: 'UoBBC Logo.png',
