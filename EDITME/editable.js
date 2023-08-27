@@ -243,13 +243,13 @@ app.constant('coaches', [
     image: 'Raj Popat.jpg',
     name: 'Raj Popat',
     position: 'Performance Squad Coach',
-    details: 'Raj is our new Performance Squad Coach, he will be in charge of player and team development. He will be there throughout the season to coach squad training sessions and BUCS matches. We look forward to working with him over the coming year.',
+    details: 'Raj is our newly-appointed Performance Squad Coach. It is fantastic to have him on board. Raj is an ex-international player for Wales and now full-time coach. His coaching accolades include 4 years as Head Coach at Cardiff University, now Head Coach of the Newport Badminton Academy and a consultant coach for the English, French and Spanish teams. As Coach at the University, Raj will coordinate players' development and team development. He will manage, monitor and motivate the our players throughout the season, coach training sessions and support at BUCS matches. We are looking forward to working with him.',
   },
   {
     image: 'UoBBC Logo.png',
     name: 'Performance/Development Player-Coaches',
     position: 'Coaches for the Development and Social Squads',
-    details: 'Starting this year, a team of Performance Squad and Development Squad players are training as Badminton England-qualified coaches as part of the University\'s "Game Changers" program. These coaches will run coaching sessions for the Development and Social Squads, supported by experienced coaches in the Performance Squad.',
+    details: 'Following the success of the University\'s "Game Changers" programme last year, which saw a team of Performance Squad and Development Squad players training as Badminton England-qualified coaches and applying those skills to coach the social squad, Game Changers will be returning this year. These coaches will run coaching sessions for the Development and Social Squads, supported by experienced coaches in the Performance Squad.',
     email: 'uobbadders@outlook.com'
   },
   {
