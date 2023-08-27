@@ -12,6 +12,17 @@ Tuesday | 18:30-20:30 | Indoor Sports Centre | 6 | On-court training (coached)
 Saturday | 10:30-12:30 | Indoor Sports Centre | 6 | On-court training & Matchplay
 Sunday | 18:00-20:00 | Kingsdown Leisure Centre | 5 | On-court training & matchplay
 
+# Pre-Season S&C 2023/24 - Performance Squad
+
+The times for Strength and Conditioning for the Performance Squad pre-season for the 2023/24 season. This is available to all players during pre-season. 
+
+Day | Time | Venue | Session Details
+--- | --- | --- | --- | ---
+Monday | 13:00-14:00 | Coombe Dingle Field |  Field Conditioning
+Tuesday | 14:00-15:00 | Coombe Dingle Gym | Strength Work 
+Thursday | 14:00-15:00 | Coombe Dingle Gym | Strength Work
+Friday | 13:00-14:00 | Coombe Dingle Field | Field Conditioning
+
 # Development Squad
 
 The Development squad is made up of around 50 players and offers a competitive string of badminton for students with less time commitment and/or who are aspiring to join the Performance squad. Players from this section receive coaching from trained Performance players with Badminton England coaching qualifications and form teams that compete in the [Men's, Women's and Mixed teams in Avon local Leagues](https://www.avonba.org/). Development squad players have the opportunity halfway through the academic year to move up to the Performance squad and into the BUCS teams.
