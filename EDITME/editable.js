@@ -249,7 +249,7 @@ app.constant('coaches', [
     image: 'UoBBC Logo.png',
     name: 'Performance/Development Player-Coaches',
     position: 'Coaches for the Development and Social Squads',
-    details: 'Following the success of the University\'s "Game Changers" programme last year, which saw a team of Performance Squad and Development Squad players training as Badminton England-qualified coaches and applying those skills to coach the social squad, Game Changers will be returning this year. These coaches will run coaching sessions for the Development and Social Squads, supported by experienced coaches in the Performance Squad.',
+    details: 'Following the success of the University\'s "Game Changers" programme last year, which saw a team of Performance Squad and Development Squad players train as Badminton England-qualified coaches and apply those skills to coach the social squad, Game Changers will be returning this year. These coaches will run coaching sessions for the Development and Social Squads, supported by experienced coaches in the Performance Squad.',
     email: 'uobbadders@outlook.com'
   },
   {
