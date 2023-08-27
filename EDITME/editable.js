@@ -243,7 +243,7 @@ app.constant('coaches', [
     image: 'Raj Popat.jpg',
     name: 'Raj Popat',
     position: 'Performance Squad Coach',
-    details: 'Raj is our newly-appointed Performance Squad Coach. It is fantastic to have him on board. Raj is an ex-international player for Wales and now full-time coach. His coaching accolades include 4 years as Head Coach at Cardiff University, now Head Coach of the Newport Badminton Academy and a consultant coach for the English, French and Spanish teams. As Coach at the University, Raj will coordinate players\' development and team development. He will manage, monitor and motivate the our players throughout the season, coach training sessions and support at BUCS matches. We are looking forward to working with him.',
+    details: 'Raj is our newly-appointed Performance Squad Coach. It is fantastic to have him on board. Raj is an ex-international player for Wales and now full-time coach. His coaching accolades include 4 years as Head Coach at Cardiff University, now Head Coach of the Newport Badminton Academy and a consultant coach for the English, French and Spanish teams. \\As Coach at the University, Raj will coordinate players\' development and team development. He will manage, monitor and motivate the our players throughout the season, coach training sessions and support at BUCS matches. We are looking forward to working with him.',
   },
   {
     image: 'UoBBC Logo.png',
