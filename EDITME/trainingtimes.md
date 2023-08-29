@@ -34,17 +34,17 @@ Sunday | 15:30-17:30 | Indoor Sports Centre | 6 | On-court training & matchplay
 
 # Social Squad
 
-Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone! 
+Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone! Sign up for any of the "On-court session"s here: https://pretix.eu/uobbc-social/booking/
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-DAY TBC | TIME TBC | Indoor Sports Centre | 6 | B:Active Session
-DAY TBC | TIME TBC | Indoor Sports Centre | 6 | LGBT B:Active Session
-Thursday | 9:00-10:30 | Indoor Sports Centre | 6 | On-court Session
-Saturday | 13:00-15:00 | Bristol Grammar School | 5 | On-court Session \(check timetable\)
+DAY TBC | TIME TBC | Indoor Sports Centre | 6 | B:Active
+DAY TBC | TIME TBC | Indoor Sports Centre | 6 | LGBT B:Active
+Thursday | 9:00-10:30 | Indoor Sports Centre | 6 | On-court session
+Saturday | 13:00-15:00 | Bristol Grammar School | 5 | On-court session
 Saturday | 15:00-17:00 | Bristol Grammar School | 5 | Intramural
-Sunday | 9:30-10:30 | Indoor Sports Centre | 6 | On-court Session
-Sunday | 17:30-20:00 | Kingsdown Leisure Centre | 3 | On-court Session
+Sunday | 9:30-10:30 | Indoor Sports Centre | 6 | On-court session
+Sunday | 17:30-20:00 | Indoor Sports Centre | 3 | On-court session
 
 # Disability Badminton
 
