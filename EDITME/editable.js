@@ -43,7 +43,7 @@ app.constant('coverImageUrls', [
   '2023cover6.jpg',
   '2023cover7.jpg',
   '2023cover8.jpg',
-  '2023cover8.jpg'
+  '2023cover9.jpg'
   // ---- END EDIT HERE ----
 
 ]);
@@ -218,7 +218,7 @@ app.constant('captains', [
   ],
   [ // Social
     {
-      image: 'UoBBC Logo.png',
+      image: 'Min Xu.JPG',
       name: 'Min Xu',
       position: 'Social Captain',
       email: '...'
