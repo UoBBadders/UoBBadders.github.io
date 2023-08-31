@@ -143,7 +143,7 @@ app.constant('committee', [
       image: 'Than Sin.JPG',
       name: 'Than Sin',
       position: 'Publicity Officer',
-      email: '...'
+      email: 'uo22490@bristol.ac.uk'
     }, 
   ],
   [ // Third tier
@@ -156,12 +156,12 @@ app.constant('committee', [
       image: 'Amy Amin.JPG',
       name: 'Amy Amin',
       position: 'Alumni Secretary',
-      email: '...'
+      email: 'amy.amin@bristol.ac.uk'
     },  {
       image: 'Barney Pridmore.JPG',
       name: 'Barney Pridmore',
       position: 'Social Secretary',
-      email: '...'
+      email: 'lm22046@bristol.ac.uk'
     }, {
       image: 'UoBBC Logo.png',
       name: 'To Be Confirmed',
@@ -176,7 +176,7 @@ app.constant('committee', [
       image: 'Orton Khoo.JPG',
       name: 'Orton Khoo',
       position: 'Fixtures Secretary',
-      email: '...'
+      email: 'rl20869@bristol.ac.uk'
     }
   ],
   // ---- END EDIT HERE ----
@@ -221,12 +221,12 @@ app.constant('captains', [
       image: 'Min Xu.JPG',
       name: 'Min Xu',
       position: 'Social Captain',
-      email: '...'
+      email: 'dk22732@bristol.ac.uk.'
     }, {
       image: 'Huvan Chan.JPG',
       name: 'Huvan Chan',
       position: 'Social Vice Captain',
-      email: '...'
+      email: 'qr21531@bristol.ac.uk'
     }
   ]
   // ---- END EDIT HERE ----
