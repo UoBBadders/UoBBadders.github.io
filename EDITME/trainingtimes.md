@@ -40,11 +40,11 @@ Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
 DAY TBC | TIME TBC | Indoor Sports Centre | 6 | B:Active
 DAY TBC | TIME TBC | Indoor Sports Centre | 6 | LGBT B:Active
-Thursday | 9:00-10:30 | Indoor Sports Centre | 6 | On-court session
-Saturday | 13:00-15:00 | Bristol Grammar School | 5 | On-court session
+Thursday | 9:00-10:30 | Indoor Sports Centre | 6 | On-court session: book via pretix.eu/uobbc-social/booking/
+Saturday | 13:00-15:00 | Bristol Grammar School | 5 | On-court session: book via pretix.eu/uobbc-social/booking/
 Saturday | 15:00-17:00 | Bristol Grammar School | 5 | Intramural
-Sunday | 9:30-10:30 | Indoor Sports Centre | 6 | On-court session
-Sunday | 17:30-20:00 | Indoor Sports Centre | 3 | On-court session
+Sunday | 9:30-10:30 | Indoor Sports Centre | 6 | On-court session: book via pretix.eu/uobbc-social/booking/
+Sunday | 17:30-20:00 | Indoor Sports Centre | 3 | On-court session: book via pretix.eu/uobbc-social/booking/
 
 # Disability Badminton
 
