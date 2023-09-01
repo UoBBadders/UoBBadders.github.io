@@ -52,7 +52,7 @@ Disability badminton is an open and friendly environment catering for all staff,
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Sunday | 19.00-21.00 | Indoor Sports Centre | 1 | On-court session
+Sunday | 18.00-20.00 | Indoor Sports Centre | 1 | On-court session
 
 
 # Training Venues
