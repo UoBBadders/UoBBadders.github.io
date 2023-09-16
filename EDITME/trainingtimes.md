@@ -39,17 +39,11 @@ Our social section is open to everyone and is a great way to get involved with b
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
 Thursday | 9:00-10:30 | Indoor Sports Centre | 6 | On-court session: book via pretix.eu/uobbc-social/booking/
-Friday | 16:30-17:30 | Indoor Sports Centre | 6 | B:Active
+Friday | 16:30-17:30 | Indoor Sports Centre | 6 | B:Active - Booking can be made through the UOBACTIVE App
 Saturday | 13:00-15:00 | Bristol Grammar School | 5 | On-court session: book via pretix.eu/uobbc-social/booking/
-Saturday | 15:00-17:00 | Bristol Grammar School | 5 | Intramural
+Saturday | 15:00-17:00 | Bristol Grammar School | 5 | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
 Sunday | 9:30-10:30 | Indoor Sports Centre | 6 | On-court session: book via pretix.eu/uobbc-social/booking/
 Sunday | 17:30-20:00 | Indoor Sports Centre | 3 | On-court session: book via pretix.eu/uobbc-social/booking/
-
-# Booking B:Active Sessions
-Booking for B:Active sessions can be made through the UOBACTIVE app.
-
-# Creating an Intramural Team
-To create your intramural team for the upcoming year please head to this website and follow the instrudctions https://www.bristolsu.org.uk/student-groups/intramural
 
 # Disability Badminton
 
