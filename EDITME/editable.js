@@ -130,10 +130,10 @@ app.constant('committee', [
   ], 
   [ // Second tier
     {
-      image: 'UoBBC Logo.png',
-      name: 'To Be Confirmed',
+      image: 'Emily Steer.JPG',
+      name: 'Emily Steer',
       position: 'Secretary',
-      email: '...'
+      email: 'ri21286@bristol.ac.uk'
     }, {
       image: 'Ryan Tham.JPG',
       name: 'Ryan Tham',
@@ -163,10 +163,10 @@ app.constant('committee', [
       position: 'Social Secretary',
       email: 'lm22046@bristol.ac.uk'
     }, {
-      image: 'UoBBC Logo.png',
-      name: 'To Be Confirmed',
+      image: 'Lucy Breen.JPG',
+      name: 'Lucy Breen',
       position: 'Social Secretary',
-      email: '...'
+      email: 'rg22477@bristol.ac.uk'
     }, {
       image: 'Priya Basnet.JPG',
       name: 'Priya Basnet',
