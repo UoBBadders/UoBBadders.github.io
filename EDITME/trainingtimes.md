@@ -8,20 +8,9 @@ These times are only provisional and are subject to change. They will also be up
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Tuesday | 18:30-20:30 | Indoor Sports Centre | 6 | On-court training (coached)
+Tuesday | 18:30-20:30 | Indoor Sports Centre | 6 | Coached training & Matchplay
 Saturday | 10:30-12:30 | Indoor Sports Centre | 6 | On-court training & Matchplay
 Sunday | 18:00-20:00 | Kingsdown Leisure Centre | 5 | On-court training & matchplay
-
-# Pre-Season S&C 2023/24 - Performance Squad
-
-The times for Strength and Conditioning for the Performance Squad pre-season for the 2023/24 season. This is available to all players during pre-season. 
-
-Day | Time | Venue | Session Details
---- | --- | --- | --- | ---
-Monday | 13:00-14:00 | Coombe Dingle Field |  Field Conditioning
-Tuesday | 14:00-15:00 | Coombe Dingle Gym | Strength Work 
-Thursday | 14:00-15:00 | Coombe Dingle Gym | Strength Work
-Friday | 13:00-14:00 | Coombe Dingle Field | Field Conditioning
 
 # Development Squad
 
@@ -29,7 +18,7 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Thursday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
+Thursday | 19:00-21:00 | Indoor Sports Centre | 6 | Coached training, matchplay & local league
 Sunday | 15:30-17:30 | Indoor Sports Centre | 6 | On-court training & matchplay
 
 # Social Squad
