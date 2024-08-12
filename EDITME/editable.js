@@ -130,7 +130,7 @@ app.constant('committee', [
   ], 
   [ // Second tier
     {
-      image: 'Serena Farrelly.jpg',
+      image: 'EDITME/images/team/Serena Farrelly.jpg',
       name: 'Serena Farrelly',
       position: 'Secretary',
       email: 's.farrelly.2020@bristol.ac.uk'
