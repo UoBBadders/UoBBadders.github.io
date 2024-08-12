@@ -135,7 +135,7 @@ app.constant('committee', [
       position: 'Secretary',
       email: 's.farrelly.2020@bristol.ac.uk'
     }, {
-      image: 'Sam Dang.jpg',
+      image: 'EDITME/images/team/Sam Dang.jpg',
       name: 'Sam Dang',
       position: 'Treasurer',
       email: 'zb22971@bristol.ac.uk'
