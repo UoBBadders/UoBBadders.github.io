@@ -192,7 +192,7 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Amy Mellersh.jpg',
+      image: 'EDITME/images/team/Amy Mellersh.jpg',
       name: 'Amy Mellersh',
       position: 'Women\'s Performance Captain',
       email: ' pd22880@bristol.ac.uk'
