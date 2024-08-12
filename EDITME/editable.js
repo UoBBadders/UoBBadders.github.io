@@ -117,66 +117,66 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Peter Shield 2.JPG',
-      name: 'Peter Shield',
+      image: 'Barney Pridmore.JPG',
+      name: 'Barney Pridmore',
       position: 'Club Captain',
-      email: 'ax21801@bristol.ac.uk'
+      email: 'lm22046@bristol.ac.uk'
     }, {
-      image: 'Ben Kemp.JPG',
-      name: 'Ben Kemp',
+      image: 'Rachel Chew.JPG',
+      name: 'Rachel Chew',
       position: 'Vice-Club Captain',
-      email: 'mw21957@bristol.ac.uk'
+      email: 'yn22384@bristol.ac.uk'
     }
   ], 
   [ // Second tier
     {
-      image: 'Emily Steer.JPG',
-      name: 'Emily Steer',
+      image: 'Serena Farrelly.JPG',
+      name: 'Serena Farrelly',
       position: 'Secretary',
-      email: 'ri21286@bristol.ac.uk'
+      email: '???@bristol.ac.uk'
     }, {
-      image: 'Ryan Tham.JPG',
-      name: 'Ryan Tham',
+      image: 'Sam Dang.JPG',
+      name: 'Sam Dang',
       position: 'Treasurer',
-      email: 'uo21656@bristol.ac.uk'
+      email: 'zb22971@bristol.ac.uk'
     }, {
-      image: 'Than Sin.JPG',
-      name: 'Than Sin',
+      image: '?.JPG',
+      name: '?',
       position: 'Publicity Officer',
-      email: 'uo22490@bristol.ac.uk'
+      email: '???@bristol.ac.uk'
     }, 
   ],
   [ // Third tier
     {
-      image: 'Leon Zhu.png',
-      name: 'Leon Zhu',
+      image: 'Than Sin Hsu.png',
+      name: 'Than Sin Hsu',
       position: 'Kit Officer',
-      email: 'ab20179@bristol.ac.uk'
+      email: 'uo22490@bristol.ac.uk'
     }, {
       image: 'Amy Amin.JPG',
       name: 'Amy Amin',
       position: 'Alumni Secretary',
       email: 'amy.amin@bristol.ac.uk'
     },  {
-      image: 'Barney Pridmore.JPG',
-      name: 'Barney Pridmore',
+      image: 'Alex Chong.JPG',
+      name: 'Alex Chong',
       position: 'Social Secretary',
-      email: 'lm22046@bristol.ac.uk'
+      email: 'li23170@bristol.ac.uk'
     }, {
-      image: 'Lucy Breen.JPG',
-      name: 'Lucy Breen',
+      image: 'Roscoe Cooksey.JPG',
+      name: 'Roscoe Cooksey',
       position: 'Social Secretary',
-      email: 'rg22477@bristol.ac.uk'
+      email: 'uk23624@bristol.ac.uk'
     }, {
       image: 'Priya Basnet.JPG',
       name: 'Priya Basnet',
       position: 'Equality and Welfare Officer',
       email: 'lv21097@bristol.ac.uk'
     }, {
-      image: 'Orton Khoo.JPG',
-      name: 'Orton Khoo',
+      image: 'Maruf Ahmed.JPG',
+      name: 'Maruf Ahmed',
       position: 'Fixtures Secretary',
-      email: 'rl20869@bristol.ac.uk'
+      email: 'uc22349@bristol.ac.uk'
     }
   ],
   // ---- END EDIT HERE ----
@@ -192,41 +192,41 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Rachel Chew.JPG',
-      name: 'Rachel Chew',
+      image: 'Amy Mellersh.JPG',
+      name: 'Amy Mellersh',
       position: 'Women\'s Performance Captain',
-      email: 'yn22384@bristol.ac.uk'
+      email: ' pd22880@bristol.ac.uk'
     }, {
-      image: 'Ricky Lam.png',
-      name: 'Ricky Lam',
+      image: 'Bruce Yao.png',
+      name: 'Bruce Yao',
       position: 'Men\'s Performance Captain',
-      email: 'qj20749@bristol.ac.uk'
+      email: 'pe21269@bristol.ac.uk'
     }
   ],
   [ // Dev
     {
-      image: 'Lacey Rose Trebilcook.JPG',
-      name: 'Lacey Rose Trébilcook',
+      image: 'Anusha Shrivastav.JPG',
+      name: 'Anusha Shrivastav',
       position: 'Women\'s Development Captain',
-      email: 'oe20277@bristol.ac.uk'
+      email: 'ph23269@bristol.ac.uk'
     }, {
-      image: 'Aaron Vinod.JPG',
-      name: 'Aaron Vinod',
+      image: 'Peter Zheng.JPG',
+      name: 'Peter Zheng',
       position: 'Men\'s Development Captain',
-      email: 'ce20480@bristol.ac.uk'
+      email: 'vd23285@bristol.ac.uk'
     }
   ],
   [ // Social
     {
-      image: 'Min Xu.JPG',
-      name: 'Min Xu',
+      image: '?.JPG',
+      name: '?',
       position: 'Social Captain',
-      email: 'dk22732@bristol.ac.uk.'
+      email: '???@bristol.ac.uk.'
     }, {
-      image: 'Huvan Chan.JPG',
-      name: 'Huvan Chan',
+      image: 'Himsi Tanwani.JPG',
+      name: 'Himsi Tanwani',
       position: 'Social Vice Captain',
-      email: 'qr21531@bristol.ac.uk'
+      email: 'qg22097@bristol.ac.uk'
     }
   ]
   // ---- END EDIT HERE ----
@@ -243,7 +243,7 @@ app.constant('coaches', [
   {
     image: 'Raj Popat.jpg',
     name: 'Raj Popat',
-    position: 'Performance Squad Coach',
+    position: 'Performance and Development Squad Coach',
     details: 'Raj is our newly-appointed Performance Squad Coach. Raj is an ex-international player for Wales and now full-time coach. His coaching accolades include 4 years as Head Coach at Cardiff University, now Head Coach of the Newport Badminton Academy and a consultant coach for the English, French and Spanish teams. As Coach at the University, Raj will coordinate players\' development and team development. He will manage, monitor and motivate our players throughout the season. We are looking forward to working with him.',
   },
   {
