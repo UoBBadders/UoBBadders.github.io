@@ -117,7 +117,7 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Barney Pridmore.jpg',
+      image: 'Barney Pridmore2.jpg',
       name: 'Barney Pridmore',
       position: 'Club Captain',
       email: 'lm22046@bristol.ac.uk'
@@ -133,7 +133,7 @@ app.constant('committee', [
       image: 'Serena Farrelly.jpg',
       name: 'Serena Farrelly',
       position: 'Secretary',
-      email: '???@bristol.ac.uk'
+      email: 's.farrelly.2020@bristol.ac.uk'
     }, {
       image: 'Sam Dang.jpg',
       name: 'Sam Dang',
