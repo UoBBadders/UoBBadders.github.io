@@ -153,7 +153,7 @@ app.constant('committee', [
       position: 'Kit Officer',
       email: 'uo22490@bristol.ac.uk'
     }, {
-      image: 'Amy Amin.jpg',
+      image: 'Amy Amin3.jpg',
       name: 'Amy Amin',
       position: 'Alumni Secretary',
       email: 'amy.amin@bristol.ac.uk'
