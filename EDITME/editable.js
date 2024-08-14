@@ -241,7 +241,7 @@ app.constant('coaches', [
   */
   // ---- EDIT HERE ----
   {
-    image: 'Raj Popat.jpg',
+    image: 'Raj Popat.jpeg',
     name: 'Raj Popat',
     position: 'Performance and Development Squad Coach',
     details: 'Raj is our newly-appointed Performance Squad Coach. Raj is an ex-international player for Wales and now full-time coach. His coaching accolades include 4 years as Head Coach at Cardiff University, now Head Coach of the Newport Badminton Academy and a consultant coach for the English, French and Spanish teams. As Coach at the University, Raj will coordinate players\' development and team development. He will manage, monitor and motivate our players throughout the season. We are looking forward to working with him.',
