@@ -247,18 +247,7 @@ app.constant('coaches', [
     details: 'Raj is our newly-appointed Performance Squad Coach. Raj is an ex-international player for Wales and now full-time coach. His coaching accolades include 4 years as Head Coach at Cardiff University, now Head Coach of the Newport Badminton Academy and a consultant coach for the English, French and Spanish teams. As Coach at the University, Raj will coordinate players\' development and team development. He will manage, monitor and motivate our players throughout the season. We are looking forward to working with him.',
   },
   {
-    image: 'UoBBC Logo.png',
-    name: 'Performance/Development Player-Coaches',
-    position: 'Coaches for the Development and Social Squads',
-    details: 'Following the success of the University\'s "Game Changers" programme last year, which saw a team of Performance Squad and Development Squad players train as Badminton England-qualified coaches and apply those skills to coach the social squad, Game Changers will be returning this year. These coaches will run coaching sessions for the Development and Social Squads, supported by experienced coaches in the Performance Squad.',
-    email: 'uobbadders@outlook.com'
-  },
-  {
-    image: 'RebeccaPantaney.png',
-    name: 'Rebecca Pantaney',
-    position: 'Outgoing Badminton Coordinator & Performance Squad Coach',
-    details: 'Bex has been part of UoBBC for many years, during this time she has played a pivotal role in overseeing the growth and development of the club. We are sad to lose Bex, but we wish her all the best for her future endeavours.',
-  }
+    
   // ---- END EDIT HERE ----
 ]);
 
