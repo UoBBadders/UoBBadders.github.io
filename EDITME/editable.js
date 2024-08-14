@@ -117,7 +117,7 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Barney Pridmore2.jpg',
+      image: 'Barney Pridmore.jpg',
       name: 'Barney Pridmore',
       position: 'Club Captain',
       email: 'lm22046@bristol.ac.uk'
