@@ -158,7 +158,7 @@ app.constant('committee', [
       position: 'Alumni Secretary',
       email: 'amy.amin@bristol.ac.uk'
     },  {
-      image: 'Alex Chong.jpg',
+      image: 'Alex Chong.jpeg',
       name: 'Alex Chong',
       position: 'Social Secretary',
       email: 'li23170@bristol.ac.uk'
@@ -192,7 +192,7 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'EDITME/images/team/Amy Mellersh.jpg',
+      image: 'Amy Mellersh.jpg',
       name: 'Amy Mellersh',
       position: 'Women\'s Performance Captain',
       email: ' pd22880@bristol.ac.uk'
@@ -223,7 +223,7 @@ app.constant('captains', [
       position: 'Social Captain',
       email: '???@bristol.ac.uk.'
     }, {
-      image: 'Himsi Tanwani.jpg',
+      image: 'Himsi Tawani.jpg',
       name: 'Himsi Tanwani',
       position: 'Social Vice Captain',
       email: 'qg22097@bristol.ac.uk'
