@@ -27,6 +27,6 @@ Membership | Full Year Price £ | Half Year Price £ |
 Social | 35 | 20
 Development | 75 | 40
 Performance | 90 (+£10 match shirt add-on) | 45 (+£10 match shirt add-on)
-Disability Badminton | 5 | 5
+
 
 All memberships also require students to hold an [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/). The [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/) requires a one-off payment of £25 which goes directly to SEH (the sports facilities provider), not the badminton club, and will permit you access to the sports facilities. This single payment of £25 is made via the Bristol SU website when joining any sports club. Please note: you only need to buy the [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/) ONCE, even if you join multiple sports clubs. For more information, click this link: [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/), scroll down to "Helpful information & Troubleshooting" and read the section titled "Sports Clubs".
