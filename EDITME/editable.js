@@ -195,7 +195,7 @@ app.constant('captains', [
       image: 'Amy Mellersh.jpg',
       name: 'Amy Mellersh',
       position: 'Women\'s Performance Captain',
-      email: ' pd22880@bristol.ac.uk'
+      email: 'pd22880@bristol.ac.uk'
     }, {
       image: 'Bruce Yao.jpg',
       name: 'Bruce Yao',
