@@ -130,12 +130,12 @@ app.constant('committee', [
   ] , 
   [ // Second tier
     {
-      image: 'Serena Farrelly.jpg',
+      image: 'Serena Farrelly2.jpg',
       name: 'Serena Farrelly',
       position: 'Secretary',
       email: 's.farrelly.2020@bristol.ac.uk'
     }, {
-      image: 'Sam Dang.jpg',
+      image: 'Sam Dang2.jpg',
       name: 'Sam Dang',
       position: 'Treasurer',
       email: 'zb22971@bristol.ac.uk'
