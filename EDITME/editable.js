@@ -127,7 +127,7 @@ app.constant('committee', [
       position: 'Vice-Club Captain',
       email: 'yn22384@bristol.ac.uk'
     }
-  ], 
+  ] //, 
 //  [ // Second tier
 //    {
 //      image: 'Serena Farrelly.jpg',
