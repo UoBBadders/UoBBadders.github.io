@@ -8,9 +8,9 @@ These times are only provisional and are subject to change. They will also be up
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Tuesday | 19:00-21:00 | Indoor Sports Centre | 6 | On-court training & matchplay
-Saturday | 12:00-14:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
-Sunday | 16:00-19:00 | Indoor Sports Centre | 3 | Coached training & Matchplay
+Tuesday | 19:00 - 21:00 | Indoor Sports Centre | 6 | On-court training & matchplay
+Saturday | 12:00 - 14:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
+Sunday | 16:00 - 19:00 | Indoor Sports Centre | 3 | Coached training & Matchplay
 
 # Development Squad
 
@@ -18,8 +18,8 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Thursday | 18:00-20:00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
-Sunday | 14:00-16:00 | Indoor Sports Centre | 6 | Coached training & matchplay
+Thursday | 18:00 - 20:00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
+Sunday | 14:00 - 16:00 | Indoor Sports Centre | 6 | Coached training & matchplay
 
 # Social Squad
 
