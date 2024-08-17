@@ -202,33 +202,33 @@ app.constant('captains', [
       position: 'Men\'s Performance Captain',
       email: 'pe21269@bristol.ac.uk'
     }
-  ],
-  [ // Dev
-    {
-      image: 'Anusha Shrivastav.jpg',
-      name: 'Anusha Shrivastav',
-      position: 'Women\'s Development Captain',
-      email: 'ph23269@bristol.ac.uk'
-    }, {
-      image: 'Peter Zheng.jpg',
-      name: 'Peter Zheng',
-      position: 'Men\'s Development Captain',
-      email: 'vd23285@bristol.ac.uk'
-    }
-  ],
-  [ // Social
-    {
-      image: 'UoBBC Logo.png',
-      name: 'TBC',
-      position: 'Social Captain',
-      email: 'TBC'
-    }, {
-      image: 'Himsi Tawani.jpg',
-      name: 'Himsi Tanwani',
-      position: 'Social Vice Captain',
-      email: 'qg22097@bristol.ac.uk'
-    }
-  ]
+  ] //,
+//  [ // Dev
+//    {
+//      image: 'Anusha Shrivastav.jpg',
+//      name: 'Anusha Shrivastav',
+//      position: 'Women\'s Development Captain',
+//      email: 'ph23269@bristol.ac.uk'
+//    }, {
+//      image: 'Peter Zheng.jpg',
+//      name: 'Peter Zheng',
+//      position: 'Men\'s Development Captain',
+//      email: 'vd23285@bristol.ac.uk'
+//    }
+//  ],
+//  [ // Social
+//    {
+//      image: 'UoBBC Logo.png',
+//      name: 'TBC',
+//      position: 'Social Captain',
+//      email: 'TBC'
+//    }, {
+//      image: 'Himsi Tawani.jpg',
+//      name: 'Himsi Tanwani',
+//      position: 'Social Vice Captain',
+//      email: 'qg22097@bristol.ac.uk'
+//    }
+//  ]
   // ---- END EDIT HERE ----
 ]);
 
