@@ -145,40 +145,40 @@ app.constant('committee', [
       position: 'Publicity Officer',
       email: 'TBC'
     } 
-  ] //,
-//  [ // Third tier
-//    {
-//      image: 'Than Sin Hsu.jpg',
-//      name: 'Than Sin Hsu',
-//      position: 'Kit Officer',
-//      email: 'uo22490@bristol.ac.uk'
-//    }, {
-//      image: 'Amy Amin3.jpg',
-//      name: 'Amy Amin',
-//      position: 'Alumni Secretary',
-//      email: 'amy.amin@bristol.ac.uk'
-//    },  {
-//      image: 'Alex Chong.jpeg',
-//      name: 'Alex Chong',
-//      position: 'Social Secretary',
-//      email: 'li23170@bristol.ac.uk'
-//    }, {
-//      image: 'Roscoe Cooksey.jpg',
-//      name: 'Roscoe Cooksey',
-//      position: 'Social Secretary',
-//      email: 'uk23624@bristol.ac.uk'
-//    }, {
-//      image: 'Priya Basnet.JPG',
-//      name: 'Priya Basnet',
-//      position: 'Equality and Welfare Officer',
-//      email: 'lv21097@bristol.ac.uk'
-//    }, {
-//      image: 'Maruf Ahmed.jpg',
-//      name: 'Maruf Ahmed',
-//      position: 'Fixtures Secretary',
-//      email: 'uc22349@bristol.ac.uk'
-//    }
-//  ],
+  ],
+  [ // Third tier
+    {
+      image: 'Than Sin Hsu.jpg',
+      name: 'Than Sin Hsu',
+      position: 'Kit Officer',
+      email: 'uo22490@bristol.ac.uk'
+    }, {
+      image: 'Amy Amin3.jpg',
+      name: 'Amy Amin',
+      position: 'Alumni Secretary',
+      email: 'amy.amin@bristol.ac.uk'
+    },  {
+      image: 'Alex Chong.jpeg',
+      name: 'Alex Chong',
+      position: 'Social Secretary',
+      email: 'li23170@bristol.ac.uk'
+    }, {
+      image: 'Roscoe Cooksey.jpg',
+      name: 'Roscoe Cooksey',
+      position: 'Social Secretary',
+      email: 'uk23624@bristol.ac.uk'
+    }, {
+      image: 'Priya Basnet.JPG',
+      name: 'Priya Basnet',
+      position: 'Equality and Welfare Officer',
+      email: 'lv21097@bristol.ac.uk'
+    }, {
+      image: 'Maruf Ahmed.jpg',
+      name: 'Maruf Ahmed',
+      position: 'Fixtures Secretary',
+      email: 'uc22349@bristol.ac.uk'
+    }
+  ],
   // ---- END EDIT HERE ----
 ]);
 
