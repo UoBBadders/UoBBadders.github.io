@@ -140,10 +140,10 @@ app.constant('committee', [
       position: 'Treasurer',
       email: 'zb22971@bristol.ac.uk'
     }, {
-      image: '?.JPG',
-      name: '?',
+      image: 'UoBBC Logo.png',
+      name: 'TBC',
       position: 'Publicity Officer',
-      email: '???@bristol.ac.uk'
+      email: 'TBC'
     }, 
   ],
   [ // Third tier
