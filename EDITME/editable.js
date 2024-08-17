@@ -148,7 +148,7 @@ app.constant('committee', [
   ],
   [ // Third tier
     {
-      image: 'Than Sin Hsu. JPG.jpg',
+      image: 'Than Sin Hsu.jpg',
       name: 'Than Sin Hsu',
       position: 'Kit Officer',
       email: 'uo22490@bristol.ac.uk'
