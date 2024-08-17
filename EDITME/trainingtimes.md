@@ -18,21 +18,21 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Thursday | 18:00 - 20:00 | Indoor Sports Centre | 6 | On-court training, matchplay & local league
-Sunday | 14:00 - 16:00 | Indoor Sports Centre | 6 | Coached training & matchplay
+Thursday | 18:00 - 20:00 | Indoor Sports Centre | 6 | On-court training, matchplay
+Sunday | 14:00 - 16:00 |  Indoor Sports Centre   | 6 | Coached training & matchplay
 
 # Social Squad
 
 Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone! Sign up for any of the "On-court session"s here: https://pretix.eu/uobbc-social/booking/
 
 Day | Time | Venue | Courts | Session Details
---- | --- | --- | --- | ---
-Monday | 14:00-15:30 | Indoor Sports Centre | 6 | On-court session: book via pretix.eu/uobbc-social/booking/
-Monday | 15:30-16:30 | Indoor Sports Centre | 3 | On-court session: book via pretix.eu/uobbc-social/booking/
-Friday | 14:30-15:30 | Indoor Sports Centre | 6 | On-court session: book via pretix.eu/uobbc-social/booking/
-Saturday | 09:00-11:00 | Kingsdown Sports Centre | 5 | On-court session: book via pretix.eu/uobbc-social/booking/
-Saturday | 11:00-12:00 | Indoor Sports Centre | 6 | B:Active - Booking can be made through the UOBACTIVE App
-Satuday | 15:00-27:00 | Bristol Grammar School | 3 | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
+--- | -----| ----- | --- | ---
+Monday | 14:00 - 15:30 | Indoor Sports Centre | 6 | On-court session: book via https://pretix.eu/uobbc-social/booking/
+Monday | 15:30 - 16:30 | Indoor Sports Centre | 3 | On-court session: book via https://pretix.eu/uobbc-social/booking/
+Friday | 14:30 - 15:30 | Indoor Sports Centre | 6 | On-court session: book via https://pretix.eu/uobbc-social/booking/
+Saturday |09:00 - 11:00| Kingsdown Sports Centre | 5 | On-court session: book via https://pretix.eu/uobbc-social/booking/
+Saturday | 11:00 - 12:00 | Indoor Sports Centre | 6 | B:Active - Booking can be made through the UOBACTIVE App
+Satuday | 15:00 - 17:00 | Bristol Grammar School | 3 | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
 
 # Disability Badminton
 
