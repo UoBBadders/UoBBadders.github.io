@@ -128,13 +128,14 @@ app.constant('committee', [
       email: 'yn22384@bristol.ac.uk'
     }
   ] //, 
-//  [ // Second tier
-//    {
-//      image: 'Serena Farrelly.jpg',
-//      name: 'Serena Farrelly',
-//      position: 'Secretary',
-//      email: 's.farrelly.2020@bristol.ac.uk'
-//    }, {
+  [ // Second tier
+    {
+      image: 'Serena Farrelly.jpg',
+      name: 'Serena Farrelly',
+      position: 'Secretary',
+      email: 's.farrelly.2020@bristol.ac.uk'
+    }
+//        {
 //      image: 'Sam Dang.jpg',
 //      name: 'Sam Dang',
 //      position: 'Treasurer',
@@ -145,7 +146,7 @@ app.constant('committee', [
 //      position: 'Publicity Officer',
 //      email: 'TBC'
 //    }, 
-//  ],
+  ]
 //  [ // Third tier
 //    {
 //      image: 'Than Sin Hsu.jpg',
