@@ -122,7 +122,7 @@ app.constant('committee', [
       position: 'Club Captain',
       email: 'lm22046@bristol.ac.uk'
     }, {
-      image: 'Rachel Chew.JPG',
+      image: 'Rachel Chew2.jpg',
       name: 'Rachel Chew',
       position: 'Vice-Club Captain',
       email: 'yn22384@bristol.ac.uk'
