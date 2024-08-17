@@ -205,12 +205,12 @@ app.constant('captains', [
   ],
   [ // Dev
     {
-      image: 'Anusha Shrivastav.jpg',
+      image: 'Anusha Shrivastav2.jpg',
       name: 'Anusha Shrivastav',
       position: 'Women\'s Development Captain',
       email: 'ph23269@bristol.ac.uk'
     }, {
-      image: 'Peter Zheng.jpg',
+      image: 'Peter Zheng2.jpg',
       name: 'Peter Zheng',
       position: 'Men\'s Development Captain',
       email: 'vd23285@bristol.ac.uk'
