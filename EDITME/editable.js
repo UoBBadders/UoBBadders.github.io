@@ -214,10 +214,10 @@ app.constant('captains', [
   ],
   [ // Social
     {
-      image: 'UoBBC Logo.png',
+      image: 'Will Midgley.JPG',
       name: 'Will Midgley',
       position: 'Social Captain',
-      email: 'TBC'
+      email: 'se22630@bristol.ac.uk'
     }, {
       image: 'Himsi Tawani.jpg',
       name: 'Himsi Tanwani',
