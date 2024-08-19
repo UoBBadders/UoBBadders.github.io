@@ -65,8 +65,6 @@ app.constant('supports', [
   **  link: 'url-to-the-sponsor-1-website',
   **  image: 'image-1-filename'
   ** }, {
-  **  link: 'url-to-sponsor-2-website',
-  **  image: 'image-2-filename'
   ** }
   */
   // ---- EDIT HERE ----
