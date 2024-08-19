@@ -215,7 +215,7 @@ app.constant('captains', [
   [ // Social
     {
       image: 'UoBBC Logo.png',
-      name: 'TBC',
+      name: 'Will Midgley',
       position: 'Social Captain',
       email: 'TBC'
     }, {
