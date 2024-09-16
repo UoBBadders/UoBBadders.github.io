@@ -136,10 +136,10 @@ app.constant('committee', [
       position: 'Treasurer',
       email: 'zb22971@bristol.ac.uk'
     }, {
-      image: 'UoBBC Logo.png',
-      name: 'TBC',
+      image: 'Janis_Leung.jpg',
+      name: 'Tsz Yin Leung',
       position: 'Publicity Officer',
-      email: 'TBC'
+      email: 'zd23652@bristol.ac.uk'
     } 
   ],
   [ // Third tier
