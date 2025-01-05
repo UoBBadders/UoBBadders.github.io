@@ -1,0 +1,1 @@
+Below is our non-binary and transgender inclusion policy that we have developed to ensure all players recognise UoBBC as a safe space. We firmly believe in respecting everyone’s identities, and hope this policy helps to bring this belief into practice!
