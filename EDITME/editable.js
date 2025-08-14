@@ -114,66 +114,66 @@ app.constant('committee', [
   // ---- EDIT HERE ----
   [ // First tier
     {
-      image: 'Barney Pridmore2.jpg',
-      name: 'Barney Pridmore',
+      image: '25pres.jpg',
+      name: 'Priya Basnet ',
       position: 'Club Captain',
-      email: 'lm22046@bristol.ac.uk'
+      email: 'lv21097@bristol.ac.uk'
     }, {
-      image: 'Rachel Chew2.jpg',
-      name: 'Rachel Chew',
+      image: '25vp.jpg',
+      name: 'Juliet Wong',
       position: 'Vice-Club Captain',
-      email: 'yn22384@bristol.ac.uk'
+      email: 'ek24290@bristol.ac.uk'
     }
   ] , 
   [ // Second tier
     {
-      image: 'Serena Farrelly2.jpg',
-      name: 'Serena Farrelly',
+      image: 'sec25.jpeg',
+      name: 'Rhiannon Kelley',
       position: 'Secretary',
-      email: 's.farrelly.2020@bristol.ac.uk'
+      email: 'ti23612@bristol.ac.uk'
     }, {
-      image: 'Sam Dang2.jpg',
-      name: 'Sam Dang',
+      image: '25tres.jpg',
+      name: 'Ollie Edmondson',
       position: 'Treasurer',
-      email: 'zb22971@bristol.ac.uk'
+      email: 'xr23248@bristol.ac.uk'
     }, {
-      image: 'Janis_Leung.jpg',
-      name: 'Tsz Yin Leung',
+      image: '25media.jpg',
+      name: 'Amy Mellersh',
       position: 'Publicity Officer',
-      email: 'zd23652@bristol.ac.uk'
+      email: 'pd22880@bristol.ac.uk'
     } 
   ],
   [ // Third tier
     {
-      image: 'Than Sin Hsu.jpg',
-      name: 'Than Sin Hsu',
+      image: '25kit.jpg',
+      name: 'Lauren Baur',
       position: 'Kit Officer',
-      email: 'uo22490@bristol.ac.uk'
+      email: 'xr23442@bristol.ac.uk'
     }, {
-      image: 'Amy Amin3.jpg',
-      name: 'Amy Amin',
+      image: '25alumni.jpg',
+      name: 'Serena Khan',
       position: 'Alumni Secretary',
-      email: 'amy.amin@bristol.ac.uk'
+      email: 'pt20028@bristol.ac.uk'
     },  {
-      image: 'Alex Chong.jpeg',
-      name: 'Alex Chong',
+      image: '25social.jpg',
+      name: 'Pranav Juneenath',
       position: 'Social Secretary',
-      email: 'li23170@bristol.ac.uk'
+      email: 'iz24878@bristol.ac.uk'
     }, {
-      image: 'Roscoe Cooksey.jpg',
-      name: 'Roscoe Cooksey',
+      image: '',
+      name: 'TBC',
       position: 'Social Secretary',
-      email: 'uk23624@bristol.ac.uk'
+      email: ''
     }, {
-      image: 'Priya Basnet.JPG',
-      name: 'Priya Basnet',
+      image: '25edi.jpg',
+      name: 'Ashna Puri',
       position: 'Equality and Welfare Officer',
-      email: 'lv21097@bristol.ac.uk'
+      email: 'sb23353@bristol.ac.uk'
     }, {
-      image: 'Maruf Ahmed.jpg',
-      name: 'Maruf Ahmed',
+      image: '25fix.jpg',
+      name: 'Paco Li',
       position: 'Fixtures Secretary',
-      email: 'uc22349@bristol.ac.uk'
+      email: 'ev24067@bristol.ac.uk'
     }
   ],
   // ---- END EDIT HERE ----
