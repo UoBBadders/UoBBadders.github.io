@@ -189,41 +189,41 @@ app.constant('captains', [
   // ---- EDIT HERE ----
   [ // Performance
     {
-      image: 'Amy Mellersh.jpg',
-      name: 'Amy Mellersh',
-      position: 'Women\'s Performance Captain',
-      email: 'pd22880@bristol.ac.uk'
+      image: '25wpc.jpg',
+      name: 'Sneha Jogi',
+      position: 'Womens Performance Captain',
+      email: 'wq23445@bristol.ac.uk'
     }, {
-      image: 'Bruce Yao.jpg',
-      name: 'Bruce Yao',
+      image: '25mpc.jpg',
+      name: 'Yuxuan Ye',
       position: 'Men\'s Performance Captain',
-      email: 'pe21269@bristol.ac.uk'
+      email: 'yuxuan.ye@bristol.ac.uk'
     }
   ],
   [ // Dev
     {
-      image: 'Anusha Shrivastav2.jpg',
+      image: '25wdc.jpg',
       name: 'Anusha Shrivastav',
       position: 'Women\'s Development Captain',
       email: 'ph23269@bristol.ac.uk'
     }, {
-      image: 'Peter Zheng2.jpg',
-      name: 'Peter Zheng',
+      image: '25mdc.jpg',
+      name: 'George Brady',
       position: 'Men\'s Development Captain',
-      email: 'vd23285@bristol.ac.uk'
+      email: 'hq24331@bristol.ac.uk'
     }
   ],
   [ // Social
     {
-      image: 'Will Midgley.JPG',
-      name: 'Will Midgley',
+      image: '25sc.jpg',
+      name: 'Andrew Dunkley',
       position: 'Social Captain',
-      email: 'se22630@bristol.ac.uk'
+      email: 'sq23849@bristol.ac.uk'
     }, {
-      image: 'Himsi Tawani.jpg',
-      name: 'Himsi Tanwani',
+      image: '25svc.jpg',
+      name: 'Fin Thompson',
       position: 'Social Vice Captain',
-      email: 'qg22097@bristol.ac.uk'
+      email: 'pm24920@bristol.ac.uk'
     }
   ]
   // ---- END EDIT HERE ----
