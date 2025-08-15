@@ -8,9 +8,9 @@ These times are only provisional and are subject to change. They will also be up
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Tuesday | 19:00 - 21:00 | Indoor Sports Centre | 6 | On-court training & matchplay
-Saturday | 12:00 - 14:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
-Sunday | 16:00 - 19:00 | Indoor Sports Centre | 3 | Coached training & Matchplay
+Thursday | 19:30 - 21:30 | Indoor Sports Centre | 6 | On-court training & matchplay
+Saturday | 13:00 - 15:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
+Sunday | 14:00 - 16:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
 
 # Development Squad
 
@@ -18,8 +18,8 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Thursday | 18:00 - 20:00 | Indoor Sports Centre | 6 | On-court training, matchplay
-Sunday | 14:00 - 16:00 |  Indoor Sports Centre   | 6 | Coached training & matchplay
+Tuesday | 20:30 - 22:30 | Indoor Sports Centre | 6 | On-court training, matchplay
+ TBC | TBC |  Indoor Sports Centre   | 6 | Coached training & matchplay
 
 # Social Squad
 
@@ -27,14 +27,13 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | -----| ----- | --- | ---
-Monday | 14:00 - 15:30 | Indoor Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Monday | 15:30 - 16:30 | Indoor Sports Centre | 3 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Friday | 14:30 - 15:30 | Indoor Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Saturday |09:00 - 10:00| Kingsdown Sports Centre | 5 | Social Coaching session: book via (https://pretix.eu/uobbadders/booking/)
-Saturday |10:00 - 11:00| Kingsdown Sports Centre | 5 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Saturday | 11:00 - 12:00 | Indoor Sports Centre | 6 | B:Active - Booking can be made through the UOBACTIVE App
-Satuday | 15:00 - 17:00 | Bristol Grammar School | 3 | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
-Sunday |18:00 - 20:00| Kingsdown Sports Centre | 5 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+Monday | 13:30 - 14:30 | Indoor Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+Tuesday | 15:00 - 17:00 | Indoor Sports Centre | 3 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+Thursday | 9:30 - 11:30 | Indoor Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+Thursday |13:30 - 15:30| Kingsdown Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+TBC |TBC| TBC | 5 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+TBC | TBC | TBC | 3 | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
+TBC |TBC| TBC | 5 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
 
 # Disability Badminton
 
