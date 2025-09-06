@@ -42,9 +42,7 @@ app.constant('coverImageUrls', [
   'IMG_1770.jpg',
   '2024cover5.JPG',
   '73f4ff8df9846fe5c560ca6681835daf.jpeg',
-  '2023cover7.jpg',
-  '2023cover8.jpg',
-  '2024cover9.JPG',
+  'IMG_1773.jpg',
   '2024cover10.JPG'
   // ---- END EDIT HERE ----
 
