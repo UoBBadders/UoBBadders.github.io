@@ -23,7 +23,7 @@ Sunday | 16:00-19:00 |  Indoor Sports Centre   | 3 | Coached training & matchpla
 
 # Social Squad
 
-Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone! Sign up for any of the "On-court session"s here: (https://pretix.eu/uobbadders/booking/)
+Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone! Sign up for any of the "On-court session"s here: (https:spond.com/invite/EHZXV)
 
 Day | Time | Venue | Courts | Session Details
 --- | -----| ----- | --- | ---
