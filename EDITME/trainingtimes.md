@@ -19,7 +19,7 @@ The Development squad is made up of around 50 players and offers a competitive s
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
 Tuesday | 20:30 - 22:30 | Indoor Sports Centre | 6 | On-court training, matchplay
- TBC | TBC |  Indoor Sports Centre   | 6 | Coached training & matchplay
+Sunday | 16:00-19:00 |  Indoor Sports Centre   | 3 | Coached training & matchplay
 
 # Social Squad
 
@@ -27,13 +27,14 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | -----| ----- | --- | ---
-Monday | 13:30 - 14:30 | Indoor Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Tuesday | 15:00 - 17:00 | Indoor Sports Centre | 3 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Thursday | 9:30 - 11:30 | Indoor Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-Thursday |13:30 - 15:30| Kingsdown Sports Centre | 6 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-TBC |TBC| TBC | 5 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
-TBC | TBC | TBC | 3 | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
-TBC |TBC| TBC | 5 | On-court session: book via (https://pretix.eu/uobbadders/booking/)
+Monday | 13:30 - 14:30 | Indoor Sports Centre | 6 | On-court session: book via (https://spond.com/invite/EHZXV)
+Tuesday | 15:00 - 17:00 | Indoor Sports Centre | 3 | On-court session: book via (https://spond.com/invite/EHZXV)
+Thursday | 9:30 - 11:30 | Indoor Sports Centre | 6 | On-court session: book via (https://spond.com/invite/EHZXV)
+Thursday |13:30 - 15:30| INdoor sports Center | 6 | On-court session: book via (https://spond.com/invite/EHZXV)
+Saturday |10:00-11:00| advanced social coaching | kingsdown sports center  | On-court session: book via (https://spond.com/invite/EHZXV)
+Sunday | TBC | Intramural | TBC | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
+Sunday |12:00-13:00| Advanced Social Coaching | Kingsdown Sports center | On-court session: book via (https://spond.com/invite/EHZXV)
+Sunday |13:00-14:00| Kingsdown Sports center | 6 | On-court session: book via (https://spond.com/invite/EHZXV)
 
 # Disability Badminton
 
