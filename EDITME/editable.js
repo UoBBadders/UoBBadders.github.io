@@ -158,7 +158,7 @@ app.constant('committee', [
       position: 'Social Secretary',
       email: 'iz24878@bristol.ac.uk'
     }, {
-      image: '57CD3181-64CF-4568-B10B-49AF77F8071D.jpg',
+      image: '73f4ff8df9846fe5c560ca6681835daf.JPEG',
       name: 'Sanjana Kannan',
       position: 'Social Secretary',
       email: 'dl20710@bristol.ac.uk'
