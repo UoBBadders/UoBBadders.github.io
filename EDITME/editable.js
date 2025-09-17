@@ -161,7 +161,7 @@ app.constant('committee', [
       image: '57CD3181-64CF-4568-B10B-49AF77F8071D.jpg',
       name: 'Sanjana Kannan',
       position: 'Social Secretary',
-      email: 'dl20710@bristol.ac.uk
+      email: 'dl20710@bristol.ac.uk'
 '
     }, {
       image: '25edi.jpg',
