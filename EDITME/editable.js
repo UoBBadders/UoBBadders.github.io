@@ -162,7 +162,6 @@ app.constant('committee', [
       name: 'Sanjana Kannan',
       position: 'Social Secretary',
       email: 'dl20710@bristol.ac.uk'
-'
     }, {
       image: '25edi.jpg',
       name: 'Ashna Puri',
