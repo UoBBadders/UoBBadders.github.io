@@ -176,7 +176,7 @@ app.constant('committee', [
       image: 'co25.jpg',
       name: 'Peter Shield',
       position: 'Coaching officer',
-      emial: '@bristol.ac.uk'
+      emial: 'ax21801@bristol.ac.uk'
     }
   ],
   // ---- END EDIT HERE ----
