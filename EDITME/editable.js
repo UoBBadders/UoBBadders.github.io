@@ -172,7 +172,11 @@ app.constant('committee', [
       name: 'Paco Li',
       position: 'Fixtures Secretary',
       email: 'ev24067@bristol.ac.uk'
-    }
+    }, {
+      image: 'c025.jpg',
+      name: 'Peter Shield',
+      position: 'Coaching officer',
+      emial: '@bristol.ac.uk'
   ],
   // ---- END EDIT HERE ----
 ]);
