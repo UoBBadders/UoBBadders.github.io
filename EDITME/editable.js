@@ -173,7 +173,7 @@ app.constant('committee', [
       position: 'Fixtures Secretary',
       email: 'ev24067@bristol.ac.uk'
     }, {
-      image: 'c025.jpg',
+      image: 'co25.jpg',
       name: 'Peter Shield',
       position: 'Coaching officer',
       emial: '@bristol.ac.uk'
