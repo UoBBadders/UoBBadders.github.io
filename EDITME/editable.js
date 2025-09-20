@@ -177,6 +177,7 @@ app.constant('committee', [
       name: 'Peter Shield',
       position: 'Coaching officer',
       emial: '@bristol.ac.uk'
+    }
   ],
   // ---- END EDIT HERE ----
 ]);
