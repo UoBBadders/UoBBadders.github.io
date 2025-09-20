@@ -52,4 +52,5 @@ Venue | Address | Details
 --- | --- | ---
 Indoor Sports Centre | Sport, Exercise and Health, Tyndall Avenue, Bristol, BS8 1TP | Main training location. Courts bookable online.
 Kingsdown Sports Centre | Portland Street, Bristol, BS2 8HL | Used as and when required. Courts bookable online.
-Coombe Dingle | Coombe Ln, Bristol BS9 2BJ | Used for coached S&C
+Bristol Grammar School | Entrance via Outdoor Stairs on Elmdale Road | Pathway to Development Coaching only
+Coombe Dingle Sports Complex | Coombe Ln, Bristol BS9 2BJ | Used for coached S&C
