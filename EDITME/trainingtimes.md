@@ -31,7 +31,7 @@ Monday | 13:30 - 14:30 | Indoor Sports Centre | 6 | On-court session
 Tuesday | 15:00 - 17:00 | Indoor Sports Centre | 3 | On-court session
 Thursday | 9:30 - 11:30 | Indoor Sports Centre | 6 | On-court session
 Thursday | 13:30 - 15:30 | Indoor Sports Centre | 6 | On-court session
-Friday | 19:15-21:00 | Pathway to Development at Bristol Grammar School | 5 | Advanced Social Coaching
+Friday | 19:45-20:45 | Pathway to Development at Bristol Grammar School | 5 | Advanced Social Coaching
 Sunday | TBC | Intramural | TBC | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
 Sunday |10:00-11:00| Social Coaching at Kingsdown Sport Center | 5 | Social Coaching
 Sunday |11:00-12:00| Kingsdown Sports Centre | 5 | On-court session
