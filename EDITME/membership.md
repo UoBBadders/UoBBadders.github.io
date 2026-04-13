@@ -5,14 +5,12 @@ This is for strong and committed players wanting to compete for the University a
 - Weekly training times and coaching detailed above during term-time.
 - Access to 4 weeks intensive pre-season on-court training and coached strength and conditioning before the academic year.
 - Opportunity to compete for the University in BUCS matches.
-- Access to a 1 week intensive summer camp of varied training and matchplay.
 - Access to all society socials and events.
 
 #### Development Membership:
 This is for players at a lower level than Performance looking for the opportunity to train, compete and improve, or perhaps prefering a lower training committment. Membership includes:
 - Weekly training times and coaching detailed above during term-time.
 - Opportunity to represent the club in Sunday Local League matches against other local badminton clubs.
-- Access to a 1 week intensive summer camp of varied training and matchplay (if aiming for Performance Squad level).
 - Access to all society socials and events.
 
 #### Social Membership:
@@ -20,7 +18,7 @@ This is for anyone who would like to be a member of the club. Whether you have n
 - Weekly games during the court times detailed above through term-time. 
 - Access to all society socials and events.
 
-Check out the membership tariffs below for the 2021-2022 academic year. For those who are only around for half of the academic year, we offer half year memberships. 
+Check out the membership tariffs below for the 2025-2026 academic year. For those who are only around for half of the academic year, we offer half year memberships. 
 
 Membership | Full Year Price £ | Half Year Price £ | 
 --- | --- | ---
