@@ -742,6 +742,72 @@ div#alumni div#container div#buttons a div.button {
     }
 }
 
+div#clubpolicies div#container {
+    width: 60%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 20px 0
+}
+
+@media all and (max-width:1800px) {
+    div#clubpolicies div#container {
+        width: 80%
+    }
+}
+
+@media all and (max-width:1200px) {
+    div#clubpolicies div#container {
+        width: calc(100% - 40px)
+    }
+}
+
+div#clubpolicies div#container div#buttons {
+    padding-top: 10px
+}
+
+div#clubpolicies div#container div#buttons a div.button {
+    display: block;
+    margin: 40px auto
+}
+
+@media all and (min-width:901px) {
+    div#clubpolicies div#container div#buttons {
+        display: block;
+        text-align: center
+    }
+
+    div#clubpolicies div#container div#buttons a div.button {
+        text-align: initial;
+        display: inline-block;
+        width: 40%;
+        margin: 0 24px
+    }
+
+    div#clubpolicies div#container div[marked] {
+        display: inline-block;
+        width: 50%
+    }
+}
+
+@media all and (max-width:900px) {
+    div#clubpolicies div#container div#buttons {
+        display: block;
+        vertical-align: top
+    }
+
+    div#clubpolicies div#container div#buttons a div.button {
+        width: calc(100% - 20px)
+    }
+
+    div#clubpolicies div#container div#buttons a div.button span {
+        font-size: 10px
+    }
+
+    div#clubpolicies div#container div#buttons a div.button img {
+        display: none
+    }
+}
+
 div#gallery {
     box-sizing: border-box;
     padding: 20px 0
