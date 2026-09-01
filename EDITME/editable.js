@@ -125,7 +125,7 @@ app.constant('committee', [
   ] , 
   [ // Second tier
     {
-      image: 'meeee.jpeg',
+      image: 'fin.jpg',
       name: 'Fin Thompson',
       position: 'Secretary',
       email: 'pm24920@bristol.ac.uk'
@@ -149,7 +149,7 @@ app.constant('committee', [
       email: 'ak24059@bristol.ac.uk'
     }, {
       image: 'myqueen.jpg',
-      name: 'Priya big booty basnet',
+      name: 'Priya Basnet',
       position: 'Alumni Secretary',
       email: 'priya.basnet.2021@bristol.ac.uk'
     },  {
