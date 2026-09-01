@@ -194,12 +194,12 @@ app.constant('captains', [
     {
       image: 'sneha.jpg',
       name: 'Sneha Jogi',
-      position: 'Women/'s Performance Captain',
+      position: 'Women\'s Performance Captain',
       email: 'wq23445@bristol.ac.uk'
     }, {
       image: 'nicholas.jpg',
       name: 'Nicholas Tan',
-      position: 'Men/'s Performance Captain',
+      position: 'Men\'s Performance Captain',
       email: 'qy24093@bristol.ac.uk'
     }
   ],
