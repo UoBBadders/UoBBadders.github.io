@@ -6,7 +6,7 @@ These times are only provisional and are subject to change.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Thursday | 19:30 - 21:30 | Indoor Sports Centre | 6 | On-court training & matchplay
+Thursday | 19:30 - 22:30 | Indoor Sports Centre | 6 | On-court training & matchplay
 Saturday | 13:00 - 15:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
 Sunday | 14:00 - 16:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
 
