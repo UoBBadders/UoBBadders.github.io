@@ -178,7 +178,7 @@ app.constant('committee', [
       position: 'Coaching Officer',
       email: 'ax21801@bristol.ac.uk'
     }
-  ],
+  ]
   // ---- END EDIT HERE ----
 ]);
 
