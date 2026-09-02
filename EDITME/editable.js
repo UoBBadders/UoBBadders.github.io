@@ -114,12 +114,12 @@ app.constant('committee', [
     {
       image: 'androo.jpg',
       name: 'Andrew Dunkley ',
-      position: 'Club Captain',
+      position: 'President',
       email: 'sq23849@bristol.ac.uk'
     }, {
       image: 'sharingiscaring.jpg',
       name: 'Sharlene Careng',
-      position: 'Vice-Club Captain',
+      position: 'Vice-President',
       email: 'kr25688@bristol.ac.uk'
     }
   ] , 
@@ -175,8 +175,8 @@ app.constant('committee', [
     }, {
       image: 'peetahthehorseishere.jpg',
       name: 'Peter Shield',
-      position: 'Coaching officer',
-      emial: 'ax21801@bristol.ac.uk'
+      position: 'Coaching Officer',
+      email: 'ax21801@bristol.ac.uk'
     }
   ],
   // ---- END EDIT HERE ----
@@ -225,7 +225,7 @@ app.constant('captains', [
     }, {
       image: 'chengrun.jpg',
       name: 'Chengrun Shi',
-      position: 'Social Vice Captain',
+      position: 'Social Vice-Captain',
       email: 'ol24020@bristol.ac.uk'
     }
   ]
