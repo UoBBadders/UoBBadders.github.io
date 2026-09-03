@@ -6,9 +6,10 @@ These times are only provisional and are subject to change.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-TBC | TBC - TBC | Indoor Sports Centre | 6 | On-court training & matchplay
-TBC | TBC - TBC | Indoor Sports Centre | 6 | Coached training & Matchplay
-TBC | TBC - TBC | Indoor Sports Centre | 6 | Coached training & Matchplay
+Monday  | 16:00 - 18:00 | Kingsdown Sports Centre | 5->3 | On-court training & Matchplay
+Thursday | 19:30 - 21:30 | Indoor Sports Centre | 6 | Coached training & Matchplay
+Sunday | 14:00 - 15:30 | Indoor Sports Centre | 6 | Coached training & Matchplay
+Sunday | 15:30 - 17:00 | Indoor Sports Centre | 3 | Coached training & Matchplay
 
 # Development Squad
 
@@ -16,22 +17,22 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-TBC |TBC | Indoor Sports Centre | 6 | On-court training, matchplay
-TBC |TBC |  Indoor Sports Centre   | 3 | Coached training & matchplay
+Tuesday |20:30 - 22:30 | Indoor Sports Centre | 6 | On-court training & Matchplay + Local League
+Saturday | 12:30 - 14:00 |  Indoor Sports Centre | 6 | Coached training & Matchplay
+Sunday | 17:00 - 18:30 | Indoor Sports Centre | 3 | Coached training & Matchplay
 
 # Social Squad
 
-Our social section is open to everyone and is a great way to get involved with badminton. Friendly matches and games are played throughout this session and are put on according to standard so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone!
+Everyone is welcome in the Social Squad, it is a great way to get involved with badminton! Friendly matches and games are played throughout this session so no need to worry if you have never picked up a racket before or have played for many years, you won't be alone!
 
 Day | Time | Venue | Courts | Session Details
 --- | -----| ----- | --- | ---
-TBC | TBC | Indoor Sports Centre | 6 | On-court session
-TBC | TBC | Indoor Sports Centre | 3 | On-court session
-TBC | TBC | Indoor Sports Centre | 6 | On-court session
-TBC | TBC | Indoor Sports Centre | 6 | On-court session
-TBC | TBC | Intramural | TBC| Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
-TBC |TBC| TBC | 5 | Social Coaching
-TBC |TBC| TBC | 5 | On-court session
+Tuesday | 10:00 - 12:00 | Indoor Sports Centre | 6 | On-court session
+Tuesday | 14:00 - 15:00 | Indoor Sports Centre | 6 | On-court session
+Tuesday | 15:00 - 17:00 | Indoor Sports Centre | 3 | On-court session
+Thursday | 9:30 - 11:30 | Indoor Sports Centre | 6 | On-court session
+Friday | 19:45 - 20:45 | Bristol Grammar School | 5 | On-court session
+Sunday | 10:00 - 11:00 | Indoor Sports Centre | 6 | Social Coaching
 
 # Disability Badminton
 
@@ -39,7 +40,7 @@ Disability badminton is an open and friendly environment catering for all staff,
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-TBC | TBC | Indoor Sports Centre | 1 | On-court session
+TBC | TBC | Indoor Sports Centre | TBC | On-court session
 
 # Training Venues
 
