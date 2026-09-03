@@ -6,9 +6,9 @@ These times are only provisional and are subject to change.
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Thursday | 19:30 - 22:30 | Indoor Sports Centre | 6 | On-court training & matchplay
-Saturday | 13:00 - 15:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
-Sunday | 14:00 - 16:00 | Indoor Sports Centre | 6 | Coached training & Matchplay
+TBC | TBC - TBC | Indoor Sports Centre | 6 | On-court training & matchplay
+TBC | TBC - TBC | Indoor Sports Centre | 6 | Coached training & Matchplay
+TBC | TBC - TBC | Indoor Sports Centre | 6 | Coached training & Matchplay
 
 # Development Squad
 
@@ -16,8 +16,8 @@ The Development squad is made up of around 50 players and offers a competitive s
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Tuesday | 20:30 - 22:30 | Indoor Sports Centre | 6 | On-court training, matchplay
-Sunday | 16:00-19:00 |  Indoor Sports Centre   | 3 | Coached training & matchplay
+TBC |TBC | Indoor Sports Centre | 6 | On-court training, matchplay
+TBC |TBC |  Indoor Sports Centre   | 3 | Coached training & matchplay
 
 # Social Squad
 
@@ -25,14 +25,13 @@ Our social section is open to everyone and is a great way to get involved with b
 
 Day | Time | Venue | Courts | Session Details
 --- | -----| ----- | --- | ---
-Monday | 13:30 - 14:30 | Indoor Sports Centre | 6 | On-court session
-Tuesday | 15:00 - 17:00 | Indoor Sports Centre | 3 | On-court session
-Thursday | 9:30 - 11:30 | Indoor Sports Centre | 6 | On-court session
-Thursday | 13:30 - 15:30 | Indoor Sports Centre | 6 | On-court session
-Friday | 19:45-20:45 | Pathway to Development at Bristol Grammar School | 5 | Advanced Social Coaching
-Saturday | 15:00-17:00 | Intramural | Bristol Grammar School | Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
-Sunday |10:00-11:00| Social Coaching at Kingsdown Sport Center | 5 | Social Coaching
-Sunday |11:00-12:00| Kingsdown Sports Centre | 5 | On-court session
+TBC | TBC | Indoor Sports Centre | 6 | On-court session
+TBC | TBC | Indoor Sports Centre | 3 | On-court session
+TBC | TBC | Indoor Sports Centre | 6 | On-court session
+TBC | TBC | Indoor Sports Centre | 6 | On-court session
+TBC | TBC | Intramural | TBC| Intramural - Create your team here: https://www.bristolsu.org.uk/student-groups/intramural
+TBC |TBC| TBC | 5 | Social Coaching
+TBC |TBC| TBC | 5 | On-court session
 
 # Disability Badminton
 
@@ -40,7 +39,7 @@ Disability badminton is an open and friendly environment catering for all staff,
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-Sunday | 14.00-16.00 | Indoor Sports Centre | 1 | On-court session
+TBC | TBC | Indoor Sports Centre | 1 | On-court session
 
 # Training Venues
 
