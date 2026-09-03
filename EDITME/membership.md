@@ -22,9 +22,9 @@ Check out the membership tariffs below for the 2025-2026 academic year. For thos
 
 Membership | Full Year Price £ | Half Year Price £ | 
 --- | --- | ---
-Social | 50 | 30
-Development | 120 | 70
-Performance | 170 (+£10 match shirt add-on) | 90 (+£10 match shirt add-on)
+Social | TBC | TBC
+Development | TBC | TBC
+Performance | TBC (+£TBC match shirt add-on) | TBC (+£TBC match shirt add-on)
 
 
 All memberships also require students to hold an [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/). The [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/) requires a one-off payment of £25 which goes directly to SEH (the sports facilities provider), not the badminton club, and will permit you access to the sports facilities. This single payment of £25 is made via the Bristol SU website when joining any sports club. Please note: you only need to buy the [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/) ONCE, even if you join multiple sports clubs. For more information, click this link: [SEH Access Pass](http://www.bristol.ac.uk/sport/memberships/student/), scroll down to "Helpful information & Troubleshooting" and read the section titled "Sports Clubs".
