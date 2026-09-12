@@ -23,8 +23,8 @@ Check out the membership tariffs below for the 2025-2026 academic year. For thos
 Membership | Full Year Price £ | Half Year Price £ | 
 --- | --- | ---
 Social | 50 | 35
-Development | 120 | 75
-Performance | 170 (+10 match shirt add-on) | 100 (+10 match shirt add-on)
+Development | 125 | 75
+Performance | 180 (+10 match shirt add-on) | 100 (+10 match shirt add-on)
 Disability | 5 | N/A
 
 
