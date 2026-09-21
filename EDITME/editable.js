@@ -248,8 +248,8 @@ app.constant('coaches', [
    }, {
     image: 'serenuh.jpeg',
     name: 'Serena Farrelly',
-    position: 'Development Sqaud Coach',
-    details: 'We are thrilled to have Serena coaching our Development Squad this year. Serena is a proud UoBBC alumni and currently plays for Bristol and District Badminton Club and represents the Bristol Bullets in the National Badminton League. She has years of coaching experience under her belt and is well known in the club for her success in our Women's 1 BUCS team. The club is excited to work with her to take our development squad to new heights!', 
+    position: 'Development Squad Coach',
+    details: "We are thrilled to have Serena coaching our Development Squad this year. Serena is a proud UoBBC alumni and currently plays for Bristol and District Badminton Club and represents the Bristol Bullets in the National Badminton League. She has years of coaching experience under her belt and is well known in the club for her success in our Women's 1 BUCS team. The club is excited to work with her to take our development squad to new heights!", 
   }
     
   // ---- END EDIT HERE ----
