@@ -206,7 +206,7 @@ app.constant('captains', [
   [ // Dev
     {
       image: 'jona.jpg',
-      name: 'Jona Prakesh',
+      name: 'Jona Prakash',
       position: 'Women\'s Development Captain',
       email: 'ef23710@bristol.ac.uk'
     }, {
