@@ -40,7 +40,7 @@ Disability badminton is an open and friendly environment catering for all staff,
 
 Day | Time | Venue | Courts | Session Details
 --- | --- | --- | --- | ---
-TBC | TBC | Indoor Sports Centre | TBC | On-court session
+Tuesday | 10:00 - 12:00 | Indoor Sports Centre | 1 | On-court session
 
 # Training Venues
 
